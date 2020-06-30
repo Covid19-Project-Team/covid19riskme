@@ -1,1 +1,3 @@
 # covid19riskme
+
+![build tag](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiQ2NvY3UvWGVwV3N3a2ZLbFlsbzc4UElpNW92N2VFWUFmbzRjemREZjNpQUhBR0lKSVBZbDF5K1dBYkkwaVZIUmNLM3IxbE1PVEpwQ1dTNkkrR3QzVjNvPSIsIml2UGFyYW1ldGVyU3BlYyI6ImtkOC94eTEySTdUeVp2a3AiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
