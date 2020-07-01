@@ -6,10 +6,10 @@ import './App.css';
 class App extends Component {
   
     componentWillMount() {
-    this.getUser();
+    this.getJSON();
   }
   
-  getUser() {
+  getJSON() {
     fetch('http://localhost:8080/sample.json')
     .then(response => {
       if(response.ok) return response.json();
