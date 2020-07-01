@@ -10,7 +10,7 @@ class App extends Component {
   }
   
   getJSON() {
-    fetch('http://localhost:8080/sample.json')
+    fetch('https://raw.githubusercontent.com/Covid19-Project-Team/covid19riskme/master/backend/sample.json')
     .then(response => {
       if(response.ok) return response.json();
       throw new Error('Request failed.');
