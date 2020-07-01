@@ -1,8 +1,26 @@
 import React, { Component } from 'react';
+import fetch from 'isomorphic-fetch'
 import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
+  
+    componentWillMount() {
+    this.getUser();
+  }
+  
+  getUser() {
+    fetch('http://localhost:8080/sample.json')
+    .then(response => {
+      if(response.ok) return response.json();
+      throw new Error('Request failed.');
+    })
+    .then(data => console.log(data))
+    .catch(error => {
+      console.log(error);
+    });
+  }
+  
   render() {
     return (
       <div className="App">

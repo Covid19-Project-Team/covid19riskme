@@ -1,0 +1,8 @@
+{
+  "traviscounty": {
+    "activeinfections": 5,
+    "deaths": 2,
+    "population": 420,
+    "hospitalbeds": 10
+  }
+}
