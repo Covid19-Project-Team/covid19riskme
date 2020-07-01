@@ -10,7 +10,7 @@ class App extends Component {
   }
   
   getJSON() {
-    fetch('https://raw.githubusercontent.com/Covid19-Project-Team/covid19riskme/master/backend/sample.json')
+    fetch(process.env.REACT_APP_API)
     .then(response => {
       if(response.ok) return response.json();
       throw new Error('Request failed.');
