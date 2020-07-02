@@ -1,0 +1,9 @@
+In this directory run the command:
+pip install -r requirements.txt
+
+If you have no pip, please get it, Git Bash or Google other means
+
+Currently the python scripts only do Texas.
+In this order:
+python getstatetables.py
+python tabletojson.py
