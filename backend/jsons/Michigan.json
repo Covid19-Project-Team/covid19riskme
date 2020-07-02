@@ -1,0 +1,437 @@
+{
+	"Alcona" : {
+		"cases" : 18,
+		"deaths" : 1,
+		"population" : 10362
+		},
+	"Alger" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 9097
+		},
+	"Allegan" : {
+		"cases" : 278,
+		"deaths" : 7,
+		"population" : 118081
+		},
+	"Alpena" : {
+		"cases" : 110,
+		"deaths" : 11,
+		"population" : 28360
+		},
+	"Antrim" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 23365
+		},
+	"Arenac" : {
+		"cases" : 35,
+		"deaths" : 2,
+		"population" : 15041
+		},
+	"Baraga" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 8320
+		},
+	"Barry" : {
+		"cases" : 84,
+		"deaths" : 2,
+		"population" : 61157
+		},
+	"Bay" : {
+		"cases" : 354,
+		"deaths" : 29,
+		"population" : 103923
+		},
+	"Benzie" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 17753
+		},
+	"Berrien" : {
+		"cases" : 736,
+		"deaths" : 60,
+		"population" : 153401
+		},
+	"Branch" : {
+		"cases" : 243,
+		"deaths" : 2,
+		"population" : 43622
+		},
+	"Calhoun" : {
+		"cases" : 475,
+		"deaths" : 32,
+		"population" : 134159
+		},
+	"Cass" : {
+		"cases" : 134,
+		"deaths" : 5,
+		"population" : 51653
+		},
+	"Charlevoix" : {
+		"cases" : 23,
+		"deaths" : 2,
+		"population" : 26244
+		},
+	"Cheboygan" : {
+		"cases" : 22,
+		"deaths" : 2,
+		"population" : 25413
+		},
+	"Chippewa" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 37517
+		},
+	"Clare" : {
+		"cases" : 27,
+		"deaths" : 3,
+		"population" : 30757
+		},
+	"Clinton" : {
+		"cases" : 182,
+		"deaths" : 12,
+		"population" : 79332
+		},
+	"Crawford" : {
+		"cases" : 65,
+		"deaths" : 5,
+		"population" : 13901
+		},
+	"Delta" : {
+		"cases" : 21,
+		"deaths" : 3,
+		"population" : 35857
+		},
+	"Dickinson" : {
+		"cases" : 6,
+		"deaths" : 2,
+		"population" : 25383
+		},
+	"Eaton" : {
+		"cases" : 254,
+		"deaths" : 7,
+		"population" : 109826
+		},
+	"Emmet" : {
+		"cases" : 24,
+		"deaths" : 2,
+		"population" : 33308
+		},
+	"Genesee" : {
+		"cases" : 2196,
+		"deaths" : 263,
+		"population" : 405813
+		},
+	"Gladwin" : {
+		"cases" : 26,
+		"deaths" : 1,
+		"population" : 25337
+		},
+	"Gogebic" : {
+		"cases" : 7,
+		"deaths" : 1,
+		"population" : 15096
+		},
+	"Grand Traverse" : {
+		"cases" : 48,
+		"deaths" : 5,
+		"population" : 92573
+		},
+	"Gratiot" : {
+		"cases" : 82,
+		"deaths" : 13,
+		"population" : 40599
+		},
+	"Hillsdale" : {
+		"cases" : 182,
+		"deaths" : 25,
+		"population" : 45749
+		},
+	"Houghton" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 36219
+		},
+	"Huron" : {
+		"cases" : 57,
+		"deaths" : 3,
+		"population" : 31166
+		},
+	"Ingham" : {
+		"cases" : 999,
+		"deaths" : 29,
+		"population" : 292406
+		},
+	"Ionia" : {
+		"cases" : 174,
+		"deaths" : 4,
+		"population" : 64210
+		},
+	"Iosco" : {
+		"cases" : 99,
+		"deaths" : 10,
+		"population" : 25081
+		},
+	"Iron" : {
+		"cases" : 5,
+		"deaths" : 1,
+		"population" : 11117
+		},
+	"Isabella" : {
+		"cases" : 106,
+		"deaths" : 8,
+		"population" : 70562
+		},
+	"Jackson" : {
+		"cases" : 492,
+		"deaths" : 29,
+		"population" : 158510
+		},
+	"Kalamazoo" : {
+		"cases" : 1017,
+		"deaths" : 67,
+		"population" : 265066
+		},
+	"Kalkaska" : {
+		"cases" : 22,
+		"deaths" : 2,
+		"population" : 17824
+		},
+	"Kent" : {
+		"cases" : 4533,
+		"deaths" : 131,
+		"population" : 656955
+		},
+	"Keweenaw" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2113
+		},
+	"Lake" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 11881
+		},
+	"Lapeer" : {
+		"cases" : 252,
+		"deaths" : 30,
+		"population" : 88028
+		},
+	"Leelanau" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 21764
+		},
+	"Lenawee" : {
+		"cases" : 182,
+		"deaths" : 6,
+		"population" : 98266
+		},
+	"Livingston" : {
+		"cases" : 459,
+		"deaths" : 27,
+		"population" : 191995
+		},
+	"Luce" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 6283
+		},
+	"Mackinac" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 10787
+		},
+	"Macomb" : {
+		"cases" : 7194,
+		"deaths" : 879,
+		"population" : 873972
+		},
+	"Manistee" : {
+		"cases" : 16,
+		"deaths" : 0,
+		"population" : 24528
+		},
+	"Marquette" : {
+		"cases" : 65,
+		"deaths" : 11,
+		"population" : 66516
+		},
+	"Mason" : {
+		"cases" : 47,
+		"deaths" : 0,
+		"population" : 29100
+		},
+	"Mecosta" : {
+		"cases" : 26,
+		"deaths" : 2,
+		"population" : 43545
+		},
+	"Menominee" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 22983
+		},
+	"Midland" : {
+		"cases" : 127,
+		"deaths" : 9,
+		"population" : 83209
+		},
+	"Missaukee" : {
+		"cases" : 20,
+		"deaths" : 1,
+		"population" : 15113
+		},
+	"Monroe" : {
+		"cases" : 532,
+		"deaths" : 20,
+		"population" : 150500
+		},
+	"Montcalm" : {
+		"cases" : 85,
+		"deaths" : 1,
+		"population" : 63968
+		},
+	"Montmorency" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 9265
+		},
+	"Muskegon" : {
+		"cases" : 807,
+		"deaths" : 51,
+		"population" : 173566
+		},
+	"Newaygo" : {
+		"cases" : 164,
+		"deaths" : 0,
+		"population" : 48892
+		},
+	"Oakland" : {
+		"cases" : 8922,
+		"deaths" : 1049,
+		"population" : 1257584
+		},
+	"Oceana" : {
+		"cases" : 283,
+		"deaths" : 3,
+		"population" : 26625
+		},
+	"Ogemaw" : {
+		"cases" : 23,
+		"deaths" : 2,
+		"population" : 20952
+		},
+	"Ontonagon" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 5795
+		},
+	"Osceola" : {
+		"cases" : 24,
+		"deaths" : 0,
+		"population" : 23341
+		},
+	"Oscoda" : {
+		"cases" : 15,
+		"deaths" : 1,
+		"population" : 8276
+		},
+	"Otsego" : {
+		"cases" : 104,
+		"deaths" : 10,
+		"population" : 24665
+		},
+	"Ottawa" : {
+		"cases" : 972,
+		"deaths" : 46,
+		"population" : 291830
+		},
+	"Presque Isle" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 12738
+		},
+	"Roscommon" : {
+		"cases" : 23,
+		"deaths" : 0,
+		"population" : 23884
+		},
+	"Saginaw" : {
+		"cases" : 1230,
+		"deaths" : 120,
+		"population" : 190539
+		},
+	"Sanilac" : {
+		"cases" : 47,
+		"deaths" : 5,
+		"population" : 41182
+		},
+	"Schoolcraft" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 8068
+		},
+	"Shiawassee" : {
+		"cases" : 250,
+		"deaths" : 27,
+		"population" : 68192
+		},
+	"St. Clair" : {
+		"cases" : 493,
+		"deaths" : 49,
+		"population" : 159128
+		},
+	"St. Joseph" : {
+		"cases" : 297,
+		"deaths" : 4,
+		"population" : 61043
+		},
+	"Tuscola" : {
+		"cases" : 227,
+		"deaths" : 26,
+		"population" : 52516
+		},
+	"Van Buren" : {
+		"cases" : 204,
+		"deaths" : 7,
+		"population" : 75448
+		},
+	"Washtenaw" : {
+		"cases" : 1493,
+		"deaths" : 105,
+		"population" : 367601
+		},
+	"Wayne" : {
+		"cases" : 21931,
+		"deaths" : 2602,
+		"population" : 1749343
+		},
+	"Wexford" : {
+		"cases" : 26,
+		"deaths" : 4,
+		"population" : 33466
+		},
+	"MDOC" : {
+		"cases" : 4106,
+		"deaths" : 68,
+		"population" : "NaN"
+		},
+	"FCI Milan" : {
+		"cases" : 179,
+		"deaths" : 5,
+		"population" : 1600
+		},
+	"Unknown" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : "NaN"
+		},
+	"Out of State" : {
+		"cases" : 37,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

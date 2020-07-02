@@ -1,9 +1,13 @@
+Python 3.8.4
 In this directory run the command:
 pip install -r requirements.txt
 
 If you have no pip, please get it, Git Bash or Google other means
 
-Currently the python scripts only do Texas.
+Create directories:
+mkdir jsons
+mkdir tables
+
 In this order:
 python getstatetables.py
 python tabletojson.py

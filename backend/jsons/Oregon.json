@@ -1,0 +1,182 @@
+{
+	"Baker" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 16124
+		},
+	"Benton" : {
+		"cases" : 84,
+		"deaths" : 5,
+		"population" : 93053
+		},
+	"Clackamas" : {
+		"cases" : 751,
+		"deaths" : 24,
+		"population" : 418187
+		},
+	"Clatsop" : {
+		"cases" : 49,
+		"deaths" : 0,
+		"population" : 40224
+		},
+	"Columbia" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 52354
+		},
+	"Coos" : {
+		"cases" : 41,
+		"deaths" : 0,
+		"population" : 64487
+		},
+	"Crook" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 24404
+		},
+	"Curry" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 22925
+		},
+	"Deschutes" : {
+		"cases" : 183,
+		"deaths" : 0,
+		"population" : 197692
+		},
+	"Douglas" : {
+		"cases" : 42,
+		"deaths" : 0,
+		"population" : 110980
+		},
+	"Gilliam" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1912
+		},
+	"Grant" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 7199
+		},
+	"Harney" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 7393
+		},
+	"Hood River" : {
+		"cases" : 88,
+		"deaths" : 0,
+		"population" : 23382
+		},
+	"Jackson" : {
+		"cases" : 117,
+		"deaths" : 0,
+		"population" : 220944
+		},
+	"Jefferson" : {
+		"cases" : 118,
+		"deaths" : 0,
+		"population" : 24658
+		},
+	"Josephine" : {
+		"cases" : 33,
+		"deaths" : 1,
+		"population" : 87487
+		},
+	"Klamath" : {
+		"cases" : 123,
+		"deaths" : 0,
+		"population" : 68238
+		},
+	"Lake" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 7869
+		},
+	"Lane" : {
+		"cases" : 165,
+		"deaths" : 3,
+		"population" : 382067
+		},
+	"Lincoln" : {
+		"cases" : 324,
+		"deaths" : 2,
+		"population" : 49962
+		},
+	"Linn" : {
+		"cases" : 151,
+		"deaths" : 9,
+		"population" : 129749
+		},
+	"Malheur" : {
+		"cases" : 124,
+		"deaths" : 1,
+		"population" : 30571
+		},
+	"Marion" : {
+		"cases" : 1539,
+		"deaths" : 47,
+		"population" : 347818
+		},
+	"Morrow" : {
+		"cases" : 64,
+		"deaths" : 1,
+		"population" : 11603
+		},
+	"Multnomah" : {
+		"cases" : 2239,
+		"deaths" : 69,
+		"population" : 812855
+		},
+	"Polk" : {
+		"cases" : 149,
+		"deaths" : 12,
+		"population" : 86085
+		},
+	"Sherman" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 1780
+		},
+	"Tillamook" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 27036
+		},
+	"Umatilla" : {
+		"cases" : 533,
+		"deaths" : 4,
+		"population" : 77950
+		},
+	"Union" : {
+		"cases" : 342,
+		"deaths" : 1,
+		"population" : 26835
+		},
+	"Wallowa" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 7208
+		},
+	"Wasco" : {
+		"cases" : 73,
+		"deaths" : 1,
+		"population" : 26682
+		},
+	"Washington" : {
+		"cases" : 1379,
+		"deaths" : 20,
+		"population" : 601592
+		},
+	"Wheeler" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1332
+		},
+	"Yamhill" : {
+		"cases" : 126,
+		"deaths" : 8,
+		"population" : 107100
+		}
+}

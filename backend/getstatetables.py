@@ -25,7 +25,7 @@ states_dict = {
     "Maine" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Maine",
     #"Maryland" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Maryland",
     "Massachusetts" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Massachusetts",
-    #"Michigan" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Michigan",
+    "Michigan" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Michigan",
     "Minnesota" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Minnesota",
     "Mississippi" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Mississippi",
     "Missouri" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Missouri",
@@ -35,12 +35,12 @@ states_dict = {
     #"New Hampshire" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_Hampshire",
     "New Jersey" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_Jersey",
     "New Mexico" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_Mexico",
-    #"New York" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_(state)",
+    "New York" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_(state)",
     "North Carolina" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_North_Carolina",
     "North Dakota" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_North_Dakota",
     "Ohio" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Ohio",
     "Oklahoma" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Oklahoma",
-    #"Oregon" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Oregon",
+    "Oregon" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Oregon",
     "Pennsylvania" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Pennsylvania",
     "Puerto Rico" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Puerto_Rico",
     "Rhode Island" : "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Rhode_Island",
@@ -131,6 +131,11 @@ def outputFromState(state, url):
 
 	soup = BeautifulSoup(wiki, "lxml")
 	right_table = soup.find('table', class_='wikitable')
+	#print(right_table)
+	#new york has a table before this table
+	if state == "New York" or state == "Oregon":
+		right_table = soup.findAll('table', class_= 'wikitable')[1]
+
 	if right_table is None:
 		print("THIS STATE NO TABLE FOUND" + state)
 		return
@@ -178,7 +183,10 @@ def outputFromState(state, url):
 	deaths_i -= 1 if deaths_i > 0 else 0
 	pop_i -= 1 if pop_i > 0 else 0
 
-
+	if(state == "Michigan"):
+		cases_i += 1
+		deaths_i += 1
+		pop_i += 1
 	
 	print("cases i ",cases_i )
 	print("deaths i ", deaths_i if deaths_i != 0 else str(deaths_i) + " Maybe Wrong")
@@ -200,15 +208,23 @@ def outputFromState(state, url):
 		if len(cells) == data_length:
 			#print(cells)
 			countyth = row.findAll("th")
+
 			countyth_idx = 0 if state != "Wisconsin" else 1 # wisconsin is special
 
-			if countyth is None or len(countyth) == 0:
+			if (countyth is None or len(countyth) == 0) and state != "Michigan":
 				print(state + " ERROR")
 				print(countyth)
 				print(row)
 				return
 
-			county["name"] = str(countyth[countyth_idx].find(text=True).replace("\n","").replace(",",""))
+			county_name_element = "placeholder"			
+			if(state == "Michigan"):
+				county_name_element = row.findAll("td")[0]
+				#print(county_name_element.find(text=True).replace("\n","").replace(",",""))
+			else:
+				county_name_element = countyth[countyth_idx]
+
+			county["name"] = str(county_name_element.find(text=True).replace("\n","").replace(",",""))
 			county["cases"] = str(cells[cases_i].find(text=True).replace("\n","").replace(",",""))
 			county["deaths"] = str(cells[deaths_i].find(text=True).replace("\n","").replace(",",""))
 			county["population"] = str(cells[pop_i].find(text=True).replace("\n","").replace(",",""))
@@ -217,6 +233,8 @@ def outputFromState(state, url):
 			output = output + str(county["cases"]) + "\t"
 			output = output + str(county["deaths"]) + "\t"
 			output = output + str(county["population"]) + "\n"
+
+			#print(county["name"])
 			#print(county, cells[0].find(text=True), cells[1].find(text=True), cells[2].find(text=True))
 
 	wiki_file.write(output)
