@@ -1,0 +1,467 @@
+{
+	"Adams" : {
+		"cases" : 294,
+		"deaths" : 11,
+		"population" : 31511
+		},
+	"Antelope" : {
+		"cases" : 9,
+		"deaths" : 1,
+		"population" : 6336
+		},
+	"Arthur" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 465
+		},
+	"Banner" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 730
+		},
+	"Blaine" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 476
+		},
+	"Boone" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 5239
+		},
+	"Box Butte" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 10772
+		},
+	"Boyd" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 1955
+		},
+	"Brown" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2973
+		},
+	"Buffalo" : {
+		"cases" : 184,
+		"deaths" : 1,
+		"population" : 49615
+		},
+	"Burt" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 6488
+		},
+	"Butler" : {
+		"cases" : 51,
+		"deaths" : 0,
+		"population" : 8058
+		},
+	"Cass" : {
+		"cases" : 66,
+		"deaths" : 1,
+		"population" : 26159
+		},
+	"Cedar" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 8446
+		},
+	"Chase" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 3977
+		},
+	"Cherry" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 5761
+		},
+	"Cheyenne" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 9310
+		},
+	"Clay" : {
+		"cases" : 27,
+		"deaths" : 0,
+		"population" : 6214
+		},
+	"Colfax" : {
+		"cases" : 668,
+		"deaths" : 4,
+		"population" : 10881
+		},
+	"Cuming" : {
+		"cases" : 35,
+		"deaths" : 0,
+		"population" : 8940
+		},
+	"Custer" : {
+		"cases" : 40,
+		"deaths" : 4,
+		"population" : 10840
+		},
+	"Dakota" : {
+		"cases" : 1759,
+		"deaths" : 31,
+		"population" : 20083
+		},
+	"Dawes" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 8716
+		},
+	"Dawson" : {
+		"cases" : 857,
+		"deaths" : 8,
+		"population" : 23709
+		},
+	"Deuel" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1825
+		},
+	"Dixon" : {
+		"cases" : 48,
+		"deaths" : 2,
+		"population" : 5709
+		},
+	"Dodge" : {
+		"cases" : 687,
+		"deaths" : 8,
+		"population" : 36791
+		},
+	"Douglas" : {
+		"cases" : 7084,
+		"deaths" : 93,
+		"population" : 566880
+		},
+	"Dundy" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1770
+		},
+	"Fillmore" : {
+		"cases" : 14,
+		"deaths" : 1,
+		"population" : 5527
+		},
+	"Franklin" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 3023
+		},
+	"Frontier" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2608
+		},
+	"Furnas" : {
+		"cases" : 10,
+		"deaths" : 1,
+		"population" : 4715
+		},
+	"Gage" : {
+		"cases" : 52,
+		"deaths" : 4,
+		"population" : 21493
+		},
+	"Garden" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 1897
+		},
+	"Garfield" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 1987
+		},
+	"Gosper" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 1996
+		},
+	"Grant" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 660
+		},
+	"Greeley" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 2356
+		},
+	"Hall" : {
+		"cases" : 1591,
+		"deaths" : 47,
+		"population" : 61607
+		},
+	"Hamilton" : {
+		"cases" : 64,
+		"deaths" : 12,
+		"population" : 9280
+		},
+	"Harlan" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 3401
+		},
+	"Hayes" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 916
+		},
+	"Hitchcock" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2806
+		},
+	"Holt" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 10178
+		},
+	"Hooker" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 682
+		},
+	"Howard" : {
+		"cases" : 46,
+		"deaths" : 4,
+		"population" : 6468
+		},
+	"Jefferson" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 7097
+		},
+	"Johnson" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 5134
+		},
+	"Kearney" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 6544
+		},
+	"Keith" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 8021
+		},
+	"Keya Paha" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 810
+		},
+	"Kimball" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 3618
+		},
+	"Knox" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 8419
+		},
+	"Lancaster" : {
+		"cases" : 1723,
+		"deaths" : 12,
+		"population" : 317272
+		},
+	"Lincoln" : {
+		"cases" : 57,
+		"deaths" : 2,
+		"population" : 35185
+		},
+	"Logan" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 749
+		},
+	"Loup" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 618
+		},
+	"Madison" : {
+		"cases" : 362,
+		"deaths" : 4,
+		"population" : 35392
+		},
+	"McPherson" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 492
+		},
+	"Merrick" : {
+		"cases" : 38,
+		"deaths" : 0,
+		"population" : 7733
+		},
+	"Morrill" : {
+		"cases" : 37,
+		"deaths" : 0,
+		"population" : 4686
+		},
+	"Nance" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 3532
+		},
+	"Nemaha" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 6958
+		},
+	"Nuckolls" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 4195
+		},
+	"Otoe" : {
+		"cases" : 22,
+		"deaths" : 0,
+		"population" : 15985
+		},
+	"Pawnee" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2632
+		},
+	"Perkins" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2929
+		},
+	"Phelps" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 8996
+		},
+	"Pierce" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 7142
+		},
+	"Platte" : {
+		"cases" : 664,
+		"deaths" : 3,
+		"population" : 33363
+		},
+	"Polk" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 5278
+		},
+	"Red Willow" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 10726
+		},
+	"Richardson" : {
+		"cases" : 5,
+		"deaths" : 1,
+		"population" : 7937
+		},
+	"Rock" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 1360
+		},
+	"Saline" : {
+		"cases" : 533,
+		"deaths" : 2,
+		"population" : 14350
+		},
+	"Sarpy" : {
+		"cases" : 1167,
+		"deaths" : 8,
+		"population" : 184459
+		},
+	"Saunders" : {
+		"cases" : 77,
+		"deaths" : 2,
+		"population" : 21303
+		},
+	"Scotts Bluff" : {
+		"cases" : 215,
+		"deaths" : 3,
+		"population" : 35989
+		},
+	"Seward" : {
+		"cases" : 34,
+		"deaths" : 1,
+		"population" : 17318
+		},
+	"Sheridan" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 5190
+		},
+	"Sherman" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 3038
+		},
+	"Sioux" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 1187
+		},
+	"Stanton" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 5970
+		},
+	"Thayer" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 5039
+		},
+	"Thomas" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 720
+		},
+	"Thurston" : {
+		"cases" : 85,
+		"deaths" : 1,
+		"population" : 7303
+		},
+	"Valley" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 4190
+		},
+	"Washington" : {
+		"cases" : 50,
+		"deaths" : 1,
+		"population" : 20667
+		},
+	"Wayne" : {
+		"cases" : 28,
+		"deaths" : 0,
+		"population" : 9403
+		},
+	"Webster" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 3533
+		},
+	"Wheeler" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 805
+		},
+	"York" : {
+		"cases" : 41,
+		"deaths" : 0,
+		"population" : 13772
+		}
+}

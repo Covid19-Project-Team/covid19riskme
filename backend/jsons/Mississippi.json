@@ -1,0 +1,412 @@
+{
+	"Adams" : {
+		"cases" : 232,
+		"deaths" : 18,
+		"population" : 32297
+		},
+	"Alcorn" : {
+		"cases" : 35,
+		"deaths" : 1,
+		"population" : 37057
+		},
+	"Amite" : {
+		"cases" : 75,
+		"deaths" : 2,
+		"population" : 13131
+		},
+	"Attala" : {
+		"cases" : 336,
+		"deaths" : 23,
+		"population" : 19564
+		},
+	"Benton" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 8729
+		},
+	"Bolivar" : {
+		"cases" : 208,
+		"deaths" : 13,
+		"population" : 34145
+		},
+	"Calhoun" : {
+		"cases" : 96,
+		"deaths" : 4,
+		"population" : 14962
+		},
+	"Carroll" : {
+		"cases" : 133,
+		"deaths" : 11,
+		"population" : 10597
+		},
+	"Chickasaw" : {
+		"cases" : 196,
+		"deaths" : 17,
+		"population" : 17392
+		},
+	"Choctaw" : {
+		"cases" : 65,
+		"deaths" : 3,
+		"population" : 8547
+		},
+	"Claiborne" : {
+		"cases" : 168,
+		"deaths" : 9,
+		"population" : 9604
+		},
+	"Clarke" : {
+		"cases" : 182,
+		"deaths" : 21,
+		"population" : 16732
+		},
+	"Clay" : {
+		"cases" : 210,
+		"deaths" : 6,
+		"population" : 20634
+		},
+	"Coahoma" : {
+		"cases" : 161,
+		"deaths" : 6,
+		"population" : 26151
+		},
+	"Copiah" : {
+		"cases" : 476,
+		"deaths" : 11,
+		"population" : 29449
+		},
+	"Covington" : {
+		"cases" : 238,
+		"deaths" : 3,
+		"population" : 19568
+		},
+	"DeSoto" : {
+		"cases" : 912,
+		"deaths" : 14,
+		"population" : 161252
+		},
+	"Forrest" : {
+		"cases" : 729,
+		"deaths" : 42,
+		"population" : 74934
+		},
+	"Franklin" : {
+		"cases" : 30,
+		"deaths" : 2,
+		"population" : 8118
+		},
+	"George" : {
+		"cases" : 53,
+		"deaths" : 2,
+		"population" : 22578
+		},
+	"Greene" : {
+		"cases" : 70,
+		"deaths" : 5,
+		"population" : 14400
+		},
+	"Grenada" : {
+		"cases" : 195,
+		"deaths" : 5,
+		"population" : 21906
+		},
+	"Hancock" : {
+		"cases" : 103,
+		"deaths" : 13,
+		"population" : 43929
+		},
+	"Harrison" : {
+		"cases" : 464,
+		"deaths" : 7,
+		"population" : 187105
+		},
+	"Hinds" : {
+		"cases" : 1536,
+		"deaths" : 33,
+		"population" : 245285
+		},
+	"Holmes" : {
+		"cases" : 489,
+		"deaths" : 37,
+		"population" : 19198
+		},
+	"Humphreys" : {
+		"cases" : 93,
+		"deaths" : 9,
+		"population" : 9375
+		},
+	"Issaquena" : {
+		"cases" : 6,
+		"deaths" : 1,
+		"population" : 1406
+		},
+	"Itawamba" : {
+		"cases" : 109,
+		"deaths" : 8,
+		"population" : 23401
+		},
+	"Jackson" : {
+		"cases" : 402,
+		"deaths" : 16,
+		"population" : 139668
+		},
+	"Jasper" : {
+		"cases" : 212,
+		"deaths" : 6,
+		"population" : 17062
+		},
+	"Jefferson" : {
+		"cases" : 63,
+		"deaths" : 2,
+		"population" : 7726
+		},
+	"Jefferson Davis" : {
+		"cases" : 90,
+		"deaths" : 3,
+		"population" : 12487
+		},
+	"Jones" : {
+		"cases" : 928,
+		"deaths" : 47,
+		"population" : 67761
+		},
+	"Kemper" : {
+		"cases" : 168,
+		"deaths" : 13,
+		"population" : 10456
+		},
+	"Lafayette" : {
+		"cases" : 254,
+		"deaths" : 4,
+		"population" : 47351
+		},
+	"Lamar" : {
+		"cases" : 341,
+		"deaths" : 7,
+		"population" : 55658
+		},
+	"Lauderdale" : {
+		"cases" : 847,
+		"deaths" : 77,
+		"population" : 80261
+		},
+	"Lawrence" : {
+		"cases" : 129,
+		"deaths" : 1,
+		"population" : 12929
+		},
+	"Leake" : {
+		"cases" : 503,
+		"deaths" : 16,
+		"population" : 23805
+		},
+	"Lee" : {
+		"cases" : 374,
+		"deaths" : 14,
+		"population" : 82910
+		},
+	"Leflore" : {
+		"cases" : 420,
+		"deaths" : 47,
+		"population" : 32317
+		},
+	"Lincoln" : {
+		"cases" : 378,
+		"deaths" : 32,
+		"population" : 34869
+		},
+	"Lowndes" : {
+		"cases" : 384,
+		"deaths" : 10,
+		"population" : 59779
+		},
+	"Madison" : {
+		"cases" : 995,
+		"deaths" : 31,
+		"population" : 95203
+		},
+	"Marion" : {
+		"cases" : 186,
+		"deaths" : 10,
+		"population" : 27088
+		},
+	"Marshall" : {
+		"cases" : 142,
+		"deaths" : 3,
+		"population" : 37144
+		},
+	"Monroe" : {
+		"cases" : 311,
+		"deaths" : 27,
+		"population" : 36989
+		},
+	"Montgomery" : {
+		"cases" : 104,
+		"deaths" : 1,
+		"population" : 10925
+		},
+	"Neshoba" : {
+		"cases" : 893,
+		"deaths" : 58,
+		"population" : 29676
+		},
+	"Newton" : {
+		"cases" : 323,
+		"deaths" : 8,
+		"population" : 21720
+		},
+	"Noxubee" : {
+		"cases" : 223,
+		"deaths" : 6,
+		"population" : 11545
+		},
+	"Oktibbeha" : {
+		"cases" : 420,
+		"deaths" : 19,
+		"population" : 47671
+		},
+	"Panola" : {
+		"cases" : 179,
+		"deaths" : 5,
+		"population" : 34707
+		},
+	"Pearl River" : {
+		"cases" : 226,
+		"deaths" : 32,
+		"population" : 55834
+		},
+	"Perry" : {
+		"cases" : 55,
+		"deaths" : 4,
+		"population" : 12250
+		},
+	"Pike" : {
+		"cases" : 278,
+		"deaths" : 11,
+		"population" : 40404
+		},
+	"Pontotoc" : {
+		"cases" : 128,
+		"deaths" : 3,
+		"population" : 29957
+		},
+	"Prentiss" : {
+		"cases" : 78,
+		"deaths" : 3,
+		"population" : 25276
+		},
+	"Quitman" : {
+		"cases" : 49,
+		"deaths" : 0,
+		"population" : 8223
+		},
+	"Rankin" : {
+		"cases" : 611,
+		"deaths" : 12,
+		"population" : 141617
+		},
+	"Scott" : {
+		"cases" : 700,
+		"deaths" : 14,
+		"population" : 28264
+		},
+	"Sharkey" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 4916
+		},
+	"Simpson" : {
+		"cases" : 166,
+		"deaths" : 2,
+		"population" : 27503
+		},
+	"Smith" : {
+		"cases" : 187,
+		"deaths" : 11,
+		"population" : 16491
+		},
+	"Stone" : {
+		"cases" : 42,
+		"deaths" : 1,
+		"population" : 17786
+		},
+	"Sunflower" : {
+		"cases" : 155,
+		"deaths" : 4,
+		"population" : 29450
+		},
+	"Tallahatchie" : {
+		"cases" : 64,
+		"deaths" : 1,
+		"population" : 15378
+		},
+	"Tate" : {
+		"cases" : 182,
+		"deaths" : 2,
+		"population" : 28886
+		},
+	"Tippah" : {
+		"cases" : 106,
+		"deaths" : 11,
+		"population" : 22232
+		},
+	"Tishomingo" : {
+		"cases" : 52,
+		"deaths" : 1,
+		"population" : 19593
+		},
+	"Tunica" : {
+		"cases" : 76,
+		"deaths" : 3,
+		"population" : 10778
+		},
+	"Union" : {
+		"cases" : 128,
+		"deaths" : 8,
+		"population" : 27134
+		},
+	"Walthall" : {
+		"cases" : 133,
+		"deaths" : 2,
+		"population" : 15443
+		},
+	"Warren" : {
+		"cases" : 331,
+		"deaths" : 14,
+		"population" : 48773
+		},
+	"Washington" : {
+		"cases" : 302,
+		"deaths" : 9,
+		"population" : 51137
+		},
+	"Wayne" : {
+		"cases" : 434,
+		"deaths" : 8,
+		"population" : 20747
+		},
+	"Webster" : {
+		"cases" : 118,
+		"deaths" : 10,
+		"population" : 10253
+		},
+	"Wilkinson" : {
+		"cases" : 85,
+		"deaths" : 9,
+		"population" : 9878
+		},
+	"Winston" : {
+		"cases" : 178,
+		"deaths" : 2,
+		"population" : 19198
+		},
+	"Yalobusha" : {
+		"cases" : 132,
+		"deaths" : 7,
+		"population" : 12678
+		},
+	"Yazoo" : {
+		"cases" : 395,
+		"deaths" : 6,
+		"population" : 28065
+		}
+}

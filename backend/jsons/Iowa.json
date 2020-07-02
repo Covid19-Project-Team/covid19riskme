@@ -1,0 +1,497 @@
+{
+	"Adair" : {
+		"cases" : 14,
+		"deaths" : "NaN",
+		"population" : 7493
+		},
+	"Adams" : {
+		"cases" : 7,
+		"deaths" : "NaN",
+		"population" : 3774
+		},
+	"Allamakee" : {
+		"cases" : 121,
+		"deaths" : 4,
+		"population" : 14194
+		},
+	"Appanoose" : {
+		"cases" : 20,
+		"deaths" : 3,
+		"population" : 12432
+		},
+	"Audubon" : {
+		"cases" : 15,
+		"deaths" : 1,
+		"population" : 5798
+		},
+	"Benton" : {
+		"cases" : 55,
+		"deaths" : 1,
+		"population" : 26313
+		},
+	"Black Hawk" : {
+		"cases" : 1948,
+		"deaths" : 56,
+		"population" : 133956
+		},
+	"Boone" : {
+		"cases" : 125,
+		"deaths" : 1,
+		"population" : 26826
+		},
+	"Bremer" : {
+		"cases" : 85,
+		"deaths" : 6,
+		"population" : 25518
+		},
+	"Buchanan" : {
+		"cases" : 41,
+		"deaths" : 1,
+		"population" : 21592
+		},
+	"Buena Vista" : {
+		"cases" : 1677,
+		"deaths" : 10,
+		"population" : 20179
+		},
+	"Butler" : {
+		"cases" : 38,
+		"deaths" : 2,
+		"population" : 15221
+		},
+	"Calhoun" : {
+		"cases" : 29,
+		"deaths" : "NaN",
+		"population" : 10074
+		},
+	"Carroll" : {
+		"cases" : 71,
+		"deaths" : 1,
+		"population" : 20938
+		},
+	"Cass" : {
+		"cases" : 16,
+		"deaths" : "NaN",
+		"population" : 13610
+		},
+	"Cedar" : {
+		"cases" : 68,
+		"deaths" : 1,
+		"population" : 18973
+		},
+	"Cerro Gordo" : {
+		"cases" : 68,
+		"deaths" : 1,
+		"population" : 44361
+		},
+	"Cherokee" : {
+		"cases" : 68,
+		"deaths" : "NaN",
+		"population" : 11621
+		},
+	"Chickasaw" : {
+		"cases" : 22,
+		"deaths" : "NaN",
+		"population" : 12110
+		},
+	"Clarke" : {
+		"cases" : 114,
+		"deaths" : 2,
+		"population" : 9747
+		},
+	"Clay" : {
+		"cases" : 113,
+		"deaths" : "NaN",
+		"population" : 16690
+		},
+	"Clayton" : {
+		"cases" : 37,
+		"deaths" : 3,
+		"population" : 18341
+		},
+	"Clinton" : {
+		"cases" : 83,
+		"deaths" : 1,
+		"population" : 47729
+		},
+	"Crawford" : {
+		"cases" : 651,
+		"deaths" : 2,
+		"population" : 17096
+		},
+	"Dallas" : {
+		"cases" : 1110,
+		"deaths" : 29,
+		"population" : 95445
+		},
+	"Davis" : {
+		"cases" : 36,
+		"deaths" : 1,
+		"population" : 9058
+		},
+	"Decatur" : {
+		"cases" : 9,
+		"deaths" : "NaN",
+		"population" : 8276
+		},
+	"Delaware" : {
+		"cases" : 36,
+		"deaths" : "NaN",
+		"population" : 18643
+		},
+	"Des Moines" : {
+		"cases" : 82,
+		"deaths" : 2,
+		"population" : 39542
+		},
+	"Dickinson" : {
+		"cases" : 232,
+		"deaths" : 2,
+		"population" : 17739
+		},
+	"Dubuque" : {
+		"cases" : 478,
+		"deaths" : 22,
+		"population" : 99002
+		},
+	"Emmet" : {
+		"cases" : 66,
+		"deaths" : "NaN",
+		"population" : 9729
+		},
+	"Fayette" : {
+		"cases" : 30,
+		"deaths" : "NaN",
+		"population" : 20171
+		},
+	"Floyd" : {
+		"cases" : 52,
+		"deaths" : 1,
+		"population" : 16119
+		},
+	"Franklin" : {
+		"cases" : 67,
+		"deaths" : "NaN",
+		"population" : 10755
+		},
+	"Fremont" : {
+		"cases" : 6,
+		"deaths" : "NaN",
+		"population" : 7369
+		},
+	"Greene" : {
+		"cases" : 28,
+		"deaths" : "NaN",
+		"population" : 9172
+		},
+	"Grundy" : {
+		"cases" : 27,
+		"deaths" : "NaN",
+		"population" : 12472
+		},
+	"Guthrie" : {
+		"cases" : 64,
+		"deaths" : 4,
+		"population" : 11043
+		},
+	"Hamilton" : {
+		"cases" : 177,
+		"deaths" : "NaN",
+		"population" : 15219
+		},
+	"Hancock" : {
+		"cases" : 41,
+		"deaths" : "NaN",
+		"population" : 11050
+		},
+	"Hardin" : {
+		"cases" : 57,
+		"deaths" : "NaN",
+		"population" : 17168
+		},
+	"Harrison" : {
+		"cases" : 47,
+		"deaths" : "NaN",
+		"population" : 14751
+		},
+	"Henry" : {
+		"cases" : 80,
+		"deaths" : 3,
+		"population" : 20056
+		},
+	"Howard" : {
+		"cases" : 15,
+		"deaths" : "NaN",
+		"population" : 9377
+		},
+	"Humboldt" : {
+		"cases" : 46,
+		"deaths" : 1,
+		"population" : 9649
+		},
+	"Ida" : {
+		"cases" : 21,
+		"deaths" : "NaN",
+		"population" : 6842
+		},
+	"Iowa" : {
+		"cases" : 40,
+		"deaths" : "NaN",
+		"population" : 16457
+		},
+	"Jackson" : {
+		"cases" : 21,
+		"deaths" : "NaN",
+		"population" : 19980
+		},
+	"Jasper" : {
+		"cases" : 305,
+		"deaths" : 17,
+		"population" : 37545
+		},
+	"Jefferson" : {
+		"cases" : 50,
+		"deaths" : "NaN",
+		"population" : 17234
+		},
+	"Johnson" : {
+		"cases" : 901,
+		"deaths" : 8,
+		"population" : 154377
+		},
+	"Jones" : {
+		"cases" : 47,
+		"deaths" : "NaN",
+		"population" : 20978
+		},
+	"Keokuk" : {
+		"cases" : 18,
+		"deaths" : 1,
+		"population" : 10300
+		},
+	"Kossuth" : {
+		"cases" : 29,
+		"deaths" : "NaN",
+		"population" : 15141
+		},
+	"Lee" : {
+		"cases" : 44,
+		"deaths" : 1,
+		"population" : 34508
+		},
+	"Linn" : {
+		"cases" : 1141,
+		"deaths" : 81,
+		"population" : 231709
+		},
+	"Louisa" : {
+		"cases" : 357,
+		"deaths" : 13,
+		"population" : 11341
+		},
+	"Lucas" : {
+		"cases" : 28,
+		"deaths" : 3,
+		"population" : 8807
+		},
+	"Lyon" : {
+		"cases" : 19,
+		"deaths" : "NaN",
+		"population" : 11868
+		},
+	"Madison" : {
+		"cases" : 16,
+		"deaths" : 1,
+		"population" : 17145
+		},
+	"Mahaska" : {
+		"cases" : 116,
+		"deaths" : 16,
+		"population" : 22385
+		},
+	"Marion" : {
+		"cases" : 22,
+		"deaths" : "NaN",
+		"population" : 34049
+		},
+	"Marshall" : {
+		"cases" : 994,
+		"deaths" : 18,
+		"population" : 40922
+		},
+	"Mills" : {
+		"cases" : 12,
+		"deaths" : "NaN",
+		"population" : 15632
+		},
+	"Mitchell" : {
+		"cases" : 4,
+		"deaths" : "NaN",
+		"population" : 10925
+		},
+	"Monona" : {
+		"cases" : 15,
+		"deaths" : "NaN",
+		"population" : 8953
+		},
+	"Monroe" : {
+		"cases" : 22,
+		"deaths" : 1,
+		"population" : 7937
+		},
+	"Montgomery" : {
+		"cases" : 5,
+		"deaths" : "NaN",
+		"population" : 10399
+		},
+	"Muscatine" : {
+		"cases" : 596,
+		"deaths" : 43,
+		"population" : 43324
+		},
+	"O'Brien" : {
+		"cases" : 78,
+		"deaths" : 1,
+		"population" : 14273
+		},
+	"Osceola" : {
+		"cases" : 27,
+		"deaths" : "NaN",
+		"population" : 6151
+		},
+	"Page" : {
+		"cases" : 10,
+		"deaths" : "NaN",
+		"population" : 15585
+		},
+	"Palo Alto" : {
+		"cases" : 701,
+		"deaths" : 19,
+		"population" : 9354
+		},
+	"Plymouth" : {
+		"cases" : 88,
+		"deaths" : "NaN",
+		"population" : 26150
+		},
+	"Pocahontas" : {
+		"cases" : 3,
+		"deaths" : "NaN",
+		"population" : 6961
+		},
+	"Polk" : {
+		"cases" : 5724,
+		"deaths" : 171,
+		"population" : 503534
+		},
+	"Pottawattamie" : {
+		"cases" : 655,
+		"deaths" : 11,
+		"population" : 95336
+		},
+	"Poweshiek" : {
+		"cases" : 86,
+		"deaths" : 8,
+		"population" : 19344
+		},
+	"Ringgold" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 5143
+		},
+	"Sac" : {
+		"cases" : 5,
+		"deaths" : "NaN",
+		"population" : 9934
+		},
+	"Scott" : {
+		"cases" : 309,
+		"deaths" : 8,
+		"population" : 175011
+		},
+	"Shelby" : {
+		"cases" : 23,
+		"deaths" : "NaN",
+		"population" : 11856
+		},
+	"Sioux" : {
+		"cases" : 143,
+		"deaths" : "NaN",
+		"population" : 35727
+		},
+	"Story" : {
+		"cases" : 80,
+		"deaths" : 1,
+		"population" : 100529
+		},
+	"Tama" : {
+		"cases" : 433,
+		"deaths" : 29,
+		"population" : 17278
+		},
+	"Taylor" : {
+		"cases" : 3,
+		"deaths" : "NaN",
+		"population" : 6223
+		},
+	"Union" : {
+		"cases" : 2,
+		"deaths" : "NaN",
+		"population" : 12457
+		},
+	"Van Buren" : {
+		"cases" : 8,
+		"deaths" : "NaN",
+		"population" : 7232
+		},
+	"Wapello" : {
+		"cases" : 692,
+		"deaths" : 28,
+		"population" : 34969
+		},
+	"Warren" : {
+		"cases" : 80,
+		"deaths" : "NaN",
+		"population" : 53066
+		},
+	"Washington" : {
+		"cases" : 173,
+		"deaths" : 8,
+		"population" : 22829
+		},
+	"Wayne" : {
+		"cases" : 1,
+		"deaths" : "NaN",
+		"population" : 6556
+		},
+	"Webster" : {
+		"cases" : 13,
+		"deaths" : 1,
+		"population" : 37517
+		},
+	"Winnebago" : {
+		"cases" : 7,
+		"deaths" : "NaN",
+		"population" : 10836
+		},
+	"Winneshiek" : {
+		"cases" : 21,
+		"deaths" : "NaN",
+		"population" : 20718
+		},
+	"Woodbury" : {
+		"cases" : 3097,
+		"deaths" : 43,
+		"population" : 105781
+		},
+	"Worth" : {
+		"cases" : 3,
+		"deaths" : "NaN",
+		"population" : 7576
+		},
+	"Wright" : {
+		"cases" : 23,
+		"deaths" : "NaN",
+		"population" : 13012
+		}
+}

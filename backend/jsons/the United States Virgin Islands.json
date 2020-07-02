@@ -1,0 +1,17 @@
+{
+	"Saint Thomas" : {
+		"cases" : 37,
+		"deaths" : 2,
+		"population" : 51634
+		},
+	"Saint John" : {
+		"cases" : 2,
+		"deaths" : "NaN",
+		"population" : 4170
+		},
+	"Saint Croix" : {
+		"cases" : 27,
+		"deaths" : 1,
+		"population" : 50601
+		}
+}

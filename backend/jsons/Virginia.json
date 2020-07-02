@@ -1,0 +1,667 @@
+{
+	"Accomack" : {
+		"cases" : 863,
+		"deaths" : 12,
+		"population" : 32973
+		},
+	"Albemarle" : {
+		"cases" : 187,
+		"deaths" : 8,
+		"population" : 105703
+		},
+	"Alexandria" : {
+		"cases" : 1960,
+		"deaths" : 44,
+		"population" : 147391
+		},
+	"Alleghany" : {
+		"cases" : 32,
+		"deaths" : 4,
+		"population" : 15677
+		},
+	"Amelia" : {
+		"cases" : 25,
+		"deaths" : 1,
+		"population" : 12903
+		},
+	"Amherst" : {
+		"cases" : 27,
+		"deaths" : 0,
+		"population" : 31914
+		},
+	"Appomattox" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 15414
+		},
+	"Arlington" : {
+		"cases" : 2107,
+		"deaths" : 113,
+		"population" : 229164
+		},
+	"Augusta" : {
+		"cases" : 109,
+		"deaths" : 1,
+		"population" : 74314
+		},
+	"Bath" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 4470
+		},
+	"Bedford" : {
+		"cases" : 51,
+		"deaths" : 2,
+		"population" : 77724
+		},
+	"Bland" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 6561
+		},
+	"Botetourt" : {
+		"cases" : 32,
+		"deaths" : 4,
+		"population" : 33347
+		},
+	"Bristol" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 17367
+		},
+	"Brunswick" : {
+		"cases" : 25,
+		"deaths" : 1,
+		"population" : 16698
+		},
+	"Buchanan" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 22776
+		},
+	"Buckingham" : {
+		"cases" : 456,
+		"deaths" : 3,
+		"population" : 17032
+		},
+	"Buena Vista" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 6349
+		},
+	"Campbell" : {
+		"cases" : 18,
+		"deaths" : 1,
+		"population" : 55086
+		},
+	"Caroline" : {
+		"cases" : 64,
+		"deaths" : 2,
+		"population" : 29984
+		},
+	"Carroll" : {
+		"cases" : 91,
+		"deaths" : 1,
+		"population" : 29724
+		},
+	"Charles City" : {
+		"cases" : 27,
+		"deaths" : 1,
+		"population" : 7040
+		},
+	"Charlotte" : {
+		"cases" : 23,
+		"deaths" : 0,
+		"population" : 12201
+		},
+	"Charlottesville" : {
+		"cases" : 108,
+		"deaths" : 3,
+		"population" : 45049
+		},
+	"Chesapeake" : {
+		"cases" : 520,
+		"deaths" : 15,
+		"population" : 222209
+		},
+	"Chesterfield" : {
+		"cases" : 1461,
+		"deaths" : 35,
+		"population" : 335687
+		},
+	"Clarke" : {
+		"cases" : 25,
+		"deaths" : 0,
+		"population" : 14363
+		},
+	"Colonial Heights" : {
+		"cases" : 91,
+		"deaths" : 17,
+		"population" : 16897
+		},
+	"Covington" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 6303
+		},
+	"Craig" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 5211
+		},
+	"Culpeper" : {
+		"cases" : 674,
+		"deaths" : 6,
+		"population" : 49432
+		},
+	"Cumberland" : {
+		"cases" : 37,
+		"deaths" : 0,
+		"population" : 9719
+		},
+	"Danville" : {
+		"cases" : 51,
+		"deaths" : 2,
+		"population" : 48411
+		},
+	"Dickenson" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 15115
+		},
+	"Dinwiddie" : {
+		"cases" : 77,
+		"deaths" : 0,
+		"population" : 27852
+		},
+	"Emporia" : {
+		"cases" : 78,
+		"deaths" : 5,
+		"population" : 5665
+		},
+	"Essex" : {
+		"cases" : 46,
+		"deaths" : 0,
+		"population" : 11130
+		},
+	"Fairfax" : {
+		"cases" : 10906,
+		"deaths" : 383,
+		"population" : 1142234
+		},
+	"Fairfax" : {
+		"cases" : 65,
+		"deaths" : 6,
+		"population" : 21498
+		},
+	"Falls Church" : {
+		"cases" : 55,
+		"deaths" : 8,
+		"population" : 12332
+		},
+	"Fauquier" : {
+		"cases" : 312,
+		"deaths" : 6,
+		"population" : 68782
+		},
+	"Floyd" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 15651
+		},
+	"Fluvanna" : {
+		"cases" : 91,
+		"deaths" : 6,
+		"population" : 26235
+		},
+	"Franklin" : {
+		"cases" : 42,
+		"deaths" : 2,
+		"population" : 8346
+		},
+	"Franklin" : {
+		"cases" : 36,
+		"deaths" : 1,
+		"population" : 56264
+		},
+	"Frederick" : {
+		"cases" : 344,
+		"deaths" : 4,
+		"population" : 83199
+		},
+	"Fredericksburg" : {
+		"cases" : 158,
+		"deaths" : 0,
+		"population" : 24286
+		},
+	"Galax" : {
+		"cases" : 112,
+		"deaths" : 0,
+		"population" : 6837
+		},
+	"Giles" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 16708
+		},
+	"Gloucester" : {
+		"cases" : 31,
+		"deaths" : 1,
+		"population" : 37143
+		},
+	"Goochland" : {
+		"cases" : 96,
+		"deaths" : 6,
+		"population" : 22253
+		},
+	"Grayson" : {
+		"cases" : 37,
+		"deaths" : 0,
+		"population" : 16012
+		},
+	"Greene" : {
+		"cases" : 34,
+		"deaths" : 1,
+		"population" : 19162
+		},
+	"Greensville" : {
+		"cases" : 73,
+		"deaths" : 7,
+		"population" : 11885
+		},
+	"Halifax" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 35125
+		},
+	"Hampton" : {
+		"cases" : 197,
+		"deaths" : 3,
+		"population" : 146437
+		},
+	"Hanover" : {
+		"cases" : 322,
+		"deaths" : 24,
+		"population" : 103227
+		},
+	"Harrisonburg" : {
+		"cases" : 774,
+		"deaths" : 23,
+		"population" : 40468
+		},
+	"Henrico" : {
+		"cases" : 1754,
+		"deaths" : 133,
+		"population" : 325155
+		},
+	"Henry" : {
+		"cases" : 104,
+		"deaths" : 3,
+		"population" : 51881
+		},
+	"Highland" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 2214
+		},
+	"Hopewell" : {
+		"cases" : 87,
+		"deaths" : 0,
+		"population" : 22354
+		},
+	"Isle of Wight" : {
+		"cases" : 128,
+		"deaths" : 3,
+		"population" : 36314
+		},
+	"James City" : {
+		"cases" : 202,
+		"deaths" : 15,
+		"population" : 73147
+		},
+	"King and Queen" : {
+		"cases" : 10,
+		"deaths" : 1,
+		"population" : 7158
+		},
+	"King George" : {
+		"cases" : 65,
+		"deaths" : 4,
+		"population" : 25515
+		},
+	"King William" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 16269
+		},
+	"Lancaster" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 10965
+		},
+	"Lee" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 24742
+		},
+	"Lexington" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 6867
+		},
+	"Loudoun" : {
+		"cases" : 2529,
+		"deaths" : 62,
+		"population" : 375629
+		},
+	"Louisa" : {
+		"cases" : 78,
+		"deaths" : 1,
+		"population" : 34602
+		},
+	"Lunenburg" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 12299
+		},
+	"Lynchburg" : {
+		"cases" : 80,
+		"deaths" : 1,
+		"population" : 65269
+		},
+	"Madison" : {
+		"cases" : 40,
+		"deaths" : 1,
+		"population" : 13134
+		},
+	"Manassas" : {
+		"cases" : 1046,
+		"deaths" : 10,
+		"population" : 40605
+		},
+	"Manassas Park" : {
+		"cases" : 299,
+		"deaths" : 6,
+		"population" : 14273
+		},
+	"Martinsville" : {
+		"cases" : 31,
+		"deaths" : 1,
+		"population" : 15416
+		},
+	"Mathews" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 8862
+		},
+	"Mecklenburg" : {
+		"cases" : 217,
+		"deaths" : 21,
+		"population" : 31081
+		},
+	"Middlesex" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 10606
+		},
+	"Montgomery" : {
+		"cases" : 73,
+		"deaths" : 1,
+		"population" : 97653
+		},
+	"Nelson" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 14785
+		},
+	"New Kent" : {
+		"cases" : 36,
+		"deaths" : 1,
+		"population" : 20392
+		},
+	"Newport News" : {
+		"cases" : 258,
+		"deaths" : 10,
+		"population" : 180726
+		},
+	"Norfolk" : {
+		"cases" : 490,
+		"deaths" : 6,
+		"population" : 245782
+		},
+	"Northampton" : {
+		"cases" : 230,
+		"deaths" : 20,
+		"population" : 12155
+		},
+	"Northumberland" : {
+		"cases" : 25,
+		"deaths" : 1,
+		"population" : 12232
+		},
+	"Norton" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 3904
+		},
+	"Nottoway" : {
+		"cases" : 28,
+		"deaths" : 0,
+		"population" : 15673
+		},
+	"Orange" : {
+		"cases" : 101,
+		"deaths" : 1,
+		"population" : 35385
+		},
+	"Page" : {
+		"cases" : 219,
+		"deaths" : 21,
+		"population" : 23726
+		},
+	"Patrick" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 18045
+		},
+	"Petersburg" : {
+		"cases" : 127,
+		"deaths" : 3,
+		"population" : 33740
+		},
+	"Pittsylvania" : {
+		"cases" : 17,
+		"deaths" : 1,
+		"population" : 62194
+		},
+	"Poquoson" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 11566
+		},
+	"Portsmouth" : {
+		"cases" : 307,
+		"deaths" : 11,
+		"population" : 96470
+		},
+	"Powhatan" : {
+		"cases" : 32,
+		"deaths" : 0,
+		"population" : 28031
+		},
+	"Prince Edward" : {
+		"cases" : 134,
+		"deaths" : 2,
+		"population" : 22952
+		},
+	"Prince George" : {
+		"cases" : 126,
+		"deaths" : 0,
+		"population" : 37862
+		},
+	"Prince William" : {
+		"cases" : 5412,
+		"deaths" : 104,
+		"population" : 451721
+		},
+	"Pulaski" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 34332
+		},
+	"Radford" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 15859
+		},
+	"Rappahannock" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 7378
+		},
+	"Richmond" : {
+		"cases" : 1249,
+		"deaths" : 24,
+		"population" : 210309
+		},
+	"Richmond" : {
+		"cases" : 275,
+		"deaths" : 4,
+		"population" : 8908
+		},
+	"Roanoke" : {
+		"cases" : 155,
+		"deaths" : 9,
+		"population" : 94911
+		},
+	"Roanoke" : {
+		"cases" : 275,
+		"deaths" : 4,
+		"population" : 94409
+		},
+	"Rockbridge" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 22354
+		},
+	"Rockingham" : {
+		"cases" : 511,
+		"deaths" : 6,
+		"population" : 78593
+		},
+	"Russell" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 27891
+		},
+	"Salem" : {
+		"cases" : 34,
+		"deaths" : 3,
+		"population" : 24747
+		},
+	"Scott" : {
+		"cases" : 7,
+		"deaths" : 2,
+		"population" : 22126
+		},
+	"Shenandoah" : {
+		"cases" : 444,
+		"deaths" : 21,
+		"population" : 43190
+		},
+	"Smyth" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 31470
+		},
+	"Southampton" : {
+		"cases" : 146,
+		"deaths" : 2,
+		"population" : 18109
+		},
+	"Spotsylvania" : {
+		"cases" : 524,
+		"deaths" : 7,
+		"population" : 130475
+		},
+	"Stafford" : {
+		"cases" : 702,
+		"deaths" : 4,
+		"population" : 142003
+		},
+	"Staunton" : {
+		"cases" : 39,
+		"deaths" : 0,
+		"population" : 23853
+		},
+	"Suffolk" : {
+		"cases" : 314,
+		"deaths" : 32,
+		"population" : 63677
+		},
+	"Surry" : {
+		"cases" : 10,
+		"deaths" : 1,
+		"population" : 6709
+		},
+	"Sussex" : {
+		"cases" : 154,
+		"deaths" : 2,
+		"population" : 11715
+		},
+	"Tazewell" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 42899
+		},
+	"Virginia Beach" : {
+		"cases" : 699,
+		"deaths" : 23,
+		"population" : 447021
+		},
+	"Warren" : {
+		"cases" : 155,
+		"deaths" : 2,
+		"population" : 39083
+		},
+	"Washington" : {
+		"cases" : 51,
+		"deaths" : 4,
+		"population" : 54591
+		},
+	"Waynesboro" : {
+		"cases" : 43,
+		"deaths" : 0,
+		"population" : 19520
+		},
+	"Westmoreland" : {
+		"cases" : 63,
+		"deaths" : 1,
+		"population" : 17629
+		},
+	"Williamsburg" : {
+		"cases" : 44,
+		"deaths" : 4,
+		"population" : 14068
+		},
+	"Winchester" : {
+		"cases" : 187,
+		"deaths" : 2,
+		"population" : 23585
+		},
+	"Wise" : {
+		"cases" : 24,
+		"deaths" : 2,
+		"population" : 39718
+		},
+	"Wythe" : {
+		"cases" : 21,
+		"deaths" : 1,
+		"population" : 29119
+		},
+	"York" : {
+		"cases" : 72,
+		"deaths" : 3,
+		"population" : 67837
+		}
+}

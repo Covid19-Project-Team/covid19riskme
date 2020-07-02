@@ -1,0 +1,332 @@
+{
+	"Adams" : {
+		"cases" : 4013,
+		"deaths" : 154,
+		"population" : 511473
+		},
+	"Alamosa" : {
+		"cases" : 178,
+		"deaths" : 3,
+		"population" : 16184
+		},
+	"Arapahoe" : {
+		"cases" : 5066,
+		"deaths" : 342,
+		"population" : 651342
+		},
+	"Archuleta" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 13737
+		},
+	"Baca" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 3547
+		},
+	"Bent" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 5819
+		},
+	"Boulder" : {
+		"cases" : 1321,
+		"deaths" : 71,
+		"population" : 325476
+		},
+	"Broomfield" : {
+		"cases" : 287,
+		"deaths" : 29,
+		"population" : 69453
+		},
+	"Chaffee" : {
+		"cases" : 78,
+		"deaths" : 20,
+		"population" : 20028
+		},
+	"Cheyenne" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 1862
+		},
+	"Clear Creek" : {
+		"cases" : 18,
+		"deaths" : 1,
+		"population" : 9663
+		},
+	"Conejos" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 8136
+		},
+	"Costilla" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 3809
+		},
+	"Crowley" : {
+		"cases" : 69,
+		"deaths" : 1,
+		"population" : 5857
+		},
+	"Custer" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 4928
+		},
+	"Delta" : {
+		"cases" : 80,
+		"deaths" : 1,
+		"population" : 30936
+		},
+	"Denver" : {
+		"cases" : 6835,
+		"deaths" : 369,
+		"population" : 717797
+		},
+	"Dolores" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2053
+		},
+	"Douglas" : {
+		"cases" : 839,
+		"deaths" : 51,
+		"population" : 342842
+		},
+	"Eagle" : {
+		"cases" : 641,
+		"deaths" : 8,
+		"population" : 54863
+		},
+	"El Paso" : {
+		"cases" : 2079,
+		"deaths" : 116,
+		"population" : 714395
+		},
+	"Elbert" : {
+		"cases" : 54,
+		"deaths" : 2,
+		"population" : 26218
+		},
+	"Fremont" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 47912
+		},
+	"Garfield" : {
+		"cases" : 217,
+		"deaths" : 2,
+		"population" : 59807
+		},
+	"Gilpin" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 6097
+		},
+	"Grand" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 15474
+		},
+	"Gunnison" : {
+		"cases" : 182,
+		"deaths" : 6,
+		"population" : 17173
+		},
+	"Hinsdale" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 804
+		},
+	"Huerfano" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 6854
+		},
+	"Jackson" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1396
+		},
+	"Jefferson" : {
+		"cases" : 2526,
+		"deaths" : 203,
+		"population" : 579491
+		},
+	"Kiowa" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1373
+		},
+	"Kit Carson" : {
+		"cases" : 31,
+		"deaths" : 3,
+		"population" : 7157
+		},
+	"La Plata" : {
+		"cases" : 86,
+		"deaths" : 1,
+		"population" : 56403
+		},
+	"Lake" : {
+		"cases" : 46,
+		"deaths" : 0,
+		"population" : 7762
+		},
+	"Larimer" : {
+		"cases" : 673,
+		"deaths" : 29,
+		"population" : 350362
+		},
+	"Las Animas" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 14491
+		},
+	"Lincoln" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 5584
+		},
+	"Logan" : {
+		"cases" : 635,
+		"deaths" : 5,
+		"population" : 21854
+		},
+	"Mesa" : {
+		"cases" : 79,
+		"deaths" : 0,
+		"population" : 153630
+		},
+	"Mineral" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 777
+		},
+	"Moffat" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 13181
+		},
+	"Montezuma" : {
+		"cases" : 67,
+		"deaths" : 3,
+		"population" : 26159
+		},
+	"Montrose" : {
+		"cases" : 199,
+		"deaths" : 12,
+		"population" : 42260
+		},
+	"Morgan" : {
+		"cases" : 649,
+		"deaths" : 46,
+		"population" : 28503
+		},
+	"Otero" : {
+		"cases" : 22,
+		"deaths" : 1,
+		"population" : 18364
+		},
+	"Ouray" : {
+		"cases" : 10,
+		"deaths" : 1,
+		"population" : 4798
+		},
+	"Park" : {
+		"cases" : 23,
+		"deaths" : 0,
+		"population" : 18557
+		},
+	"Phillips" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 4266
+		},
+	"Pitkin" : {
+		"cases" : 80,
+		"deaths" : 2,
+		"population" : 17879
+		},
+	"Prowers" : {
+		"cases" : 16,
+		"deaths" : 0,
+		"population" : 12078
+		},
+	"Pueblo" : {
+		"cases" : 355,
+		"deaths" : 23,
+		"population" : 167116
+		},
+	"Rio Blanco" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 6305
+		},
+	"Rio Grande" : {
+		"cases" : 63,
+		"deaths" : 1,
+		"population" : 11226
+		},
+	"Routt" : {
+		"cases" : 63,
+		"deaths" : 6,
+		"population" : 25683
+		},
+	"Saguache" : {
+		"cases" : 100,
+		"deaths" : 2,
+		"population" : 6837
+		},
+	"San Juan" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 762
+		},
+	"San Miguel" : {
+		"cases" : 28,
+		"deaths" : 0,
+		"population" : 8177
+		},
+	"Sedgwick" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2275
+		},
+	"Summit" : {
+		"cases" : 262,
+		"deaths" : 3,
+		"population" : 30973
+		},
+	"Teller" : {
+		"cases" : 39,
+		"deaths" : 2,
+		"population" : 25060
+		},
+	"Washington" : {
+		"cases" : 44,
+		"deaths" : 0,
+		"population" : 4729
+		},
+	"Weld" : {
+		"cases" : 2714,
+		"deaths" : 136,
+		"population" : 314251
+		},
+	"Yuma" : {
+		"cases" : 49,
+		"deaths" : 0,
+		"population" : 10029
+		},
+	"Unknown" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : "NaN"
+		},
+	"International" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

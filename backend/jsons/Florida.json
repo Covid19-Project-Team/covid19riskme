@@ -1,0 +1,342 @@
+{
+	"Alachua" : {
+		"cases" : 1033,
+		"deaths" : 12,
+		"population" : 249365
+		},
+	"Baker" : {
+		"cases" : 51,
+		"deaths" : 4,
+		"population" : 27154
+		},
+	"Bay" : {
+		"cases" : 305,
+		"deaths" : 4,
+		"population" : 169856
+		},
+	"Bradford" : {
+		"cases" : 80,
+		"deaths" : 2,
+		"population" : 28255
+		},
+	"Brevard" : {
+		"cases" : 1547,
+		"deaths" : 17,
+		"population" : 543566
+		},
+	"Broward" : {
+		"cases" : 14046,
+		"deaths" : 382,
+		"population" : 1780172
+		},
+	"Calhoun" : {
+		"cases" : 72,
+		"deaths" : 6,
+		"population" : 14750
+		},
+	"Charlotte" : {
+		"cases" : 687,
+		"deaths" : 76,
+		"population" : 160511
+		},
+	"Citrus" : {
+		"cases" : 264,
+		"deaths" : 12,
+		"population" : 140031
+		},
+	"Clay" : {
+		"cases" : 616,
+		"deaths" : 34,
+		"population" : 192370
+		},
+	"Collier" : {
+		"cases" : 3966,
+		"deaths" : 70,
+		"population" : 328134
+		},
+	"Columbia" : {
+		"cases" : 261,
+		"deaths" : 3,
+		"population" : 67485
+		},
+	"DeSoto" : {
+		"cases" : 574,
+		"deaths" : 10,
+		"population" : 34894
+		},
+	"Dixie" : {
+		"cases" : 65,
+		"deaths" : 4,
+		"population" : 16486
+		},
+	"Duval" : {
+		"cases" : 4848,
+		"deaths" : 64,
+		"population" : 937934
+		},
+	"Escambia" : {
+		"cases" : 1611,
+		"deaths" : 44,
+		"population" : 299114
+		},
+	"Flagler" : {
+		"cases" : 279,
+		"deaths" : 5,
+		"population" : 97376
+		},
+	"Franklin" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 11596
+		},
+	"Gadsden" : {
+		"cases" : 365,
+		"deaths" : 7,
+		"population" : 46151
+		},
+	"Gilchrist" : {
+		"cases" : 94,
+		"deaths" : 0,
+		"population" : 17004
+		},
+	"Glades" : {
+		"cases" : 158,
+		"deaths" : 1,
+		"population" : 12635
+		},
+	"Gulf" : {
+		"cases" : 22,
+		"deaths" : 0,
+		"population" : 15844
+		},
+	"Hamilton" : {
+		"cases" : 322,
+		"deaths" : 2,
+		"population" : 14671
+		},
+	"Hardee" : {
+		"cases" : 403,
+		"deaths" : 3,
+		"population" : 27887
+		},
+	"Hendry" : {
+		"cases" : 895,
+		"deaths" : 25,
+		"population" : 39089
+		},
+	"Hernando" : {
+		"cases" : 312,
+		"deaths" : 5,
+		"population" : 173094
+		},
+	"Highlands" : {
+		"cases" : 373,
+		"deaths" : 11,
+		"population" : 98630
+		},
+	"Hillsborough" : {
+		"cases" : 9130,
+		"deaths" : 132,
+		"population" : 1267775
+		},
+	"Holmes" : {
+		"cases" : 161,
+		"deaths" : 0,
+		"population" : 19873
+		},
+	"Indian River" : {
+		"cases" : 620,
+		"deaths" : 16,
+		"population" : 138894
+		},
+	"Jackson" : {
+		"cases" : 353,
+		"deaths" : 2,
+		"population" : 49292
+		},
+	"Jefferson" : {
+		"cases" : 45,
+		"deaths" : 4,
+		"population" : 14658
+		},
+	"Lafayette" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 8942
+		},
+	"Lake" : {
+		"cases" : 1098,
+		"deaths" : 22,
+		"population" : 301019
+		},
+	"Lee" : {
+		"cases" : 4956,
+		"deaths" : 152,
+		"population" : 631330
+		},
+	"Leon" : {
+		"cases" : 775,
+		"deaths" : 8,
+		"population" : 277971
+		},
+	"Levy" : {
+		"cases" : 168,
+		"deaths" : 1,
+		"population" : 40156
+		},
+	"Liberty" : {
+		"cases" : 221,
+		"deaths" : 1,
+		"population" : 8314
+		},
+	"Madison" : {
+		"cases" : 179,
+		"deaths" : 3,
+		"population" : 19115
+		},
+	"Manatee" : {
+		"cases" : 2642,
+		"deaths" : 129,
+		"population" : 327142
+		},
+	"Marion" : {
+		"cases" : 598,
+		"deaths" : 10,
+		"population" : 332529
+		},
+	"Martin" : {
+		"cases" : 1850,
+		"deaths" : 25,
+		"population" : 147495
+		},
+	"Miami-Dade" : {
+		"cases" : 31562,
+		"deaths" : 947,
+		"population" : 2662874
+		},
+	"Monroe" : {
+		"cases" : 204,
+		"deaths" : 4,
+		"population" : 73873
+		},
+	"Nassau" : {
+		"cases" : 158,
+		"deaths" : 1,
+		"population" : 74195
+		},
+	"Okaloosa" : {
+		"cases" : 563,
+		"deaths" : 6,
+		"population" : 183482
+		},
+	"Okeechobee" : {
+		"cases" : 333,
+		"deaths" : 0,
+		"population" : 40140
+		},
+	"Orange" : {
+		"cases" : 8837,
+		"deaths" : 56,
+		"population" : 1169107
+		},
+	"Osceola" : {
+		"cases" : 1649,
+		"deaths" : 24,
+		"population" : 276163
+		},
+	"Palm Beach" : {
+		"cases" : 12928,
+		"deaths" : 492,
+		"population" : 1335187
+		},
+	"Pasco" : {
+		"cases" : 1630,
+		"deaths" : 17,
+		"population" : 466457
+		},
+	"Pinellas" : {
+		"cases" : 5713,
+		"deaths" : 149,
+		"population" : 917398
+		},
+	"Polk" : {
+		"cases" : 3182,
+		"deaths" : 92,
+		"population" : 609492
+		},
+	"Putnam" : {
+		"cases" : 297,
+		"deaths" : 6,
+		"population" : 74041
+		},
+	"Santa Rosa" : {
+		"cases" : 442,
+		"deaths" : 9,
+		"population" : 154104
+		},
+	"Sarasota" : {
+		"cases" : 1341,
+		"deaths" : 96,
+		"population" : 382213
+		},
+	"Seminole" : {
+		"cases" : 2202,
+		"deaths" : 16,
+		"population" : 425071
+		},
+	"St. Johns" : {
+		"cases" : 756,
+		"deaths" : 7,
+		"population" : 195823
+		},
+	"St. Lucie" : {
+		"cases" : 1576,
+		"deaths" : 45,
+		"population" : 280379
+		},
+	"Sumter" : {
+		"cases" : 319,
+		"deaths" : 17,
+		"population" : 97756
+		},
+	"Suwannee" : {
+		"cases" : 393,
+		"deaths" : 20,
+		"population" : 41972
+		},
+	"Taylor" : {
+		"cases" : 73,
+		"deaths" : 0,
+		"population" : 22691
+		},
+	"Union" : {
+		"cases" : 58,
+		"deaths" : 2,
+		"population" : 15388
+		},
+	"Volusia" : {
+		"cases" : 1745,
+		"deaths" : 54,
+		"population" : 494804
+		},
+	"Wakulla" : {
+		"cases" : 47,
+		"deaths" : 1,
+		"population" : 30978
+		},
+	"Walton" : {
+		"cases" : 210,
+		"deaths" : 9,
+		"population" : 55793
+		},
+	"Washington" : {
+		"cases" : 106,
+		"deaths" : 12,
+		"population" : 24935
+		},
+	"Unknown" : {
+		"cases" : 139,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

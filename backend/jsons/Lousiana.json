@@ -1,0 +1,327 @@
+{
+	"Acadia" : {
+		"cases" : 850,
+		"deaths" : 37,
+		"population" : 61773
+		},
+	"Allen" : {
+		"cases" : 287,
+		"deaths" : 10,
+		"population" : 25764
+		},
+	"Ascension" : {
+		"cases" : 1157,
+		"deaths" : 58,
+		"population" : 107215
+		},
+	"Assumption" : {
+		"cases" : 351,
+		"deaths" : 14,
+		"population" : 23421
+		},
+	"Avoyelles" : {
+		"cases" : 309,
+		"deaths" : 11,
+		"population" : 42073
+		},
+	"Beauregard" : {
+		"cases" : 193,
+		"deaths" : 8,
+		"population" : 35654
+		},
+	"Bienville" : {
+		"cases" : 220,
+		"deaths" : 26,
+		"population" : 14353
+		},
+	"Bossier" : {
+		"cases" : 836,
+		"deaths" : 29,
+		"population" : 116979
+		},
+	"Caddo" : {
+		"cases" : 3260,
+		"deaths" : 232,
+		"population" : 254969
+		},
+	"Calcasieu" : {
+		"cases" : 1257,
+		"deaths" : 54,
+		"population" : 192768
+		},
+	"Caldwell" : {
+		"cases" : 104,
+		"deaths" : 1,
+		"population" : 10132
+		},
+	"Cameron" : {
+		"cases" : 40,
+		"deaths" : 0,
+		"population" : 6839
+		},
+	"Catahoula" : {
+		"cases" : 190,
+		"deaths" : 3,
+		"population" : 10407
+		},
+	"Claiborne" : {
+		"cases" : 116,
+		"deaths" : 11,
+		"population" : 17195
+		},
+	"Concordia" : {
+		"cases" : 110,
+		"deaths" : 6,
+		"population" : 20822
+		},
+	"DeSoto" : {
+		"cases" : 341,
+		"deaths" : 18,
+		"population" : 26656
+		},
+	"East Baton Rouge" : {
+		"cases" : 5034,
+		"deaths" : 270,
+		"population" : 440171
+		},
+	"East Carroll" : {
+		"cases" : 432,
+		"deaths" : 1,
+		"population" : 7759
+		},
+	"East Feliciana" : {
+		"cases" : 299,
+		"deaths" : 33,
+		"population" : 20267
+		},
+	"Evangeline" : {
+		"cases" : 177,
+		"deaths" : 1,
+		"population" : 33984
+		},
+	"Franklin" : {
+		"cases" : 468,
+		"deaths" : 14,
+		"population" : 20767
+		},
+	"Grant" : {
+		"cases" : 83,
+		"deaths" : 1,
+		"population" : 22309
+		},
+	"Iberia" : {
+		"cases" : 673,
+		"deaths" : 44,
+		"population" : 73240
+		},
+	"Iberville" : {
+		"cases" : 702,
+		"deaths" : 43,
+		"population" : 33387
+		},
+	"Jackson" : {
+		"cases" : 212,
+		"deaths" : 16,
+		"population" : 16274
+		},
+	"Jefferson Davis" : {
+		"cases" : 339,
+		"deaths" : 8,
+		"population" : 31594
+		},
+	"Jefferson" : {
+		"cases" : 9403,
+		"deaths" : 483,
+		"population" : 432552
+		},
+	"Lafayette" : {
+		"cases" : 2058,
+		"deaths" : 41,
+		"population" : 221578
+		},
+	"Lafourche" : {
+		"cases" : 1119,
+		"deaths" : 86,
+		"population" : 96318
+		},
+	"LaSalle" : {
+		"cases" : 96,
+		"deaths" : 0,
+		"population" : 14890
+		},
+	"Lincoln" : {
+		"cases" : 314,
+		"deaths" : 18,
+		"population" : 46735
+		},
+	"Livingston" : {
+		"cases" : 860,
+		"deaths" : 37,
+		"population" : 128026
+		},
+	"Madison" : {
+		"cases" : 352,
+		"deaths" : 2,
+		"population" : 12093
+		},
+	"Morehouse" : {
+		"cases" : 237,
+		"deaths" : 8,
+		"population" : 27979
+		},
+	"Natchitoches" : {
+		"cases" : 280,
+		"deaths" : 14,
+		"population" : 39566
+		},
+	"Orleans" : {
+		"cases" : 7796,
+		"deaths" : 532,
+		"population" : 343829
+		},
+	"Ouachita" : {
+		"cases" : 2331,
+		"deaths" : 73,
+		"population" : 153720
+		},
+	"Plaquemines" : {
+		"cases" : 260,
+		"deaths" : 17,
+		"population" : 23042
+		},
+	"Pointe Coupee" : {
+		"cases" : 237,
+		"deaths" : 27,
+		"population" : 22802
+		},
+	"Rapides" : {
+		"cases" : 1499,
+		"deaths" : 57,
+		"population" : 131613
+		},
+	"Red River" : {
+		"cases" : 60,
+		"deaths" : 8,
+		"population" : 9091
+		},
+	"Richland" : {
+		"cases" : 183,
+		"deaths" : 4,
+		"population" : 20725
+		},
+	"Sabine" : {
+		"cases" : 77,
+		"deaths" : 1,
+		"population" : 24233
+		},
+	"St. Bernard" : {
+		"cases" : 611,
+		"deaths" : 23,
+		"population" : 35897
+		},
+	"St. Charles" : {
+		"cases" : 741,
+		"deaths" : 49,
+		"population" : 52780
+		},
+	"St. Helena" : {
+		"cases" : 90,
+		"deaths" : 1,
+		"population" : 11203
+		},
+	"St. James" : {
+		"cases" : 351,
+		"deaths" : 28,
+		"population" : 22102
+		},
+	"St. John the Baptist" : {
+		"cases" : 960,
+		"deaths" : 86,
+		"population" : 45924
+		},
+	"St. Landry" : {
+		"cases" : 619,
+		"deaths" : 57,
+		"population" : 83384
+		},
+	"St. Martin" : {
+		"cases" : 685,
+		"deaths" : 26,
+		"population" : 52160
+		},
+	"St. Mary" : {
+		"cases" : 457,
+		"deaths" : 38,
+		"population" : 54650
+		},
+	"St. Tammany" : {
+		"cases" : 2327,
+		"deaths" : 175,
+		"population" : 233740
+		},
+	"Tangipahoa" : {
+		"cases" : 1295,
+		"deaths" : 43,
+		"population" : 121097
+		},
+	"Tensas" : {
+		"cases" : 24,
+		"deaths" : 0,
+		"population" : 5066
+		},
+	"Terrebonne" : {
+		"cases" : 1011,
+		"deaths" : 61,
+		"population" : 111860
+		},
+	"Union" : {
+		"cases" : 417,
+		"deaths" : 24,
+		"population" : 22721
+		},
+	"Vermilion" : {
+		"cases" : 238,
+		"deaths" : 6,
+		"population" : 57999
+		},
+	"Vernon" : {
+		"cases" : 116,
+		"deaths" : 7,
+		"population" : 52334
+		},
+	"Washington" : {
+		"cases" : 663,
+		"deaths" : 46,
+		"population" : 47168
+		},
+	"Webster" : {
+		"cases" : 409,
+		"deaths" : 10,
+		"population" : 41207
+		},
+	"West Baton Rouge" : {
+		"cases" : 252,
+		"deaths" : 30,
+		"population" : 23788
+		},
+	"West Carroll" : {
+		"cases" : 118,
+		"deaths" : 5,
+		"population" : 11604
+		},
+	"West Feliciana" : {
+		"cases" : 242,
+		"deaths" : 14,
+		"population" : 15625
+		},
+	"Winn" : {
+		"cases" : 242,
+		"deaths" : 5,
+		"population" : 15313
+		},
+	"Under Investigation" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

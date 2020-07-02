@@ -1,0 +1,387 @@
+{
+	"74 / 75" : {
+		"cases" : 15142,
+		"deaths" : 224,
+		"population" : 2915918
+		},
+	"Arkansas" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 19019
+		},
+	"Ashley" : {
+		"cases" : 52,
+		"deaths" : 1,
+		"population" : 21853
+		},
+	"Baxter" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 41513
+		},
+	"Benton" : {
+		"cases" : 1904,
+		"deaths" : 13,
+		"population" : 221339
+		},
+	"Boone" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 36903
+		},
+	"Bradley" : {
+		"cases" : 37,
+		"deaths" : 2,
+		"population" : 11508
+		},
+	"Calhoun" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 5368
+		},
+	"Carroll" : {
+		"cases" : 126,
+		"deaths" : 4,
+		"population" : 27446
+		},
+	"Chicot" : {
+		"cases" : 70,
+		"deaths" : 2,
+		"population" : 11800
+		},
+	"Clark" : {
+		"cases" : 50,
+		"deaths" : 0,
+		"population" : 22995
+		},
+	"Clay" : {
+		"cases" : 33,
+		"deaths" : 1,
+		"population" : 16083
+		},
+	"Cleburne" : {
+		"cases" : 77,
+		"deaths" : 4,
+		"population" : 25970
+		},
+	"Cleveland" : {
+		"cases" : 22,
+		"deaths" : 0,
+		"population" : 8689
+		},
+	"Columbia" : {
+		"cases" : 32,
+		"deaths" : 2,
+		"population" : 24552
+		},
+	"Conway" : {
+		"cases" : 29,
+		"deaths" : 3,
+		"population" : 21273
+		},
+	"Craighead" : {
+		"cases" : 388,
+		"deaths" : 5,
+		"population" : 96443
+		},
+	"Crawford" : {
+		"cases" : 91,
+		"deaths" : 0,
+		"population" : 61948
+		},
+	"Crittenden" : {
+		"cases" : 577,
+		"deaths" : 92,
+		"population" : 50902
+		},
+	"Cross" : {
+		"cases" : 82,
+		"deaths" : 1,
+		"population" : 17870
+		},
+	"Dallas" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 8116
+		},
+	"Desha" : {
+		"cases" : 28,
+		"deaths" : 0,
+		"population" : 13008
+		},
+	"Drew" : {
+		"cases" : 34,
+		"deaths" : 1,
+		"population" : 18509
+		},
+	"Faulkner" : {
+		"cases" : 246,
+		"deaths" : 3,
+		"population" : 113237
+		},
+	"Franklin" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 18125
+		},
+	"Fulton" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 12245
+		},
+	"Garland" : {
+		"cases" : 177,
+		"deaths" : 1,
+		"population" : 96024
+		},
+	"Grant" : {
+		"cases" : 25,
+		"deaths" : 0,
+		"population" : 17853
+		},
+	"Greene" : {
+		"cases" : 89,
+		"deaths" : 0,
+		"population" : 42090
+		},
+	"Hempstead" : {
+		"cases" : 44,
+		"deaths" : 1,
+		"population" : 22609
+		},
+	"Hot Spring" : {
+		"cases" : 53,
+		"deaths" : 0,
+		"population" : 32923
+		},
+	"Howard" : {
+		"cases" : 62,
+		"deaths" : 0,
+		"population" : 13789
+		},
+	"Independence" : {
+		"cases" : 44,
+		"deaths" : 0,
+		"population" : 36647
+		},
+	"Izard" : {
+		"cases" : 20,
+		"deaths" : 1,
+		"population" : 13696
+		},
+	"Jackson" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 17997
+		},
+	"Jefferson" : {
+		"cases" : 644,
+		"deaths" : 28,
+		"population" : 77435
+		},
+	"Johnson" : {
+		"cases" : 135,
+		"deaths" : 0,
+		"population" : 25540
+		},
+	"Lafayette" : {
+		"cases" : 13,
+		"deaths" : 1,
+		"population" : 7645
+		},
+	"Lawrence" : {
+		"cases" : 93,
+		"deaths" : 9,
+		"population" : 17415
+		},
+	"Lee" : {
+		"cases" : 572,
+		"deaths" : 1,
+		"population" : 10424
+		},
+	"Lincoln" : {
+		"cases" : 1036,
+		"deaths" : 11,
+		"population" : 14134
+		},
+	"Little River" : {
+		"cases" : 35,
+		"deaths" : 0,
+		"population" : 13171
+		},
+	"Logan" : {
+		"cases" : 24,
+		"deaths" : 0,
+		"population" : 22353
+		},
+	"Lonoke" : {
+		"cases" : 86,
+		"deaths" : 0,
+		"population" : 68356
+		},
+	"Madison" : {
+		"cases" : 142,
+		"deaths" : 0,
+		"population" : 15717
+		},
+	"Marion" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 16653
+		},
+	"Miller" : {
+		"cases" : 87,
+		"deaths" : 2,
+		"population" : 43462
+		},
+	"Mississippi" : {
+		"cases" : 110,
+		"deaths" : 3,
+		"population" : 46480
+		},
+	"Monroe" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 8149
+		},
+	"Montgomery" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 9487
+		},
+	"Nevada" : {
+		"cases" : 87,
+		"deaths" : 2,
+		"population" : 8997
+		},
+	"Newton" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 8330
+		},
+	"Ouachita" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 26120
+		},
+	"Perry" : {
+		"cases" : 25,
+		"deaths" : 0,
+		"population" : 10445
+		},
+	"Phillips" : {
+		"cases" : 79,
+		"deaths" : 2,
+		"population" : 21757
+		},
+	"Pike" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 11291
+		},
+	"Poinsett" : {
+		"cases" : 53,
+		"deaths" : 3,
+		"population" : 24583
+		},
+	"Polk" : {
+		"cases" : 63,
+		"deaths" : 0,
+		"population" : 20662
+		},
+	"Pope" : {
+		"cases" : 322,
+		"deaths" : 2,
+		"population" : 61754
+		},
+	"Prairie" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 8715
+		},
+	"Pulaski" : {
+		"cases" : 1499,
+		"deaths" : 52,
+		"population" : 382748
+		},
+	"Randolph" : {
+		"cases" : 34,
+		"deaths" : 1,
+		"population" : 17969
+		},
+	"Saline" : {
+		"cases" : 200,
+		"deaths" : 2,
+		"population" : 107118
+		},
+	"Scott" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 11233
+		},
+	"Searcy" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 8195
+		},
+	"Sebastian" : {
+		"cases" : 226,
+		"deaths" : 2,
+		"population" : 125744
+		},
+	"Sevier" : {
+		"cases" : 563,
+		"deaths" : 5,
+		"population" : 17058
+		},
+	"Sharp" : {
+		"cases" : 50,
+		"deaths" : 4,
+		"population" : 17264
+		},
+	"St. Francis" : {
+		"cases" : 791,
+		"deaths" : 3,
+		"population" : 28258
+		},
+	"Stone" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 12394
+		},
+	"Union" : {
+		"cases" : 223,
+		"deaths" : 13,
+		"population" : 41639
+		},
+	"Van Buren" : {
+		"cases" : 30,
+		"deaths" : 2,
+		"population" : 17295
+		},
+	"Washington" : {
+		"cases" : 2321,
+		"deaths" : 18,
+		"population" : 203065
+		},
+	"White" : {
+		"cases" : 73,
+		"deaths" : 1,
+		"population" : 77076
+		},
+	"Woodruff" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 7260
+		},
+	"Yell" : {
+		"cases" : 403,
+		"deaths" : 2,
+		"population" : 22185
+		},
+	"Missing county information" : {
+		"cases" : 560,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

@@ -1,0 +1,807 @@
+{
+	"Appling" : {
+		"cases" : 216,
+		"deaths" : 13,
+		"population" : 18368
+		},
+	"Atkinson" : {
+		"cases" : 90,
+		"deaths" : 2,
+		"population" : 8284
+		},
+	"Bacon" : {
+		"cases" : 194,
+		"deaths" : 4,
+		"population" : 11198
+		},
+	"Baker" : {
+		"cases" : 36,
+		"deaths" : 3,
+		"population" : 3366
+		},
+	"Baldwin" : {
+		"cases" : 441,
+		"deaths" : 33,
+		"population" : 46367
+		},
+	"Banks" : {
+		"cases" : 114,
+		"deaths" : 0,
+		"population" : 18316
+		},
+	"Barrow" : {
+		"cases" : 415,
+		"deaths" : 25,
+		"population" : 70169
+		},
+	"Bartow" : {
+		"cases" : 587,
+		"deaths" : 39,
+		"population" : 100661
+		},
+	"Ben Hill" : {
+		"cases" : 119,
+		"deaths" : 1,
+		"population" : 17538
+		},
+	"Berrien" : {
+		"cases" : 89,
+		"deaths" : 0,
+		"population" : 19041
+		},
+	"Bibb" : {
+		"cases" : 597,
+		"deaths" : 37,
+		"population" : 156462
+		},
+	"Bleckley" : {
+		"cases" : 54,
+		"deaths" : 1,
+		"population" : 12913
+		},
+	"Brantley" : {
+		"cases" : 73,
+		"deaths" : 2,
+		"population" : 18587
+		},
+	"Brooks" : {
+		"cases" : 112,
+		"deaths" : 11,
+		"population" : 15403
+		},
+	"Bryan" : {
+		"cases" : 94,
+		"deaths" : 5,
+		"population" : 32214
+		},
+	"Bulloch" : {
+		"cases" : 147,
+		"deaths" : 3,
+		"population" : 72694
+		},
+	"Burke" : {
+		"cases" : 132,
+		"deaths" : 6,
+		"population" : 23125
+		},
+	"Butts" : {
+		"cases" : 246,
+		"deaths" : 32,
+		"population" : 23524
+		},
+	"Calhoun" : {
+		"cases" : 157,
+		"deaths" : 6,
+		"population" : 6504
+		},
+	"Camden" : {
+		"cases" : 92,
+		"deaths" : 1,
+		"population" : 51402
+		},
+	"Candler" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 11117
+		},
+	"Carroll" : {
+		"cases" : 622,
+		"deaths" : 39,
+		"population" : 111580
+		},
+	"Catoosa" : {
+		"cases" : 275,
+		"deaths" : 6,
+		"population" : 65046
+		},
+	"Charlton" : {
+		"cases" : 38,
+		"deaths" : 2,
+		"population" : 13295
+		},
+	"Chatham" : {
+		"cases" : 760,
+		"deaths" : 32,
+		"population" : 276434
+		},
+	"Chattahoochee" : {
+		"cases" : 312,
+		"deaths" : 1,
+		"population" : 13037
+		},
+	"Chattooga" : {
+		"cases" : 49,
+		"deaths" : 2,
+		"population" : 25725
+		},
+	"Cherokee" : {
+		"cases" : 1093,
+		"deaths" : 39,
+		"population" : 221315
+		},
+	"Clarke" : {
+		"cases" : 376,
+		"deaths" : 15,
+		"population" : 120266
+		},
+	"Clay" : {
+		"cases" : 56,
+		"deaths" : 2,
+		"population" : 3116
+		},
+	"Clayton" : {
+		"cases" : 1567,
+		"deaths" : 76,
+		"population" : 265888
+		},
+	"Clinch" : {
+		"cases" : 85,
+		"deaths" : 2,
+		"population" : 6718
+		},
+	"Cobb" : {
+		"cases" : 3841,
+		"deaths" : 229,
+		"population" : 707442
+		},
+	"Coffee" : {
+		"cases" : 406,
+		"deaths" : 15,
+		"population" : 43170
+		},
+	"Colquitt" : {
+		"cases" : 729,
+		"deaths" : 17,
+		"population" : 46137
+		},
+	"Columbia" : {
+		"cases" : 339,
+		"deaths" : 8,
+		"population" : 131627
+		},
+	"Cook" : {
+		"cases" : 90,
+		"deaths" : 1,
+		"population" : 16923
+		},
+	"Coweta" : {
+		"cases" : 545,
+		"deaths" : 14,
+		"population" : 130929
+		},
+	"Crawford" : {
+		"cases" : 36,
+		"deaths" : 0,
+		"population" : 12600
+		},
+	"Crisp" : {
+		"cases" : 257,
+		"deaths" : 11,
+		"population" : 23606
+		},
+	"Dade" : {
+		"cases" : 59,
+		"deaths" : 1,
+		"population" : 16490
+		},
+	"Dawson" : {
+		"cases" : 124,
+		"deaths" : 3,
+		"population" : 22422
+		},
+	"Decatur" : {
+		"cases" : 243,
+		"deaths" : 8,
+		"population" : 27509
+		},
+	"DeKalb" : {
+		"cases" : 4666,
+		"deaths" : 165,
+		"population" : 707089
+		},
+	"Dodge" : {
+		"cases" : 67,
+		"deaths" : 2,
+		"population" : 21329
+		},
+	"Dooly" : {
+		"cases" : 194,
+		"deaths" : 12,
+		"population" : 14318
+		},
+	"Dougherty" : {
+		"cases" : 1844,
+		"deaths" : 151,
+		"population" : 94501
+		},
+	"Douglas" : {
+		"cases" : 712,
+		"deaths" : 35,
+		"population" : 133971
+		},
+	"Early" : {
+		"cases" : 256,
+		"deaths" : 31,
+		"population" : 10594
+		},
+	"Echols" : {
+		"cases" : 172,
+		"deaths" : 0,
+		"population" : 3988
+		},
+	"Effingham" : {
+		"cases" : 96,
+		"deaths" : 1,
+		"population" : 53293
+		},
+	"Elbert" : {
+		"cases" : 91,
+		"deaths" : 0,
+		"population" : 19684
+		},
+	"Emanuel" : {
+		"cases" : 59,
+		"deaths" : 2,
+		"population" : 22898
+		},
+	"Evans" : {
+		"cases" : 16,
+		"deaths" : 0,
+		"population" : 10689
+		},
+	"Fannin" : {
+		"cases" : 75,
+		"deaths" : 1,
+		"population" : 23492
+		},
+	"Fayette" : {
+		"cases" : 279,
+		"deaths" : 16,
+		"population" : 107524
+		},
+	"Floyd" : {
+		"cases" : 404,
+		"deaths" : 15,
+		"population" : 96177
+		},
+	"Forsyth" : {
+		"cases" : 642,
+		"deaths" : 14,
+		"population" : 187928
+		},
+	"Franklin" : {
+		"cases" : 156,
+		"deaths" : 1,
+		"population" : 21894
+		},
+	"Fulton" : {
+		"cases" : 5444,
+		"deaths" : 304,
+		"population" : 1041423
+		},
+	"Gilmer" : {
+		"cases" : 177,
+		"deaths" : 2,
+		"population" : 28190
+		},
+	"Glascock" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 3142
+		},
+	"Glynn" : {
+		"cases" : 265,
+		"deaths" : 3,
+		"population" : 81022
+		},
+	"Gordon" : {
+		"cases" : 287,
+		"deaths" : 18,
+		"population" : 55766
+		},
+	"Grady" : {
+		"cases" : 162,
+		"deaths" : 4,
+		"population" : 25440
+		},
+	"Greene" : {
+		"cases" : 88,
+		"deaths" : 9,
+		"population" : 16092
+		},
+	"Gwinnett" : {
+		"cases" : 6043,
+		"deaths" : 162,
+		"population" : 842046
+		},
+	"Habersham" : {
+		"cases" : 635,
+		"deaths" : 34,
+		"population" : 43520
+		},
+	"Hall" : {
+		"cases" : 2922,
+		"deaths" : 58,
+		"population" : 185416
+		},
+	"Hancock" : {
+		"cases" : 203,
+		"deaths" : 32,
+		"population" : 8996
+		},
+	"Haralson" : {
+		"cases" : 63,
+		"deaths" : 4,
+		"population" : 28400
+		},
+	"Harris" : {
+		"cases" : 240,
+		"deaths" : 8,
+		"population" : 32550
+		},
+	"Hart" : {
+		"cases" : 48,
+		"deaths" : 0,
+		"population" : 25518
+		},
+	"Heard" : {
+		"cases" : 45,
+		"deaths" : 3,
+		"population" : 11633
+		},
+	"Henry" : {
+		"cases" : 930,
+		"deaths" : 31,
+		"population" : 209053
+		},
+	"Houston" : {
+		"cases" : 486,
+		"deaths" : 20,
+		"population" : 146136
+		},
+	"Irwin" : {
+		"cases" : 45,
+		"deaths" : 1,
+		"population" : 9600
+		},
+	"Jackson" : {
+		"cases" : 297,
+		"deaths" : 7,
+		"population" : 60571
+		},
+	"Jasper" : {
+		"cases" : 61,
+		"deaths" : 1,
+		"population" : 13630
+		},
+	"Jeff Davis" : {
+		"cases" : 72,
+		"deaths" : 2,
+		"population" : 15156
+		},
+	"Jefferson" : {
+		"cases" : 67,
+		"deaths" : 1,
+		"population" : 16432
+		},
+	"Jenkins" : {
+		"cases" : 72,
+		"deaths" : 9,
+		"population" : 9213
+		},
+	"Johnson" : {
+		"cases" : 80,
+		"deaths" : 2,
+		"population" : 9897
+		},
+	"Jones" : {
+		"cases" : 51,
+		"deaths" : 0,
+		"population" : 28577
+		},
+	"Lamar" : {
+		"cases" : 87,
+		"deaths" : 6,
+		"population" : 18057
+		},
+	"Lanier" : {
+		"cases" : 112,
+		"deaths" : 2,
+		"population" : 10400
+		},
+	"Laurens" : {
+		"cases" : 131,
+		"deaths" : 1,
+		"population" : 48041
+		},
+	"Lee" : {
+		"cases" : 377,
+		"deaths" : 22,
+		"population" : 28746
+		},
+	"Liberty" : {
+		"cases" : 100,
+		"deaths" : 1,
+		"population" : 65471
+		},
+	"Lincoln" : {
+		"cases" : 21,
+		"deaths" : 1,
+		"population" : 7737
+		},
+	"Long" : {
+		"cases" : 28,
+		"deaths" : 1,
+		"population" : 16048
+		},
+	"Lowndes" : {
+		"cases" : 871,
+		"deaths" : 4,
+		"population" : 114552
+		},
+	"Lumpkin" : {
+		"cases" : 118,
+		"deaths" : 2,
+		"population" : 30611
+		},
+	"Macon" : {
+		"cases" : 112,
+		"deaths" : 9,
+		"population" : 14263
+		},
+	"Madison" : {
+		"cases" : 77,
+		"deaths" : 4,
+		"population" : 27922
+		},
+	"Marion" : {
+		"cases" : 73,
+		"deaths" : 3,
+		"population" : 8711
+		},
+	"McDuffie" : {
+		"cases" : 78,
+		"deaths" : 5,
+		"population" : 21663
+		},
+	"McIntosh" : {
+		"cases" : 23,
+		"deaths" : 1,
+		"population" : 13839
+		},
+	"Meriwether" : {
+		"cases" : 148,
+		"deaths" : 2,
+		"population" : 21273
+		},
+	"Miller" : {
+		"cases" : 45,
+		"deaths" : 0,
+		"population" : 5969
+		},
+	"Mitchell" : {
+		"cases" : 433,
+		"deaths" : 38,
+		"population" : 23144
+		},
+	"Monroe" : {
+		"cases" : 135,
+		"deaths" : 15,
+		"population" : 26637
+		},
+	"Montgomery" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 8913
+		},
+	"Morgan" : {
+		"cases" : 44,
+		"deaths" : 0,
+		"population" : 17881
+		},
+	"Murray" : {
+		"cases" : 162,
+		"deaths" : 1,
+		"population" : 39392
+		},
+	"Muscogee" : {
+		"cases" : 1147,
+		"deaths" : 34,
+		"population" : 198413
+		},
+	"Newton" : {
+		"cases" : 466,
+		"deaths" : 11,
+		"population" : 101505
+		},
+	"Oconee" : {
+		"cases" : 132,
+		"deaths" : 10,
+		"population" : 33619
+		},
+	"Oglethorpe" : {
+		"cases" : 81,
+		"deaths" : 7,
+		"population" : 14618
+		},
+	"Paulding" : {
+		"cases" : 460,
+		"deaths" : 14,
+		"population" : 144800
+		},
+	"Peach" : {
+		"cases" : 93,
+		"deaths" : 9,
+		"population" : 27622
+		},
+	"Pickens" : {
+		"cases" : 78,
+		"deaths" : 5,
+		"population" : 29268
+		},
+	"Pierce" : {
+		"cases" : 135,
+		"deaths" : 4,
+		"population" : 18844
+		},
+	"Pike" : {
+		"cases" : 81,
+		"deaths" : 3,
+		"population" : 17810
+		},
+	"Polk" : {
+		"cases" : 178,
+		"deaths" : 1,
+		"population" : 41188
+		},
+	"Pulaski" : {
+		"cases" : 46,
+		"deaths" : 2,
+		"population" : 11720
+		},
+	"Putnam" : {
+		"cases" : 115,
+		"deaths" : 11,
+		"population" : 21198
+		},
+	"Quitman" : {
+		"cases" : 15,
+		"deaths" : 1,
+		"population" : 2404
+		},
+	"Rabun" : {
+		"cases" : 35,
+		"deaths" : 4,
+		"population" : 16297
+		},
+	"Randolph" : {
+		"cases" : 194,
+		"deaths" : 23,
+		"population" : 7327
+		},
+	"Richmond" : {
+		"cases" : 740,
+		"deaths" : 42,
+		"population" : 202587
+		},
+	"Rockdale" : {
+		"cases" : 362,
+		"deaths" : 9,
+		"population" : 85820
+		},
+	"Schley" : {
+		"cases" : 21,
+		"deaths" : 1,
+		"population" : 4990
+		},
+	"Screven" : {
+		"cases" : 75,
+		"deaths" : 4,
+		"population" : 14202
+		},
+	"Seminole" : {
+		"cases" : 48,
+		"deaths" : 2,
+		"population" : 8947
+		},
+	"Spalding" : {
+		"cases" : 337,
+		"deaths" : 31,
+		"population" : 63865
+		},
+	"Stephens" : {
+		"cases" : 165,
+		"deaths" : 5,
+		"population" : 25891
+		},
+	"Stewart" : {
+		"cases" : 82,
+		"deaths" : 1,
+		"population" : 6042
+		},
+	"Sumter" : {
+		"cases" : 532,
+		"deaths" : 49,
+		"population" : 31554
+		},
+	"Talbot" : {
+		"cases" : 57,
+		"deaths" : 2,
+		"population" : 6517
+		},
+	"Taliaferro" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 1680
+		},
+	"Tattnall" : {
+		"cases" : 80,
+		"deaths" : 0,
+		"population" : 25384
+		},
+	"Taylor" : {
+		"cases" : 27,
+		"deaths" : 2,
+		"population" : 8420
+		},
+	"Telfair" : {
+		"cases" : 63,
+		"deaths" : 2,
+		"population" : 16349
+		},
+	"Terrell" : {
+		"cases" : 217,
+		"deaths" : 27,
+		"population" : 9045
+		},
+	"Thomas" : {
+		"cases" : 371,
+		"deaths" : 33,
+		"population" : 44724
+		},
+	"Tift" : {
+		"cases" : 513,
+		"deaths" : 25,
+		"population" : 41064
+		},
+	"Toombs" : {
+		"cases" : 143,
+		"deaths" : 5,
+		"population" : 27315
+		},
+	"Towns" : {
+		"cases" : 36,
+		"deaths" : 1,
+		"population" : 10495
+		},
+	"Treutlen" : {
+		"cases" : 19,
+		"deaths" : 1,
+		"population" : 6769
+		},
+	"Troup" : {
+		"cases" : 947,
+		"deaths" : 26,
+		"population" : 68468
+		},
+	"Turner" : {
+		"cases" : 166,
+		"deaths" : 16,
+		"population" : 8410
+		},
+	"Twiggs" : {
+		"cases" : 23,
+		"deaths" : 1,
+		"population" : 8447
+		},
+	"Union" : {
+		"cases" : 56,
+		"deaths" : 3,
+		"population" : 21451
+		},
+	"Upson" : {
+		"cases" : 319,
+		"deaths" : 43,
+		"population" : 26630
+		},
+	"Walker" : {
+		"cases" : 283,
+		"deaths" : 5,
+		"population" : 68094
+		},
+	"Walton" : {
+		"cases" : 343,
+		"deaths" : 25,
+		"population" : 84575
+		},
+	"Ware" : {
+		"cases" : 309,
+		"deaths" : 15,
+		"population" : 35821
+		},
+	"Warren" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 5578
+		},
+	"Washington" : {
+		"cases" : 79,
+		"deaths" : 1,
+		"population" : 20879
+		},
+	"Wayne" : {
+		"cases" : 44,
+		"deaths" : 0,
+		"population" : 30305
+		},
+	"Webster" : {
+		"cases" : 17,
+		"deaths" : 1,
+		"population" : 2793
+		},
+	"Wheeler" : {
+		"cases" : 35,
+		"deaths" : 0,
+		"population" : 7888
+		},
+	"White" : {
+		"cases" : 129,
+		"deaths" : 4,
+		"population" : 27556
+		},
+	"Whitfield" : {
+		"cases" : 741,
+		"deaths" : 10,
+		"population" : 103359
+		},
+	"Wilcox" : {
+		"cases" : 121,
+		"deaths" : 15,
+		"population" : 9068
+		},
+	"Wilkes" : {
+		"cases" : 43,
+		"deaths" : 1,
+		"population" : 10076
+		},
+	"Wilkinson" : {
+		"cases" : 73,
+		"deaths" : 7,
+		"population" : 9577
+		},
+	"Worth" : {
+		"cases" : 282,
+		"deaths" : 21,
+		"population" : 21741
+		},
+	"Non-resident" : {
+		"cases" : 3140,
+		"deaths" : 40,
+		"population" : "NaN"
+		},
+	"Unknown" : {
+		"cases" : 1850,
+		"deaths" : 1,
+		"population" : "NaN"
+		}
+}

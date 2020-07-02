@@ -1,0 +1,362 @@
+{
+	"Adams" : {
+		"cases" : 11,
+		"deaths" : 2,
+		"population" : 20073
+		},
+	"Ashland" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 15712
+		},
+	"Barron" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 45252
+		},
+	"Bayfield" : {
+		"cases" : 3,
+		"deaths" : 1,
+		"population" : 14992
+		},
+	"Brown" : {
+		"cases" : 2581,
+		"deaths" : 39,
+		"population" : 259786
+		},
+	"Buffalo" : {
+		"cases" : 6,
+		"deaths" : 2,
+		"population" : 13167
+		},
+	"Burnett" : {
+		"cases" : 2,
+		"deaths" : 1,
+		"population" : 15258
+		},
+	"Calumet" : {
+		"cases" : 92,
+		"deaths" : 2,
+		"population" : 49807
+		},
+	"Chippewa" : {
+		"cases" : 70,
+		"deaths" : 0,
+		"population" : 63635
+		},
+	"Clark" : {
+		"cases" : 60,
+		"deaths" : 6,
+		"population" : 34491
+		},
+	"Columbia" : {
+		"cases" : 69,
+		"deaths" : 1,
+		"population" : 56954
+		},
+	"Crawford" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 16288
+		},
+	"Dane" : {
+		"cases" : 1139,
+		"deaths" : 32,
+		"population" : 529843
+		},
+	"Dodge" : {
+		"cases" : 437,
+		"deaths" : 5,
+		"population" : 87776
+		},
+	"Door" : {
+		"cases" : 40,
+		"deaths" : 3,
+		"population" : 27439
+		},
+	"Douglas" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 43402
+		},
+	"Dunn" : {
+		"cases" : 29,
+		"deaths" : 0,
+		"population" : 44498
+		},
+	"Eau Claire" : {
+		"cases" : 163,
+		"deaths" : 1,
+		"population" : 102991
+		},
+	"Florence" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 4337
+		},
+	"Fond du Lac" : {
+		"cases" : 295,
+		"deaths" : 6,
+		"population" : 102315
+		},
+	"Forest" : {
+		"cases" : 35,
+		"deaths" : 3,
+		"population" : 9018
+		},
+	"Grant" : {
+		"cases" : 129,
+		"deaths" : 12,
+		"population" : 51828
+		},
+	"Green" : {
+		"cases" : 80,
+		"deaths" : 1,
+		"population" : 36864
+		},
+	"Green Lake" : {
+		"cases" : 24,
+		"deaths" : 0,
+		"population" : 18757
+		},
+	"Iowa" : {
+		"cases" : 22,
+		"deaths" : 0,
+		"population" : 23620
+		},
+	"Iron" : {
+		"cases" : 2,
+		"deaths" : 1,
+		"population" : 5715
+		},
+	"Jackson" : {
+		"cases" : 24,
+		"deaths" : 1,
+		"population" : 20506
+		},
+	"Jefferson" : {
+		"cases" : 181,
+		"deaths" : 4,
+		"population" : 84652
+		},
+	"Juneau" : {
+		"cases" : 29,
+		"deaths" : 1,
+		"population" : 26419
+		},
+	"Kenosha" : {
+		"cases" : 1421,
+		"deaths" : 39,
+		"population" : 168330
+		},
+	"Kewaunee" : {
+		"cases" : 44,
+		"deaths" : 1,
+		"population" : 20360
+		},
+	"La Crosse" : {
+		"cases" : 274,
+		"deaths" : 0,
+		"population" : 117850
+		},
+	"Lafayette" : {
+		"cases" : 56,
+		"deaths" : 0,
+		"population" : 16735
+		},
+	"Langlade" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 19164
+		},
+	"Lincoln" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 27848
+		},
+	"Manitowoc" : {
+		"cases" : 70,
+		"deaths" : 1,
+		"population" : 79407
+		},
+	"Marathon" : {
+		"cases" : 115,
+		"deaths" : 1,
+		"population" : 135264
+		},
+	"Marinette" : {
+		"cases" : 42,
+		"deaths" : 3,
+		"population" : 40537
+		},
+	"Marquette" : {
+		"cases" : 10,
+		"deaths" : 1,
+		"population" : 15207
+		},
+	"Menominee" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 4579
+		},
+	"Milwaukee" : {
+		"cases" : 10355,
+		"deaths" : 371,
+		"population" : 954209
+		},
+	"Monroe" : {
+		"cases" : 50,
+		"deaths" : 1,
+		"population" : 45502
+		},
+	"Oconto" : {
+		"cases" : 49,
+		"deaths" : 0,
+		"population" : 37556
+		},
+	"Oneida" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 35345
+		},
+	"Outagamie" : {
+		"cases" : 402,
+		"deaths" : 8,
+		"population" : 184754
+		},
+	"Ozaukee" : {
+		"cases" : 209,
+		"deaths" : 15,
+		"population" : 88284
+		},
+	"Pepin" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 7262
+		},
+	"Pierce" : {
+		"cases" : 57,
+		"deaths" : 0,
+		"population" : 41603
+		},
+	"Polk" : {
+		"cases" : 40,
+		"deaths" : 1,
+		"population" : 43349
+		},
+	"Portage" : {
+		"cases" : 96,
+		"deaths" : 0,
+		"population" : 70599
+		},
+	"Price" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 13490
+		},
+	"Racine" : {
+		"cases" : 2090,
+		"deaths" : 58,
+		"population" : 195398
+		},
+	"Richland" : {
+		"cases" : 15,
+		"deaths" : 4,
+		"population" : 17539
+		},
+	"Rock" : {
+		"cases" : 791,
+		"deaths" : 23,
+		"population" : 161769
+		},
+	"Rusk" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 14183
+		},
+	"Sauk" : {
+		"cases" : 96,
+		"deaths" : 3,
+		"population" : 63596
+		},
+	"Sawyer" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 16370
+		},
+	"Shawano" : {
+		"cases" : 70,
+		"deaths" : 0,
+		"population" : 41009
+		},
+	"Sheboygan" : {
+		"cases" : 185,
+		"deaths" : 4,
+		"population" : 115205
+		},
+	"St. Croix" : {
+		"cases" : 131,
+		"deaths" : 1,
+		"population" : 87917
+		},
+	"Taylor" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 20356
+		},
+	"Trempealeau" : {
+		"cases" : 92,
+		"deaths" : 0,
+		"population" : 29438
+		},
+	"Vernon" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 30516
+		},
+	"Vilas" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 21593
+		},
+	"Walworth" : {
+		"cases" : 498,
+		"deaths" : 18,
+		"population" : 103013
+		},
+	"Washburn" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 15689
+		},
+	"Washington" : {
+		"cases" : 322,
+		"deaths" : 13,
+		"population" : 134535
+		},
+	"Waukesha" : {
+		"cases" : 1015,
+		"deaths" : 38,
+		"population" : 398879
+		},
+	"Waupaca" : {
+		"cases" : 91,
+		"deaths" : 5,
+		"population" : 51444
+		},
+	"Waushara" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 24116
+		},
+	"Winnebago" : {
+		"cases" : 608,
+		"deaths" : 11,
+		"population" : 169926
+		},
+	"Wood" : {
+		"cases" : 33,
+		"deaths" : 1,
+		"population" : 73274
+		}
+}

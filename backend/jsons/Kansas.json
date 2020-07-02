@@ -1,0 +1,527 @@
+{
+	"Allen" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 12925
+		},
+	"Anderson" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 7947
+		},
+	"Atchison" : {
+		"cases" : 34,
+		"deaths" : 0,
+		"population" : 16529
+		},
+	"Barber" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 4614
+		},
+	"Barton" : {
+		"cases" : 55,
+		"deaths" : 2,
+		"population" : 26597
+		},
+	"Bourbon" : {
+		"cases" : 27,
+		"deaths" : 1,
+		"population" : 14653
+		},
+	"Brown" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 9618
+		},
+	"Butler" : {
+		"cases" : 59,
+		"deaths" : 0,
+		"population" : 68754
+		},
+	"Chase" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 2811
+		},
+	"Chautauqua" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 3462
+		},
+	"Cherokee" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 20926
+		},
+	"Cheyenne" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 2688
+		},
+	"Clark" : {
+		"cases" : 34,
+		"deaths" : 1,
+		"population" : 2186
+		},
+	"Clay" : {
+		"cases" : 7,
+		"deaths" : 2,
+		"population" : 8240
+		},
+	"Cloud" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 9105
+		},
+	"Coffey" : {
+		"cases" : 53,
+		"deaths" : 8,
+		"population" : 8571
+		},
+	"Comanche" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 1827
+		},
+	"Cowley" : {
+		"cases" : 71,
+		"deaths" : 1,
+		"population" : 35310
+		},
+	"Crawford" : {
+		"cases" : 263,
+		"deaths" : 1,
+		"population" : 39130
+		},
+	"Decatur" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 2854
+		},
+	"Dickinson" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 19406
+		},
+	"Doniphan" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 7954
+		},
+	"Douglas" : {
+		"cases" : 188,
+		"deaths" : 0,
+		"population" : 123106
+		},
+	"Edwards" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 2934
+		},
+	"Elk" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2974
+		},
+	"Ellis" : {
+		"cases" : 23,
+		"deaths" : 0,
+		"population" : 28833
+		},
+	"Ellsworth" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 6467
+		},
+	"Finney" : {
+		"cases" : 1541,
+		"deaths" : 10,
+		"population" : 37282
+		},
+	"Ford" : {
+		"cases" : 2008,
+		"deaths" : 8,
+		"population" : 34596
+		},
+	"Franklin" : {
+		"cases" : 72,
+		"deaths" : 1,
+		"population" : 26390
+		},
+	"Geary" : {
+		"cases" : 70,
+		"deaths" : 1,
+		"population" : 33991
+		},
+	"Gove" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2603
+		},
+	"Graham" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 2467
+		},
+	"Grant" : {
+		"cases" : 46,
+		"deaths" : 1,
+		"population" : 7675
+		},
+	"Gray" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 5976
+		},
+	"Greeley" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 1242
+		},
+	"Greenwood" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 6090
+		},
+	"Hamilton" : {
+		"cases" : 33,
+		"deaths" : 0,
+		"population" : 2648
+		},
+	"Harper" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 5746
+		},
+	"Harvey" : {
+		"cases" : 39,
+		"deaths" : 1,
+		"population" : 35093
+		},
+	"Haskell" : {
+		"cases" : 24,
+		"deaths" : 0,
+		"population" : 4134
+		},
+	"Hodgeman" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 1870
+		},
+	"Jackson" : {
+		"cases" : 112,
+		"deaths" : 1,
+		"population" : 13539
+		},
+	"Jefferson" : {
+		"cases" : 25,
+		"deaths" : 0,
+		"population" : 19526
+		},
+	"Jewell" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 2847
+		},
+	"Johnson" : {
+		"cases" : 1870,
+		"deaths" : 87,
+		"population" : 605145
+		},
+	"Kearny" : {
+		"cases" : 48,
+		"deaths" : 1,
+		"population" : 4041
+		},
+	"Kingman" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 7556
+		},
+	"Kiowa" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 2488
+		},
+	"Labette" : {
+		"cases" : 61,
+		"deaths" : 0,
+		"population" : 20709
+		},
+	"Lane" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 1746
+		},
+	"Leavenworth" : {
+		"cases" : 1173,
+		"deaths" : 7,
+		"population" : 83053
+		},
+	"Lincoln" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 2989
+		},
+	"Linn" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 10177
+		},
+	"Logan" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2785
+		},
+	"Lyon" : {
+		"cases" : 492,
+		"deaths" : 7,
+		"population" : 33839
+		},
+	"Marion" : {
+		"cases" : 11,
+		"deaths" : 1,
+		"population" : 12387
+		},
+	"Marshall" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 9838
+		},
+	"McPherson" : {
+		"cases" : 74,
+		"deaths" : 0,
+		"population" : 29939
+		},
+	"Meade" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 4456
+		},
+	"Miami" : {
+		"cases" : 34,
+		"deaths" : 0,
+		"population" : 34605
+		},
+	"Mitchell" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 6066
+		},
+	"Montgomery" : {
+		"cases" : 36,
+		"deaths" : 3,
+		"population" : 33064
+		},
+	"Morris" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 5629
+		},
+	"Morton" : {
+		"cases" : 7,
+		"deaths" : 2,
+		"population" : 3188
+		},
+	"Nemaha" : {
+		"cases" : 28,
+		"deaths" : 0,
+		"population" : 10339
+		},
+	"Neosho" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 16180
+		},
+	"Ness" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 2974
+		},
+	"Norton" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 5581
+		},
+	"Osage" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 16219
+		},
+	"Osborne" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 3689
+		},
+	"Ottawa" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 5914
+		},
+	"Pawnee" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 6686
+		},
+	"Phillips" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 5380
+		},
+	"Pottawatomie" : {
+		"cases" : 74,
+		"deaths" : 0,
+		"population" : 25500
+		},
+	"Pratt" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 9391
+		},
+	"Rawlins" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 2436
+		},
+	"Reno" : {
+		"cases" : 74,
+		"deaths" : 0,
+		"population" : 62856
+		},
+	"Republic" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 4856
+		},
+	"Rice" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 9881
+		},
+	"Riley" : {
+		"cases" : 219,
+		"deaths" : 3,
+		"population" : 76252
+		},
+	"Rooks" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 5025
+		},
+	"Rush" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 3151
+		},
+	"Russell" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 6859
+		},
+	"Saline" : {
+		"cases" : 106,
+		"deaths" : 2,
+		"population" : 54976
+		},
+	"Scott" : {
+		"cases" : 16,
+		"deaths" : 0,
+		"population" : 5036
+		},
+	"Sedgwick" : {
+		"cases" : 1368,
+		"deaths" : 28,
+		"population" : 525731
+		},
+	"Seward" : {
+		"cases" : 973,
+		"deaths" : 2,
+		"population" : 22472
+		},
+	"Shawnee" : {
+		"cases" : 669,
+		"deaths" : 12,
+		"population" : 178577
+		},
+	"Sheridan" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 2552
+		},
+	"Sherman" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 5852
+		},
+	"Smith" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 3721
+		},
+	"Stafford" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 4368
+		},
+	"Stanton" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 2094
+		},
+	"Stevens" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 5709
+		},
+	"Sumner" : {
+		"cases" : 13,
+		"deaths" : 1,
+		"population" : 23224
+		},
+	"Thomas" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 7830
+		},
+	"Trego" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2881
+		},
+	"Wabaunsee" : {
+		"cases" : 35,
+		"deaths" : 0,
+		"population" : 7076
+		},
+	"Wallace" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 1514
+		},
+	"Washington" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 5562
+		},
+	"Wichita" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 2225
+		},
+	"Wilson" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 8872
+		},
+	"Woodson" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 3124
+		},
+	"Wyandotte" : {
+		"cases" : 2394,
+		"deaths" : 83,
+		"population" : 166100
+		}
+}

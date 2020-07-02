@@ -1,0 +1,72 @@
+{
+	"Barnstable" : {
+		"cases" : 1532,
+		"deaths" : 144,
+		"population" : 212990
+		},
+	"Berkshire" : {
+		"cases" : 594,
+		"deaths" : 44,
+		"population" : 124944
+		},
+	"Bristol" : {
+		"cases" : 8198,
+		"deaths" : 568,
+		"population" : 565217
+		},
+	"Dukes" : {
+		"cases" : 63,
+		"deaths" : 1,
+		"population" : 28731
+		},
+	"Essex" : {
+		"cases" : 16053,
+		"deaths" : 1099,
+		"population" : 789034
+		},
+	"Franklin" : {
+		"cases" : 366,
+		"deaths" : 54,
+		"population" : 70180
+		},
+	"Hampden" : {
+		"cases" : 6760,
+		"deaths" : 663,
+		"population" : 466372
+		},
+	"Hampshire" : {
+		"cases" : 958,
+		"deaths" : 110,
+		"population" : 160830
+		},
+	"Middlesex" : {
+		"cases" : 23915,
+		"deaths" : 1855,
+		"population" : 1611699
+		},
+	"Norfolk" : {
+		"cases" : 9151,
+		"deaths" : 927,
+		"population" : 706775
+		},
+	"Plymouth" : {
+		"cases" : 8671,
+		"deaths" : 663,
+		"population" : 521202
+		},
+	"Suffolk" : {
+		"cases" : 19795,
+		"deaths" : 1004,
+		"population" : 803907
+		},
+	"Worcester" : {
+		"cases" : 12324,
+		"deaths" : 921,
+		"population" : 830622
+		},
+	"Unknown" : {
+		"cases" : 287,
+		"deaths" : 7,
+		"population" : "NaN"
+		}
+}

@@ -135,6 +135,7 @@ def outputFromState(state, url):
 		print("THIS STATE NO TABLE FOUND" + state)
 		return
 
+
 	#print(right_table)
 
 	rows = right_table.findAll('tr')
@@ -156,20 +157,26 @@ def outputFromState(state, url):
 
 	col_headers = rows[row_index].findAll("th")
 
+	#print(col_headers)
+	#return
+
 	for i in range(len(col_headers)):
 		text = (col_headers[i].find(text=True)).lower()
 		#print(i, col_headers[i].find(text=True))
 		#-1 is for the fact that county is always #1 and is not included
 		#in the list later
 		#print(col_headers)
-		#print(text)
-		if "cases" == text:
-			cases_i = i - 1
-		elif ("deaths" in text) and ("/" not in text):
-			deaths_i = i - 1
+		print(text)
+		if "cases" in text and cases_i == 0:
+			cases_i = i
+		elif (("deaths" in text) and deaths_i == 0 and (not ("/" in text)) and (not ("100" in text))) :
+			deaths_i = i
 		elif "pop" in text:
-			pop_i = i - 1
+			pop_i = i
 
+	cases_i -= 1 if cases_i > 0 else 0
+	deaths_i -= 1 if deaths_i > 0 else 0
+	pop_i -= 1 if pop_i > 0 else 0
 
 
 	
@@ -184,22 +191,24 @@ def outputFromState(state, url):
 		#print(row)
 		county = {
 			"name" : "undefined",
-			"cases" : "-1",
-			"deaths" : "-1",
-			"population" : "-1"
+			"cases" : "\"NaN\"",
+			"deaths" : "\"NaN\"",
+			"population" : "\"NaN\""
 
 		}
 		cells = row.findAll("td")
 		if len(cells) == data_length:
 			#print(cells)
 			countyth = row.findAll("th")
+			countyth_idx = 0 if state != "Wisconsin" else 1 # wisconsin is special
 
 			if countyth is None or len(countyth) == 0:
 				print(state + " ERROR")
 				print(countyth)
 				print(row)
 				return
-			county["name"] = str(countyth[0].find(text=True).replace("\n","").replace(",",""))
+
+			county["name"] = str(countyth[countyth_idx].find(text=True).replace("\n","").replace(",",""))
 			county["cases"] = str(cells[cases_i].find(text=True).replace("\n","").replace(",",""))
 			county["deaths"] = str(cells[deaths_i].find(text=True).replace("\n","").replace(",",""))
 			county["population"] = str(cells[pop_i].find(text=True).replace("\n","").replace(",",""))

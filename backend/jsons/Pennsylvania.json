@@ -1,0 +1,337 @@
+{
+	"Adams" : {
+		"cases" : 309,
+		"deaths" : 11,
+		"population" : 101407
+		},
+	"Allegheny" : {
+		"cases" : 2760,
+		"deaths" : 183,
+		"population" : 1218452
+		},
+	"Armstrong" : {
+		"cases" : 69,
+		"deaths" : 6,
+		"population" : 68941
+		},
+	"Beaver" : {
+		"cases" : 619,
+		"deaths" : 77,
+		"population" : 170539
+		},
+	"Bedford" : {
+		"cases" : 63,
+		"deaths" : 2,
+		"population" : 49762
+		},
+	"Berks" : {
+		"cases" : 4374,
+		"deaths" : 343,
+		"population" : 411442
+		},
+	"Blair" : {
+		"cases" : 56,
+		"deaths" : 1,
+		"population" : 127089
+		},
+	"Bradford" : {
+		"cases" : 49,
+		"deaths" : 3,
+		"population" : 62622
+		},
+	"Bucks" : {
+		"cases" : 5510,
+		"deaths" : 551,
+		"population" : 625249
+		},
+	"Butler" : {
+		"cases" : 263,
+		"deaths" : 13,
+		"population" : 183862
+		},
+	"Cambria" : {
+		"cases" : 62,
+		"deaths" : 3,
+		"population" : 143679
+		},
+	"Cameron" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 5085
+		},
+	"Carbon" : {
+		"cases" : 264,
+		"deaths" : 24,
+		"population" : 65249
+		},
+	"Centre" : {
+		"cases" : 176,
+		"deaths" : 6,
+		"population" : 153990
+		},
+	"Chester" : {
+		"cases" : 3437,
+		"deaths" : 313,
+		"population" : 498886
+		},
+	"Clarion" : {
+		"cases" : 31,
+		"deaths" : 2,
+		"population" : 39988
+		},
+	"Clearfield" : {
+		"cases" : 63,
+		"deaths" : 0,
+		"population" : 81642
+		},
+	"Clinton" : {
+		"cases" : 67,
+		"deaths" : 3,
+		"population" : 39238
+		},
+	"Columbia" : {
+		"cases" : 390,
+		"deaths" : 33,
+		"population" : 67295
+		},
+	"Crawford" : {
+		"cases" : 38,
+		"deaths" : 0,
+		"population" : 88765
+		},
+	"Cumberland" : {
+		"cases" : 768,
+		"deaths" : 61,
+		"population" : 235406
+		},
+	"Dauphin" : {
+		"cases" : 1725,
+		"deaths" : 118,
+		"population" : 268100
+		},
+	"Delaware" : {
+		"cases" : 7003,
+		"deaths" : 634,
+		"population" : 558979
+		},
+	"Elk" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 31946
+		},
+	"Erie" : {
+		"cases" : 515,
+		"deaths" : 9,
+		"population" : 280566
+		},
+	"Fayette" : {
+		"cases" : 103,
+		"deaths" : 4,
+		"population" : 136606
+		},
+	"Forest" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 7716
+		},
+	"Franklin" : {
+		"cases" : 872,
+		"deaths" : 42,
+		"population" : 149618
+		},
+	"Fulton" : {
+		"cases" : 17,
+		"deaths" : 1,
+		"population" : 14845
+		},
+	"Greene" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 38686
+		},
+	"Huntingdon" : {
+		"cases" : 240,
+		"deaths" : 4,
+		"population" : 45913
+		},
+	"Indiana" : {
+		"cases" : 98,
+		"deaths" : 5,
+		"population" : 88880
+		},
+	"Jefferson" : {
+		"cases" : 20,
+		"deaths" : 1,
+		"population" : 45200
+		},
+	"Juniata" : {
+		"cases" : 109,
+		"deaths" : 5,
+		"population" : 24636
+		},
+	"Lackawanna" : {
+		"cases" : 1617,
+		"deaths" : 200,
+		"population" : 214437
+		},
+	"Lancaster" : {
+		"cases" : 3911,
+		"deaths" : 344,
+		"population" : 519445
+		},
+	"Lawrence" : {
+		"cases" : 90,
+		"deaths" : 9,
+		"population" : 91108
+		},
+	"Lebanon" : {
+		"cases" : 1226,
+		"deaths" : 40,
+		"population" : 133568
+		},
+	"Lehigh" : {
+		"cases" : 4024,
+		"deaths" : 277,
+		"population" : 349497
+		},
+	"Luzerne" : {
+		"cases" : 2850,
+		"deaths" : 170,
+		"population" : 320918
+		},
+	"Lycoming" : {
+		"cases" : 172,
+		"deaths" : 19,
+		"population" : 116111
+		},
+	"McKean" : {
+		"cases" : 13,
+		"deaths" : 1,
+		"population" : 43450
+		},
+	"Mercer" : {
+		"cases" : 118,
+		"deaths" : 6,
+		"population" : 116638
+		},
+	"Mifflin" : {
+		"cases" : 61,
+		"deaths" : 1,
+		"population" : 46682
+		},
+	"Monroe" : {
+		"cases" : 1366,
+		"deaths" : 106,
+		"population" : 169842
+		},
+	"Montgomery" : {
+		"cases" : 8046,
+		"deaths" : 780,
+		"population" : 799874
+		},
+	"Montour" : {
+		"cases" : 68,
+		"deaths" : 0,
+		"population" : 18267
+		},
+	"Northampton" : {
+		"cases" : 3284,
+		"deaths" : 250,
+		"population" : 297735
+		},
+	"Northumberland" : {
+		"cases" : 254,
+		"deaths" : 4,
+		"population" : 94528
+		},
+	"Perry" : {
+		"cases" : 79,
+		"deaths" : 5,
+		"population" : 45969
+		},
+	"Philadelphia" : {
+		"cases" : 20404,
+		"deaths" : 1550,
+		"population" : 1526006
+		},
+	"Pike" : {
+		"cases" : 487,
+		"deaths" : 20,
+		"population" : 57369
+		},
+	"Potter" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 17457
+		},
+	"Schuylkill" : {
+		"cases" : 703,
+		"deaths" : 43,
+		"population" : 148289
+		},
+	"Snyder" : {
+		"cases" : 61,
+		"deaths" : 1,
+		"population" : 39702
+		},
+	"Somerset" : {
+		"cases" : 46,
+		"deaths" : 1,
+		"population" : 77742
+		},
+	"Sullivan" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 6428
+		},
+	"Susquehanna" : {
+		"cases" : 178,
+		"deaths" : 20,
+		"population" : 43356
+		},
+	"Tioga" : {
+		"cases" : 20,
+		"deaths" : 2,
+		"population" : 41981
+		},
+	"Union" : {
+		"cases" : 84,
+		"deaths" : 2,
+		"population" : 44947
+		},
+	"Venango" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 54984
+		},
+	"Warren" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 41815
+		},
+	"Washington" : {
+		"cases" : 162,
+		"deaths" : 6,
+		"population" : 207820
+		},
+	"Wayne" : {
+		"cases" : 129,
+		"deaths" : 9,
+		"population" : 52822
+		},
+	"Westmoreland" : {
+		"cases" : 510,
+		"deaths" : 38,
+		"population" : 365169
+		},
+	"Wyoming" : {
+		"cases" : 36,
+		"deaths" : 7,
+		"population" : 28276
+		},
+	"York" : {
+		"cases" : 1229,
+		"deaths" : 35,
+		"population" : 434972
+		}
+}

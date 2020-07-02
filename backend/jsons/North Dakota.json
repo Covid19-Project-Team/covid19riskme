@@ -1,0 +1,267 @@
+{
+	"Adams" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2294
+		},
+	"Barnes" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 10542
+		},
+	"Benson" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 6962
+		},
+	"Billings" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 919
+		},
+	"Bottineau" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 6411
+		},
+	"Bowman" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 3076
+		},
+	"Burke" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 2100
+		},
+	"Burleigh" : {
+		"cases" : 258,
+		"deaths" : 0,
+		"population" : 95273
+		},
+	"Cass" : {
+		"cases" : 2245,
+		"deaths" : 66,
+		"population" : 181516
+		},
+	"Cavalier" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 3829
+		},
+	"Dickey" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 4903
+		},
+	"Divide" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2283
+		},
+	"Dunn" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 4332
+		},
+	"Eddy" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 2313
+		},
+	"Emmons" : {
+		"cases" : 4,
+		"deaths" : 1,
+		"population" : 3295
+		},
+	"Foster" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 3216
+		},
+	"Golden Valley" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1769
+		},
+	"Grand Forks" : {
+		"cases" : 385,
+		"deaths" : 4,
+		"population" : 70770
+		},
+	"Grant" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 2374
+		},
+	"Griggs" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 2232
+		},
+	"Hettinger" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2514
+		},
+	"Kidder" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 2450
+		},
+	"LaMoure" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 4062
+		},
+	"Logan" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1903
+		},
+	"McHenry" : {
+		"cases" : 3,
+		"deaths" : 1,
+		"population" : 5816
+		},
+	"McIntosh" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 2585
+		},
+	"McKenzie" : {
+		"cases" : 27,
+		"deaths" : 0,
+		"population" : 13632
+		},
+	"McLean" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 9541
+		},
+	"Mercer" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 8267
+		},
+	"Morton" : {
+		"cases" : 91,
+		"deaths" : 2,
+		"population" : 31095
+		},
+	"Mountrail" : {
+		"cases" : 50,
+		"deaths" : 0,
+		"population" : 10218
+		},
+	"Nelson" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2869
+		},
+	"Oliver" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 1952
+		},
+	"Pembina" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 6947
+		},
+	"Pierce" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 4081
+		},
+	"Ramsey" : {
+		"cases" : 10,
+		"deaths" : 1,
+		"population" : 11481
+		},
+	"Ransom" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 5237
+		},
+	"Renville" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 2374
+		},
+	"Richland" : {
+		"cases" : 41,
+		"deaths" : 0,
+		"population" : 16239
+		},
+	"Rolette" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 14301
+		},
+	"Sargent" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 3870
+		},
+	"Sheridan" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 1349
+		},
+	"Sioux" : {
+		"cases" : 24,
+		"deaths" : 0,
+		"population" : 4358
+		},
+	"Slope" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 763
+		},
+	"Stark" : {
+		"cases" : 73,
+		"deaths" : 2,
+		"population" : 30997
+		},
+	"Steele" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 1903
+		},
+	"Stutsman" : {
+		"cases" : 63,
+		"deaths" : 1,
+		"population" : 20917
+		},
+	"Towner" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2192
+		},
+	"Traill" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 8037
+		},
+	"Walsh" : {
+		"cases" : 23,
+		"deaths" : 0,
+		"population" : 10667
+		},
+	"Ward" : {
+		"cases" : 60,
+		"deaths" : 1,
+		"population" : 67744
+		},
+	"Wells" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 3957
+		},
+	"Williams" : {
+		"cases" : 32,
+		"deaths" : 0,
+		"population" : 35350
+		}
+}

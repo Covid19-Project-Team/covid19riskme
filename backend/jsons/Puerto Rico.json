@@ -1,0 +1,402 @@
+{
+	"Adjuntas" : {
+		"cases" : 48,
+		"deaths" : "NaN",
+		"population" : 19483
+		},
+	"Aguada" : {
+		"cases" : 34,
+		"deaths" : "NaN",
+		"population" : 41959
+		},
+	"Aguadilla" : {
+		"cases" : 46,
+		"deaths" : "NaN",
+		"population" : 60949
+		},
+	"Aguas Buenas" : {
+		"cases" : 59,
+		"deaths" : "NaN",
+		"population" : 28659
+		},
+	"Aibonito" : {
+		"cases" : 42,
+		"deaths" : "NaN",
+		"population" : 25900
+		},
+	"Añasco" : {
+		"cases" : 45,
+		"deaths" : "NaN",
+		"population" : 29261
+		},
+	"Arecibo" : {
+		"cases" : 124,
+		"deaths" : "NaN",
+		"population" : 96440
+		},
+	"Arroyo" : {
+		"cases" : 33,
+		"deaths" : "NaN",
+		"population" : 19575
+		},
+	"Barceloneta" : {
+		"cases" : 26,
+		"deaths" : "NaN",
+		"population" : 24816
+		},
+	"Barranquitas" : {
+		"cases" : 77,
+		"deaths" : "NaN",
+		"population" : 30318
+		},
+	"Bayamón" : {
+		"cases" : 404,
+		"deaths" : "NaN",
+		"population" : 208116
+		},
+	"Cabo Rojo" : {
+		"cases" : 75,
+		"deaths" : "NaN",
+		"population" : 50917
+		},
+	"Caguas" : {
+		"cases" : 234,
+		"deaths" : "NaN",
+		"population" : 142893
+		},
+	"Camuy" : {
+		"cases" : 37,
+		"deaths" : "NaN",
+		"population" : 35159
+		},
+	"Canóvanas" : {
+		"cases" : 138,
+		"deaths" : "NaN",
+		"population" : 47648
+		},
+	"Carolina" : {
+		"cases" : 328,
+		"deaths" : "NaN",
+		"population" : 176762
+		},
+	"Cataño" : {
+		"cases" : 57,
+		"deaths" : "NaN",
+		"population" : 28140
+		},
+	"Cayey" : {
+		"cases" : 108,
+		"deaths" : "NaN",
+		"population" : 48119
+		},
+	"Ceiba" : {
+		"cases" : 26,
+		"deaths" : "NaN",
+		"population" : 13631
+		},
+	"Ciales" : {
+		"cases" : 61,
+		"deaths" : "NaN",
+		"population" : 18782
+		},
+	"Cidra" : {
+		"cases" : 74,
+		"deaths" : "NaN",
+		"population" : 43480
+		},
+	"Coamo" : {
+		"cases" : 44,
+		"deaths" : "NaN",
+		"population" : 40512
+		},
+	"Comerío" : {
+		"cases" : 46,
+		"deaths" : "NaN",
+		"population" : 20778
+		},
+	"Corozal" : {
+		"cases" : 48,
+		"deaths" : "NaN",
+		"population" : 37142
+		},
+	"Culebra" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 1818
+		},
+	"Dorado" : {
+		"cases" : 95,
+		"deaths" : "NaN",
+		"population" : 38165
+		},
+	"Fajardo" : {
+		"cases" : 76,
+		"deaths" : "NaN",
+		"population" : 36993
+		},
+	"Florida" : {
+		"cases" : 35,
+		"deaths" : "NaN",
+		"population" : 12680
+		},
+	"Guánica" : {
+		"cases" : 34,
+		"deaths" : "NaN",
+		"population" : 19427
+		},
+	"Guayama" : {
+		"cases" : 69,
+		"deaths" : "NaN",
+		"population" : 45362
+		},
+	"Guayanilla" : {
+		"cases" : 58,
+		"deaths" : "NaN",
+		"population" : 21581
+		},
+	"Guaynabo" : {
+		"cases" : 322,
+		"deaths" : "NaN",
+		"population" : 97924
+		},
+	"Gurabo" : {
+		"cases" : 103,
+		"deaths" : "NaN",
+		"population" : 45369
+		},
+	"Hatillo" : {
+		"cases" : 33,
+		"deaths" : "NaN",
+		"population" : 41953
+		},
+	"Hormigueros" : {
+		"cases" : 29,
+		"deaths" : "NaN",
+		"population" : 17250
+		},
+	"Humacao" : {
+		"cases" : 86,
+		"deaths" : "NaN",
+		"population" : 58466
+		},
+	"Isabela" : {
+		"cases" : 37,
+		"deaths" : "NaN",
+		"population" : 45631
+		},
+	"Jayuya" : {
+		"cases" : 72,
+		"deaths" : "NaN",
+		"population" : 16642
+		},
+	"Juana Díaz" : {
+		"cases" : 80,
+		"deaths" : "NaN",
+		"population" : 79897
+		},
+	"Juncos" : {
+		"cases" : 50,
+		"deaths" : "NaN",
+		"population" : 40290
+		},
+	"Lajas" : {
+		"cases" : 42,
+		"deaths" : "NaN",
+		"population" : 25753
+		},
+	"Lares" : {
+		"cases" : 77,
+		"deaths" : "NaN",
+		"population" : 30753
+		},
+	"Las Marías" : {
+		"cases" : 18,
+		"deaths" : "NaN",
+		"population" : 9881
+		},
+	"Las Piedras" : {
+		"cases" : 68,
+		"deaths" : "NaN",
+		"population" : 38675
+		},
+	"Loíza" : {
+		"cases" : 50,
+		"deaths" : "NaN",
+		"population" : 30060
+		},
+	"Luquillo" : {
+		"cases" : 40,
+		"deaths" : "NaN",
+		"population" : 20068
+		},
+	"Manatí" : {
+		"cases" : 49,
+		"deaths" : "NaN",
+		"population" : 44113
+		},
+	"Maricao" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 6276
+		},
+	"Maunabo" : {
+		"cases" : 24,
+		"deaths" : "NaN",
+		"population" : 12225
+		},
+	"Mayagüez" : {
+		"cases" : 165,
+		"deaths" : "NaN",
+		"population" : 89080
+		},
+	"Moca" : {
+		"cases" : 42,
+		"deaths" : "NaN",
+		"population" : 40109
+		},
+	"Morovis" : {
+		"cases" : 63,
+		"deaths" : "NaN",
+		"population" : 32610
+		},
+	"Naguabo" : {
+		"cases" : 43,
+		"deaths" : "NaN",
+		"population" : 26720
+		},
+	"Naranjito" : {
+		"cases" : 75,
+		"deaths" : "NaN",
+		"population" : 30402
+		},
+	"Orocovis" : {
+		"cases" : 73,
+		"deaths" : "NaN",
+		"population" : 23423
+		},
+	"Patillas" : {
+		"cases" : 59,
+		"deaths" : "NaN",
+		"population" : 19277
+		},
+	"Peñuelas" : {
+		"cases" : 25,
+		"deaths" : "NaN",
+		"population" : 24282
+		},
+	"Ponce" : {
+		"cases" : 184,
+		"deaths" : "NaN",
+		"population" : 166327
+		},
+	"Quebradillas" : {
+		"cases" : 40,
+		"deaths" : "NaN",
+		"population" : 25919
+		},
+	"Rincón" : {
+		"cases" : 32,
+		"deaths" : "NaN",
+		"population" : 15200
+		},
+	"Río Grande" : {
+		"cases" : 100,
+		"deaths" : "NaN",
+		"population" : 54304
+		},
+	"Sabana Grande" : {
+		"cases" : 54,
+		"deaths" : "NaN",
+		"population" : 25265
+		},
+	"Salinas" : {
+		"cases" : 102,
+		"deaths" : "NaN",
+		"population" : 31078
+		},
+	"San Germán" : {
+		"cases" : 64,
+		"deaths" : "NaN",
+		"population" : 35527
+		},
+	"San Juan" : {
+		"cases" : 939,
+		"deaths" : "NaN",
+		"population" : 395326
+		},
+	"San Lorenzo" : {
+		"cases" : 65,
+		"deaths" : "NaN",
+		"population" : 41058
+		},
+	"San Sebastián" : {
+		"cases" : 96,
+		"deaths" : "NaN",
+		"population" : 42430
+		},
+	"Santa Isabel" : {
+		"cases" : 53,
+		"deaths" : "NaN",
+		"population" : 23274
+		},
+	"Toa Alta" : {
+		"cases" : 158,
+		"deaths" : "NaN",
+		"population" : 74066
+		},
+	"Toa Baja" : {
+		"cases" : 185,
+		"deaths" : "NaN",
+		"population" : 89609
+		},
+	"Trujillo Alto" : {
+		"cases" : 167,
+		"deaths" : "NaN",
+		"population" : 74842
+		},
+	"Utuado" : {
+		"cases" : 13,
+		"deaths" : "NaN",
+		"population" : 33149
+		},
+	"Vega Alta" : {
+		"cases" : 78,
+		"deaths" : "NaN",
+		"population" : 39951
+		},
+	"Vega Baja" : {
+		"cases" : 86,
+		"deaths" : "NaN",
+		"population" : 59662
+		},
+	"Vieques" : {
+		"cases" : 22,
+		"deaths" : 0,
+		"population" : 9301
+		},
+	"Villalba" : {
+		"cases" : 45,
+		"deaths" : "NaN",
+		"population" : 26073
+		},
+	"Yabucoa" : {
+		"cases" : 36,
+		"deaths" : "NaN",
+		"population" : 37941
+		},
+	"Yauco" : {
+		"cases" : 86,
+		"deaths" : "NaN",
+		"population" : 42043
+		},
+	"Unknown" : {
+		"cases" : 179,
+		"deaths" : "NaN",
+		"population" : "NaN"
+		},
+	"Outside of Puerto Rico" : {
+		"cases" : 141,
+		"deaths" : "NaN",
+		"population" : "NaN"
+		}
+}

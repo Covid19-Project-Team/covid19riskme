@@ -1,0 +1,442 @@
+{
+	"Adams" : {
+		"cases" : 21,
+		"deaths" : 1,
+		"population" : 28550
+		},
+	"Allen" : {
+		"cases" : 297,
+		"deaths" : 40,
+		"population" : 106331
+		},
+	"Ashland" : {
+		"cases" : 55,
+		"deaths" : 1,
+		"population" : 53139
+		},
+	"Ashtabula" : {
+		"cases" : 421,
+		"deaths" : 44,
+		"population" : 101497
+		},
+	"Athens" : {
+		"cases" : 37,
+		"deaths" : 1,
+		"population" : 64757
+		},
+	"Auglaize" : {
+		"cases" : 99,
+		"deaths" : 3,
+		"population" : 45949
+		},
+	"Belmont" : {
+		"cases" : 534,
+		"deaths" : 21,
+		"population" : 70400
+		},
+	"Brown" : {
+		"cases" : 53,
+		"deaths" : 1,
+		"population" : 44846
+		},
+	"Butler" : {
+		"cases" : 1448,
+		"deaths" : 44,
+		"population" : 368130
+		},
+	"Carroll" : {
+		"cases" : 51,
+		"deaths" : 3,
+		"population" : 28836
+		},
+	"Champaign" : {
+		"cases" : 38,
+		"deaths" : 1,
+		"population" : 40097
+		},
+	"Clark" : {
+		"cases" : 739,
+		"deaths" : 9,
+		"population" : 138333
+		},
+	"Clermont" : {
+		"cases" : 356,
+		"deaths" : 6,
+		"population" : 197363
+		},
+	"Clinton" : {
+		"cases" : 62,
+		"deaths" : 0,
+		"population" : 42040
+		},
+	"Columbiana" : {
+		"cases" : 1209,
+		"deaths" : 60,
+		"population" : 107841
+		},
+	"Coshocton" : {
+		"cases" : 81,
+		"deaths" : 1,
+		"population" : 36901
+		},
+	"Crawford" : {
+		"cases" : 135,
+		"deaths" : 7,
+		"population" : 43784
+		},
+	"Cuyahoga" : {
+		"cases" : 7013,
+		"deaths" : 366,
+		"population" : 1249352
+		},
+	"Darke" : {
+		"cases" : 236,
+		"deaths" : 25,
+		"population" : 52959
+		},
+	"Defiance" : {
+		"cases" : 48,
+		"deaths" : 3,
+		"population" : 39037
+		},
+	"Delaware" : {
+		"cases" : 518,
+		"deaths" : 15,
+		"population" : 174214
+		},
+	"Erie" : {
+		"cases" : 229,
+		"deaths" : 22,
+		"population" : 77079
+		},
+	"Fairfield" : {
+		"cases" : 503,
+		"deaths" : 16,
+		"population" : 146156
+		},
+	"Fayette" : {
+		"cases" : 46,
+		"deaths" : 0,
+		"population" : 29030
+		},
+	"Franklin" : {
+		"cases" : 9338,
+		"deaths" : 407,
+		"population" : 1264518
+		},
+	"Fulton" : {
+		"cases" : 57,
+		"deaths" : 0,
+		"population" : 42698
+		},
+	"Gallia" : {
+		"cases" : 14,
+		"deaths" : 1,
+		"population" : 30934
+		},
+	"Geauga" : {
+		"cases" : 390,
+		"deaths" : 42,
+		"population" : 93389
+		},
+	"Greene" : {
+		"cases" : 222,
+		"deaths" : 9,
+		"population" : 161573
+		},
+	"Guernsey" : {
+		"cases" : 60,
+		"deaths" : 3,
+		"population" : 40087
+		},
+	"Hamilton" : {
+		"cases" : 5224,
+		"deaths" : 198,
+		"population" : 802374
+		},
+	"Hancock" : {
+		"cases" : 76,
+		"deaths" : 1,
+		"population" : 74782
+		},
+	"Hardin" : {
+		"cases" : 113,
+		"deaths" : 12,
+		"population" : 32058
+		},
+	"Harrison" : {
+		"cases" : 12,
+		"deaths" : 1,
+		"population" : 15864
+		},
+	"Henry" : {
+		"cases" : 29,
+		"deaths" : 0,
+		"population" : 28215
+		},
+	"Highland" : {
+		"cases" : 43,
+		"deaths" : 1,
+		"population" : 43589
+		},
+	"Hocking" : {
+		"cases" : 76,
+		"deaths" : 7,
+		"population" : 29380
+		},
+	"Holmes" : {
+		"cases" : 204,
+		"deaths" : 3,
+		"population" : 42366
+		},
+	"Huron" : {
+		"cases" : 177,
+		"deaths" : 2,
+		"population" : 59626
+		},
+	"Jackson" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 33225
+		},
+	"Jefferson" : {
+		"cases" : 80,
+		"deaths" : 2,
+		"population" : 69709
+		},
+	"Knox" : {
+		"cases" : 39,
+		"deaths" : 1,
+		"population" : 60921
+		},
+	"Lake" : {
+		"cases" : 443,
+		"deaths" : 17,
+		"population" : 230041
+		},
+	"Lawrence" : {
+		"cases" : 65,
+		"deaths" : 0,
+		"population" : 62450
+		},
+	"Licking" : {
+		"cases" : 416,
+		"deaths" : 11,
+		"population" : 166492
+		},
+	"Logan" : {
+		"cases" : 58,
+		"deaths" : 0,
+		"population" : 45858
+		},
+	"Lorain" : {
+		"cases" : 962,
+		"deaths" : 67,
+		"population" : 301356
+		},
+	"Lucas" : {
+		"cases" : 2628,
+		"deaths" : 302,
+		"population" : 441815
+		},
+	"Madison" : {
+		"cases" : 188,
+		"deaths" : 8,
+		"population" : 43435
+		},
+	"Mahoning" : {
+		"cases" : 1752,
+		"deaths" : 228,
+		"population" : 238823
+		},
+	"Marion" : {
+		"cases" : 2731,
+		"deaths" : 38,
+		"population" : 66501
+		},
+	"Medina" : {
+		"cases" : 491,
+		"deaths" : 32,
+		"population" : 176395
+		},
+	"Meigs" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 23770
+		},
+	"Mercer" : {
+		"cases" : 272,
+		"deaths" : 8,
+		"population" : 40814
+		},
+	"Miami" : {
+		"cases" : 442,
+		"deaths" : 31,
+		"population" : 102506
+		},
+	"Monroe" : {
+		"cases" : 86,
+		"deaths" : 17,
+		"population" : 14642
+		},
+	"Montgomery" : {
+		"cases" : 1784,
+		"deaths" : 26,
+		"population" : 535153
+		},
+	"Morgan" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 15054
+		},
+	"Morrow" : {
+		"cases" : 115,
+		"deaths" : 1,
+		"population" : 34827
+		},
+	"Muskingum" : {
+		"cases" : 73,
+		"deaths" : 1,
+		"population" : 86074
+		},
+	"Noble" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 14645
+		},
+	"Ottawa" : {
+		"cases" : 130,
+		"deaths" : 23,
+		"population" : 41428
+		},
+	"Paulding" : {
+		"cases" : 23,
+		"deaths" : 0,
+		"population" : 19614
+		},
+	"Perry" : {
+		"cases" : 30,
+		"deaths" : 1,
+		"population" : 36058
+		},
+	"Pickaway" : {
+		"cases" : 2176,
+		"deaths" : 41,
+		"population" : 55698
+		},
+	"Pike" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 28709
+		},
+	"Portage" : {
+		"cases" : 418,
+		"deaths" : 58,
+		"population" : 161419
+		},
+	"Preble" : {
+		"cases" : 66,
+		"deaths" : 1,
+		"population" : 42270
+		},
+	"Putnam" : {
+		"cases" : 115,
+		"deaths" : 16,
+		"population" : 34499
+		},
+	"Richland" : {
+		"cases" : 318,
+		"deaths" : 5,
+		"population" : 124475
+		},
+	"Ross" : {
+		"cases" : 109,
+		"deaths" : 2,
+		"population" : 78064
+		},
+	"Sandusky" : {
+		"cases" : 122,
+		"deaths" : 13,
+		"population" : 60944
+		},
+	"Scioto" : {
+		"cases" : 36,
+		"deaths" : 0,
+		"population" : 79499
+		},
+	"Seneca" : {
+		"cases" : 33,
+		"deaths" : 2,
+		"population" : 56745
+		},
+	"Shelby" : {
+		"cases" : 59,
+		"deaths" : 4,
+		"population" : 49423
+		},
+	"Stark" : {
+		"cases" : 1052,
+		"deaths" : 112,
+		"population" : 375586
+		},
+	"Summit" : {
+		"cases" : 1969,
+		"deaths" : 206,
+		"population" : 541781
+		},
+	"Trumbull" : {
+		"cases" : 863,
+		"deaths" : 62,
+		"population" : 210312
+		},
+	"Tuscarawas" : {
+		"cases" : 515,
+		"deaths" : 10,
+		"population" : 92582
+		},
+	"Union" : {
+		"cases" : 80,
+		"deaths" : 1,
+		"population" : 52300
+		},
+	"Van Wert" : {
+		"cases" : 27,
+		"deaths" : 0,
+		"population" : 28744
+		},
+	"Vinton" : {
+		"cases" : 22,
+		"deaths" : 2,
+		"population" : 13435
+		},
+	"Warren" : {
+		"cases" : 757,
+		"deaths" : 21,
+		"population" : 212693
+		},
+	"Washington" : {
+		"cases" : 127,
+		"deaths" : 20,
+		"population" : 61778
+		},
+	"Wayne" : {
+		"cases" : 354,
+		"deaths" : 52,
+		"population" : 114520
+		},
+	"Williams" : {
+		"cases" : 65,
+		"deaths" : 2,
+		"population" : 37642
+		},
+	"Wood" : {
+		"cases" : 384,
+		"deaths" : 51,
+		"population" : 125488
+		},
+	"Wyandot" : {
+		"cases" : 58,
+		"deaths" : 4,
+		"population" : 22615
+		}
+}

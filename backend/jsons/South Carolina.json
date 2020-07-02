@@ -1,0 +1,232 @@
+{
+	"Abbeville" : {
+		"cases" : 113,
+		"deaths" : 0,
+		"population" : 24657
+		},
+	"Aiken" : {
+		"cases" : 387,
+		"deaths" : 10,
+		"population" : 160099
+		},
+	"Allendale" : {
+		"cases" : 48,
+		"deaths" : 3,
+		"population" : 10419
+		},
+	"Anderson" : {
+		"cases" : 608,
+		"deaths" : 11,
+		"population" : 187126
+		},
+	"Bamberg" : {
+		"cases" : 113,
+		"deaths" : 1,
+		"population" : 15987
+		},
+	"Barnwell" : {
+		"cases" : 79,
+		"deaths" : 1,
+		"population" : 22621
+		},
+	"Beaufort" : {
+		"cases" : 1219,
+		"deaths" : 18,
+		"population" : 162233
+		},
+	"Berkeley" : {
+		"cases" : 1069,
+		"deaths" : 22,
+		"population" : 177843
+		},
+	"Calhoun" : {
+		"cases" : 87,
+		"deaths" : 1,
+		"population" : 15175
+		},
+	"Charleston" : {
+		"cases" : 4026,
+		"deaths" : 26,
+		"population" : 350209
+		},
+	"Cherokee" : {
+		"cases" : 154,
+		"deaths" : 7,
+		"population" : 55342
+		},
+	"Chester" : {
+		"cases" : 184,
+		"deaths" : 1,
+		"population" : 33140
+		},
+	"Chesterfield" : {
+		"cases" : 366,
+		"deaths" : 14,
+		"population" : 46734
+		},
+	"Clarendon" : {
+		"cases" : 413,
+		"deaths" : 42,
+		"population" : 34971
+		},
+	"Colleton" : {
+		"cases" : 328,
+		"deaths" : 21,
+		"population" : 38892
+		},
+	"Darlington" : {
+		"cases" : 445,
+		"deaths" : 14,
+		"population" : 68681
+		},
+	"Dillon" : {
+		"cases" : 304,
+		"deaths" : 9,
+		"population" : 32062
+		},
+	"Dorchester" : {
+		"cases" : 712,
+		"deaths" : 3,
+		"population" : 136555
+		},
+	"Edgefield" : {
+		"cases" : 76,
+		"deaths" : 3,
+		"population" : 26985
+		},
+	"Fairfield" : {
+		"cases" : 298,
+		"deaths" : 21,
+		"population" : 23956
+		},
+	"Florence" : {
+		"cases" : 1199,
+		"deaths" : 51,
+		"population" : 136885
+		},
+	"Georgetown" : {
+		"cases" : 458,
+		"deaths" : 3,
+		"population" : 60158
+		},
+	"Greenville" : {
+		"cases" : 5001,
+		"deaths" : 81,
+		"population" : 451225
+		},
+	"Greenwood" : {
+		"cases" : 493,
+		"deaths" : 7,
+		"population" : 69661
+		},
+	"Hampton" : {
+		"cases" : 71,
+		"deaths" : 2,
+		"population" : 21090
+		},
+	"Horry" : {
+		"cases" : 3319,
+		"deaths" : 45,
+		"population" : 269291
+		},
+	"Jasper" : {
+		"cases" : 132,
+		"deaths" : 3,
+		"population" : 24777
+		},
+	"Kershaw" : {
+		"cases" : 664,
+		"deaths" : 15,
+		"population" : 61697
+		},
+	"Lancaster" : {
+		"cases" : 465,
+		"deaths" : 11,
+		"population" : 76652
+		},
+	"Laurens" : {
+		"cases" : 470,
+		"deaths" : 5,
+		"population" : 66537
+		},
+	"Lee" : {
+		"cases" : 289,
+		"deaths" : 22,
+		"population" : 19220
+		},
+	"Lexington" : {
+		"cases" : 2059,
+		"deaths" : 49,
+		"population" : 262391
+		},
+	"Marion" : {
+		"cases" : 208,
+		"deaths" : 7,
+		"population" : 33062
+		},
+	"Marlboro" : {
+		"cases" : 302,
+		"deaths" : 4,
+		"population" : 28933
+		},
+	"McCormick" : {
+		"cases" : 17,
+		"deaths" : 2,
+		"population" : 10233
+		},
+	"Newberry" : {
+		"cases" : 252,
+		"deaths" : 4,
+		"population" : 37508
+		},
+	"Oconee" : {
+		"cases" : 260,
+		"deaths" : 1,
+		"population" : 74273
+		},
+	"Orangeburg" : {
+		"cases" : 747,
+		"deaths" : 11,
+		"population" : 92501
+		},
+	"Pickens" : {
+		"cases" : 832,
+		"deaths" : 5,
+		"population" : 119224
+		},
+	"Richland" : {
+		"cases" : 3464,
+		"deaths" : 83,
+		"population" : 384504
+		},
+	"Saluda" : {
+		"cases" : 208,
+		"deaths" : 1,
+		"population" : 19875
+		},
+	"Spartanburg" : {
+		"cases" : 1608,
+		"deaths" : 46,
+		"population" : 284307
+		},
+	"Sumter" : {
+		"cases" : 1057,
+		"deaths" : 22,
+		"population" : 107456
+		},
+	"Union" : {
+		"cases" : 90,
+		"deaths" : 0,
+		"population" : 28961
+		},
+	"Williamsburg" : {
+		"cases" : 400,
+		"deaths" : 15,
+		"population" : 34423
+		},
+	"York" : {
+		"cases" : 1203,
+		"deaths" : 12,
+		"population" : 226073
+		}
+}

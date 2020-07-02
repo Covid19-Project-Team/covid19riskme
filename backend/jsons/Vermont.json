@@ -1,0 +1,72 @@
+{
+	"Addison" : {
+		"cases" : 68,
+		"deaths" : 2,
+		"population" : 37035
+		},
+	"Bennington" : {
+		"cases" : 71,
+		"deaths" : 1,
+		"population" : 36317
+		},
+	"Caledonia" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 30780
+		},
+	"Chittenden" : {
+		"cases" : 601,
+		"deaths" : 39,
+		"population" : 161382
+		},
+	"Essex" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 6163
+		},
+	"Franklin" : {
+		"cases" : 104,
+		"deaths" : 6,
+		"population" : 48799
+		},
+	"Grand Isle" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 6861
+		},
+	"Lamoille" : {
+		"cases" : 30,
+		"deaths" : 1,
+		"population" : 25235
+		},
+	"Orange" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 28899
+		},
+	"Orleans" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 27100
+		},
+	"Rutland" : {
+		"cases" : 73,
+		"deaths" : 1,
+		"population" : 59736
+		},
+	"Washington" : {
+		"cases" : 41,
+		"deaths" : 1,
+		"population" : 58612
+		},
+	"Windham" : {
+		"cases" : 94,
+		"deaths" : 3,
+		"population" : 43386
+		},
+	"Windsor" : {
+		"cases" : 48,
+		"deaths" : 2,
+		"population" : 55737
+		}
+}

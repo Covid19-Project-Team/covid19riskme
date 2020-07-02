@@ -1,0 +1,502 @@
+{
+	"Alamance" : {
+		"cases" : 1121,
+		"deaths" : 37,
+		"population" : 170483
+		},
+	"Alexander" : {
+		"cases" : 91,
+		"deaths" : 1,
+		"population" : 38530
+		},
+	"Alleghany" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 11466
+		},
+	"Anson" : {
+		"cases" : 128,
+		"deaths" : 1,
+		"population" : 25290
+		},
+	"Ashe" : {
+		"cases" : 54,
+		"deaths" : 1,
+		"population" : 27861
+		},
+	"Avery" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 18022
+		},
+	"Beaufort" : {
+		"cases" : 83,
+		"deaths" : 0,
+		"population" : 47480
+		},
+	"Bertie" : {
+		"cases" : 145,
+		"deaths" : 4,
+		"population" : 19636
+		},
+	"Bladen" : {
+		"cases" : 371,
+		"deaths" : 3,
+		"population" : 34497
+		},
+	"Brunswick" : {
+		"cases" : 510,
+		"deaths" : 5,
+		"population" : 142088
+		},
+	"Buncombe" : {
+		"cases" : 591,
+		"deaths" : 38,
+		"population" : 264056
+		},
+	"Burke" : {
+		"cases" : 1033,
+		"deaths" : 20,
+		"population" : 91810
+		},
+	"Cabarrus" : {
+		"cases" : 1107,
+		"deaths" : 28,
+		"population" : 212917
+		},
+	"Caldwell" : {
+		"cases" : 419,
+		"deaths" : 4,
+		"population" : 83417
+		},
+	"Camden" : {
+		"cases" : 28,
+		"deaths" : 0,
+		"population" : 10611
+		},
+	"Carteret" : {
+		"cases" : 87,
+		"deaths" : 3,
+		"population" : 71163
+		},
+	"Caswell" : {
+		"cases" : 135,
+		"deaths" : 1,
+		"population" : 23664
+		},
+	"Catawba" : {
+		"cases" : 780,
+		"deaths" : 12,
+		"population" : 159494
+		},
+	"Chatham" : {
+		"cases" : 950,
+		"deaths" : 43,
+		"population" : 75994
+		},
+	"Cherokee" : {
+		"cases" : 34,
+		"deaths" : 1,
+		"population" : 29630
+		},
+	"Chowan" : {
+		"cases" : 24,
+		"deaths" : 0,
+		"population" : 14114
+		},
+	"Clay" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 11860
+		},
+	"Cleveland" : {
+		"cases" : 297,
+		"deaths" : 4,
+		"population" : 99776
+		},
+	"Columbus" : {
+		"cases" : 521,
+		"deaths" : 38,
+		"population" : 56290
+		},
+	"Craven" : {
+		"cases" : 365,
+		"deaths" : 6,
+		"population" : 103779
+		},
+	"Cumberland" : {
+		"cases" : 1180,
+		"deaths" : 41,
+		"population" : 332455
+		},
+	"Currituck" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 27526
+		},
+	"Dare" : {
+		"cases" : 57,
+		"deaths" : 1,
+		"population" : 37290
+		},
+	"Davidson" : {
+		"cases" : 946,
+		"deaths" : 15,
+		"population" : 169468
+		},
+	"Davie" : {
+		"cases" : 199,
+		"deaths" : 3,
+		"population" : 43430
+		},
+	"Duplin" : {
+		"cases" : 1468,
+		"deaths" : 27,
+		"population" : 59736
+		},
+	"Durham" : {
+		"cases" : 3674,
+		"deaths" : 61,
+		"population" : 315741
+		},
+	"Edgecombe" : {
+		"cases" : 315,
+		"deaths" : 9,
+		"population" : 52586
+		},
+	"Forsyth" : {
+		"cases" : 2996,
+		"deaths" : 34,
+		"population" : 379693
+		},
+	"Franklin" : {
+		"cases" : 345,
+		"deaths" : 21,
+		"population" : 69112
+		},
+	"Gaston" : {
+		"cases" : 1083,
+		"deaths" : 11,
+		"population" : 222744
+		},
+	"Gates" : {
+		"cases" : 27,
+		"deaths" : 2,
+		"population" : 12132
+		},
+	"Graham" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 8687
+		},
+	"Granville" : {
+		"cases" : 798,
+		"deaths" : 19,
+		"population" : 61406
+		},
+	"Greene" : {
+		"cases" : 173,
+		"deaths" : 2,
+		"population" : 21050
+		},
+	"Guilford" : {
+		"cases" : 2812,
+		"deaths" : 114,
+		"population" : 539666
+		},
+	"Halifax" : {
+		"cases" : 311,
+		"deaths" : 4,
+		"population" : 51194
+		},
+	"Harnett" : {
+		"cases" : 630,
+		"deaths" : 30,
+		"population" : 135239
+		},
+	"Haywood" : {
+		"cases" : 90,
+		"deaths" : 0,
+		"population" : 63328
+		},
+	"Henderson" : {
+		"cases" : 610,
+		"deaths" : 49,
+		"population" : 118312
+		},
+	"Hertford" : {
+		"cases" : 162,
+		"deaths" : 10,
+		"population" : 24037
+		},
+	"Hoke" : {
+		"cases" : 371,
+		"deaths" : 3,
+		"population" : 54842
+		},
+	"Hyde" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 5181
+		},
+	"Iredell" : {
+		"cases" : 764,
+		"deaths" : 7,
+		"population" : 181380
+		},
+	"Jackson" : {
+		"cases" : 113,
+		"deaths" : 1,
+		"population" : 44335
+		},
+	"Johnston" : {
+		"cases" : 1473,
+		"deaths" : 29,
+		"population" : 205951
+		},
+	"Jones" : {
+		"cases" : 35,
+		"deaths" : 3,
+		"population" : 10196
+		},
+	"Lee" : {
+		"cases" : 823,
+		"deaths" : 8,
+		"population" : 61690
+		},
+	"Lenoir" : {
+		"cases" : 368,
+		"deaths" : 11,
+		"population" : 56372
+		},
+	"Lincoln" : {
+		"cases" : 252,
+		"deaths" : 1,
+		"population" : 86453
+		},
+	"Macon" : {
+		"cases" : 282,
+		"deaths" : 1,
+		"population" : 36498
+		},
+	"Madison" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 22602
+		},
+	"Martin" : {
+		"cases" : 131,
+		"deaths" : 4,
+		"population" : 23150
+		},
+	"McDowell" : {
+		"cases" : 235,
+		"deaths" : 1,
+		"population" : 46684
+		},
+	"Mecklenburg" : {
+		"cases" : 11170,
+		"deaths" : 146,
+		"population" : 1108107
+		},
+	"Mitchell" : {
+		"cases" : 32,
+		"deaths" : 0,
+		"population" : 15239
+		},
+	"Montgomery" : {
+		"cases" : 309,
+		"deaths" : 7,
+		"population" : 27666
+		},
+	"Moore" : {
+		"cases" : 458,
+		"deaths" : 13,
+		"population" : 101180
+		},
+	"Nash" : {
+		"cases" : 469,
+		"deaths" : 6,
+		"population" : 95647
+		},
+	"New Hanover" : {
+		"cases" : 897,
+		"deaths" : 5,
+		"population" : 235560
+		},
+	"Northampton" : {
+		"cases" : 181,
+		"deaths" : 15,
+		"population" : 20527
+		},
+	"Onslow" : {
+		"cases" : 284,
+		"deaths" : 3,
+		"population" : 201548
+		},
+	"Orange" : {
+		"cases" : 669,
+		"deaths" : 41,
+		"population" : 147093
+		},
+	"Pamlico" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 13266
+		},
+	"Pasquotank" : {
+		"cases" : 203,
+		"deaths" : 15,
+		"population" : 39731
+		},
+	"Pender" : {
+		"cases" : 247,
+		"deaths" : 1,
+		"population" : 63406
+		},
+	"Perquimans" : {
+		"cases" : 36,
+		"deaths" : 2,
+		"population" : 13639
+		},
+	"Person" : {
+		"cases" : 106,
+		"deaths" : 1,
+		"population" : 40370
+		},
+	"Pitt" : {
+		"cases" : 696,
+		"deaths" : 6,
+		"population" : 179731
+		},
+	"Polk" : {
+		"cases" : 73,
+		"deaths" : 4,
+		"population" : 21696
+		},
+	"Randolph" : {
+		"cases" : 1174,
+		"deaths" : 29,
+		"population" : 144914
+		},
+	"Richmond" : {
+		"cases" : 278,
+		"deaths" : 6,
+		"population" : 45079
+		},
+	"Robeson" : {
+		"cases" : 1201,
+		"deaths" : 38,
+		"population" : 131056
+		},
+	"Rockingham" : {
+		"cases" : 231,
+		"deaths" : 2,
+		"population" : 91788
+		},
+	"Rowan" : {
+		"cases" : 1205,
+		"deaths" : 41,
+		"population" : 142643
+		},
+	"Rutherford" : {
+		"cases" : 296,
+		"deaths" : 7,
+		"population" : 68908
+		},
+	"Sampson" : {
+		"cases" : 1040,
+		"deaths" : 6,
+		"population" : 64284
+		},
+	"Scotland" : {
+		"cases" : 137,
+		"deaths" : 0,
+		"population" : 35732
+		},
+	"Stanly" : {
+		"cases" : 378,
+		"deaths" : 5,
+		"population" : 63727
+		},
+	"Stokes" : {
+		"cases" : 125,
+		"deaths" : 1,
+		"population" : 46420
+		},
+	"Surry" : {
+		"cases" : 470,
+		"deaths" : 2,
+		"population" : 73232
+		},
+	"Swain" : {
+		"cases" : 51,
+		"deaths" : 0,
+		"population" : 14275
+		},
+	"Transylvania" : {
+		"cases" : 22,
+		"deaths" : 1,
+		"population" : 35484
+		},
+	"Tyrrell" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 4259
+		},
+	"Union" : {
+		"cases" : 1201,
+		"deaths" : 24,
+		"population" : 237287
+		},
+	"Vanc" : {
+		"cases" : 502,
+		"deaths" : 36,
+		"population" : 45969
+		},
+	"Wake" : {
+		"cases" : 5060,
+		"deaths" : 46,
+		"population" : 1089579
+		},
+	"Warren" : {
+		"cases" : 161,
+		"deaths" : 5,
+		"population" : 20022
+		},
+	"Washington" : {
+		"cases" : 38,
+		"deaths" : 3,
+		"population" : 12071
+		},
+	"Watauga" : {
+		"cases" : 68,
+		"deaths" : 0,
+		"population" : 57899
+		},
+	"Wayne" : {
+		"cases" : 1802,
+		"deaths" : 26,
+		"population" : 125825
+		},
+	"Wilkes" : {
+		"cases" : 576,
+		"deaths" : 6,
+		"population" : 70200
+		},
+	"Wilson" : {
+		"cases" : 714,
+		"deaths" : 18,
+		"population" : 82282
+		},
+	"Yadkin" : {
+		"cases" : 332,
+		"deaths" : 4,
+		"population" : 38196
+		},
+	"Yancey" : {
+		"cases" : 43,
+		"deaths" : 0,
+		"population" : 18623
+		}
+}

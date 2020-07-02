@@ -1,0 +1,77 @@
+{
+	"Apache" : {
+		"cases" : 2405,
+		"deaths" : 91,
+		"population" : 71887
+		},
+	"Cochise" : {
+		"cases" : 678,
+		"deaths" : 12,
+		"population" : 125922
+		},
+	"Coconino" : {
+		"cases" : 1986,
+		"deaths" : 95,
+		"population" : 143476
+		},
+	"Gila" : {
+		"cases" : 314,
+		"deaths" : 6,
+		"population" : 54018
+		},
+	"Graham" : {
+		"cases" : 117,
+		"deaths" : "NaN",
+		"population" : 38837
+		},
+	"Greenlee" : {
+		"cases" : 19,
+		"deaths" : "NaN",
+		"population" : 9498
+		},
+	"La Paz" : {
+		"cases" : 346,
+		"deaths" : 5,
+		"population" : 21108
+		},
+	"Maricopa" : {
+		"cases" : 54757,
+		"deaths" : 843,
+		"population" : 4485414
+		},
+	"Mohave" : {
+		"cases" : 1248,
+		"deaths" : 88,
+		"population" : 212181
+		},
+	"Navajo" : {
+		"cases" : 3744,
+		"deaths" : 131,
+		"population" : 110924
+		},
+	"Pima" : {
+		"cases" : 8577,
+		"deaths" : 280,
+		"population" : 1047279
+		},
+	"Pinal" : {
+		"cases" : 3908,
+		"deaths" : 74,
+		"population" : 462789
+		},
+	"Santa Cruz" : {
+		"cases" : 1849,
+		"deaths" : 22,
+		"population" : 46498
+		},
+	"Yavapai" : {
+		"cases" : 814,
+		"deaths" : 11,
+		"population" : 235099
+		},
+	"Yuma" : {
+		"cases" : 6663,
+		"deaths" : 96,
+		"population" : 213787
+		}
+}

@@ -1,0 +1,292 @@
+{
+	"Los Angeles" : {
+		"cases" : 103529,
+		"deaths" : 3369,
+		"population" : 10283729
+		},
+	"San Diego" : {
+		"cases" : 14149,
+		"deaths" : 365,
+		"population" : 3337456
+		},
+	"Riverside" : {
+		"cases" : 17296,
+		"deaths" : 457,
+		"population" : 2415955
+		},
+	"Orange" : {
+		"cases" : 13843,
+		"deaths" : 340,
+		"population" : 3284468
+		},
+	"San Bernardino" : {
+		"cases" : 12550,
+		"deaths" : 253,
+		"population" : 2174938
+		},
+	"Alameda" : {
+		"cases" : 6156,
+		"deaths" : 136,
+		"population" : 1660202
+		},
+	"Santa Clara" : {
+		"cases" : 4162,
+		"deaths" : 155,
+		"population" : 1956598
+		},
+	"San Francisco" : {
+		"cases" : 3648,
+		"deaths" : 50,
+		"population" : 883963
+		},
+	"San Mateo" : {
+		"cases" : 3311,
+		"deaths" : 108,
+		"population" : 774155
+		},
+	"Kern" : {
+		"cases" : 4108,
+		"deaths" : 63,
+		"population" : 905801
+		},
+	"Tulare" : {
+		"cases" : 3533,
+		"deaths" : 118,
+		"population" : 475834
+		},
+	"Santa Barbara" : {
+		"cases" : 2590,
+		"deaths" : 27,
+		"population" : 453457
+		},
+	"Fresno" : {
+		"cases" : 3892,
+		"deaths" : 71,
+		"population" : 1007229
+		},
+	"Sacramento" : {
+		"cases" : 2440,
+		"deaths" : 66,
+		"population" : 1529501
+		},
+	"Contra Costa" : {
+		"cases" : 3248,
+		"deaths" : 77,
+		"population" : 1149363
+		},
+	"Imperial" : {
+		"cases" : 5549,
+		"deaths" : 70,
+		"population" : 190624
+		},
+	"Ventura" : {
+		"cases" : 2287,
+		"deaths" : 44,
+		"population" : 859073
+		},
+	"San Joaquin" : {
+		"cases" : 2742,
+		"deaths" : 49,
+		"population" : 758744
+		},
+	"Stanislaus" : {
+		"cases" : 1789,
+		"deaths" : 38,
+		"population" : 555624
+		},
+	"Solano" : {
+		"cases" : 860,
+		"deaths" : 23,
+		"population" : 439793
+		},
+	"Kings" : {
+		"cases" : 2234,
+		"deaths" : 20,
+		"population" : 151662
+		},
+	"Sonoma" : {
+		"cases" : 1185,
+		"deaths" : 7,
+		"population" : 503332
+		},
+	"Monterey" : {
+		"cases" : 1416,
+		"deaths" : 12,
+		"population" : 443281
+		},
+	"Marin" : {
+		"cases" : 1259,
+		"deaths" : 19,
+		"population" : 263886
+		},
+	"San Luis Obispo" : {
+		"cases" : 473,
+		"deaths" : 1,
+		"population" : 280101
+		},
+	"Merced" : {
+		"cases" : 741,
+		"deaths" : 10,
+		"population" : 279977
+		},
+	"Yolo" : {
+		"cases" : 386,
+		"deaths" : 24,
+		"population" : 221270
+		},
+	"Placer" : {
+		"cases" : 556,
+		"deaths" : 10,
+		"population" : 389532
+		},
+	"Santa Cruz" : {
+		"cases" : 337,
+		"deaths" : 3,
+		"population" : 276864
+		},
+	"Napa" : {
+		"cases" : 332,
+		"deaths" : 4,
+		"population" : 141294
+		},
+	"Humboldt" : {
+		"cases" : 122,
+		"deaths" : 4,
+		"population" : 136002
+		},
+	"Madera" : {
+		"cases" : 370,
+		"deaths" : 5,
+		"population" : 158894
+		},
+	"El Dorado" : {
+		"cases" : 153,
+		"deaths" : 0,
+		"population" : 188399
+		},
+	"San Benito" : {
+		"cases" : 191,
+		"deaths" : 2,
+		"population" : 57088
+		},
+	"Nevada" : {
+		"cases" : 91,
+		"deaths" : 1,
+		"population" : 99155
+		},
+	"Sutter" : {
+		"cases" : 127,
+		"deaths" : 3,
+		"population" : 97238
+		},
+	"Shasta" : {
+		"cases" : 92,
+		"deaths" : 4,
+		"population" : 178271
+		},
+	"Mono" : {
+		"cases" : 40,
+		"deaths" : 1,
+		"population" : 13822
+		},
+	"Yuba" : {
+		"cases" : 49,
+		"deaths" : 1,
+		"population" : 74727
+		},
+	"Butte" : {
+		"cases" : 127,
+		"deaths" : 1,
+		"population" : 227621
+		},
+	"Inyo" : {
+		"cases" : 27,
+		"deaths" : 1,
+		"population" : 18577
+		},
+	"Mariposa" : {
+		"cases" : 21,
+		"deaths" : 1,
+		"population" : 18129
+		},
+	"Del Norte" : {
+		"cases" : 49,
+		"deaths" : 0,
+		"population" : 27221
+		},
+	"Mendocino" : {
+		"cases" : 74,
+		"deaths" : 0,
+		"population" : 89299
+		},
+	"Calaveras" : {
+		"cases" : 29,
+		"deaths" : 0,
+		"population" : 45157
+		},
+	"Glenn" : {
+		"cases" : 74,
+		"deaths" : 0,
+		"population" : 28795
+		},
+	"Lake" : {
+		"cases" : 42,
+		"deaths" : 0,
+		"population" : 65081
+		},
+	"Amador" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 38094
+		},
+	"Siskiyou" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 44612
+		},
+	"Plumas" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 19773
+		},
+	"Colusa" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 22098
+		},
+	"Tehama" : {
+		"cases" : 59,
+		"deaths" : 1,
+		"population" : 64039
+		},
+	"Tuolumne" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 54740
+		},
+	"Alpine" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 1154
+		},
+	"Trinity" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 13635
+		},
+	"Lassen" : {
+		"cases" : 37,
+		"deaths" : 0,
+		"population" : 30911
+		},
+	"Modoc" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 9612
+		},
+	"Sierra" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 3207
+		}
+}

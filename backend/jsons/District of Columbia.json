@@ -1,0 +1,47 @@
+{
+	"Ward 1" : {
+		"cases" : 1419,
+		"deaths" : 56,
+		"population" : 76197
+		},
+	"Ward 2" : {
+		"cases" : 556,
+		"deaths" : 30,
+		"population" : 79915
+		},
+	"Ward 3" : {
+		"cases" : 465,
+		"deaths" : 30,
+		"population" : 77152
+		},
+	"Ward 4" : {
+		"cases" : 2100,
+		"deaths" : 78,
+		"population" : 75773
+		},
+	"Ward 5" : {
+		"cases" : 1507,
+		"deaths" : 85,
+		"population" : 74308
+		},
+	"Ward 6" : {
+		"cases" : 860,
+		"deaths" : 46,
+		"population" : 76598
+		},
+	"Ward 7" : {
+		"cases" : 1435,
+		"deaths" : 78,
+		"population" : 71068
+		},
+	"Ward 8" : {
+		"cases" : 1478,
+		"deaths" : 108,
+		"population" : 70712
+		},
+	"Unknown" : {
+		"cases" : 164,
+		"deaths" : "NaN",
+		"population" : "NaN"
+		}
+}

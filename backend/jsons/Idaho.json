@@ -1,0 +1,222 @@
+{
+	"Ada" : {
+		"cases" : 2288,
+		"deaths" : 23,
+		"population" : 481587
+		},
+	"Adams" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 4294
+		},
+	"Bannock" : {
+		"cases" : 104,
+		"deaths" : 1,
+		"population" : 87808
+		},
+	"Bear Lake" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 6125
+		},
+	"Benewah" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 9298
+		},
+	"Bingham" : {
+		"cases" : 43,
+		"deaths" : 0,
+		"population" : 46811
+		},
+	"Blaine" : {
+		"cases" : 535,
+		"deaths" : 5,
+		"population" : 23021
+		},
+	"Boise" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 7831
+		},
+	"Bonner" : {
+		"cases" : 33,
+		"deaths" : 0,
+		"population" : 45739
+		},
+	"Bonneville" : {
+		"cases" : 117,
+		"deaths" : 1,
+		"population" : 119062
+		},
+	"Boundary" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 12245
+		},
+	"Butte" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2597
+		},
+	"Camas" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 1106
+		},
+	"Canyon" : {
+		"cases" : 900,
+		"deaths" : 6,
+		"population" : 229849
+		},
+	"Caribou" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 7155
+		},
+	"Cassia" : {
+		"cases" : 248,
+		"deaths" : 1,
+		"population" : 24030
+		},
+	"Clark" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 845
+		},
+	"Clearwater" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 8756
+		},
+	"Custer" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 4315
+		},
+	"Elmore" : {
+		"cases" : 61,
+		"deaths" : 2,
+		"population" : 27511
+		},
+	"Franklin" : {
+		"cases" : 25,
+		"deaths" : 0,
+		"population" : 13876
+		},
+	"Fremont" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 13099
+		},
+	"Gem" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 18112
+		},
+	"Gooding" : {
+		"cases" : 65,
+		"deaths" : 1,
+		"population" : 15179
+		},
+	"Idaho" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 16667
+		},
+	"Jefferson" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 29871
+		},
+	"Jerome" : {
+		"cases" : 243,
+		"deaths" : 5,
+		"population" : 24412
+		},
+	"Kootenai" : {
+		"cases" : 286,
+		"deaths" : 1,
+		"population" : 165697
+		},
+	"Latah" : {
+		"cases" : 24,
+		"deaths" : 0,
+		"population" : 40108
+		},
+	"Lemhi" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 8027
+		},
+	"Lewis" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 3838
+		},
+	"Lincoln" : {
+		"cases" : 36,
+		"deaths" : 0,
+		"population" : 5366
+		},
+	"Madison" : {
+		"cases" : 35,
+		"deaths" : 0,
+		"population" : 39907
+		},
+	"Minidoka" : {
+		"cases" : 188,
+		"deaths" : 0,
+		"population" : 21039
+		},
+	"Nez Perce" : {
+		"cases" : 97,
+		"deaths" : 19,
+		"population" : 40408
+		},
+	"Oneida" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 4531
+		},
+	"Owyhee" : {
+		"cases" : 41,
+		"deaths" : 0,
+		"population" : 11823
+		},
+	"Payette" : {
+		"cases" : 111,
+		"deaths" : 2,
+		"population" : 23951
+		},
+	"Power" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 7681
+		},
+	"Shoshone" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 12882
+		},
+	"Teton" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 12142
+		},
+	"Twin Falls" : {
+		"cases" : 614,
+		"deaths" : 25,
+		"population" : 86878
+		},
+	"Valley" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 11392
+		},
+	"Washington" : {
+		"cases" : 107,
+		"deaths" : 0,
+		"population" : 10194
+		}
+}

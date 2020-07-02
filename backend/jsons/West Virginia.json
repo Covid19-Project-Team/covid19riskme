@@ -1,0 +1,277 @@
+{
+	"Barbour" : {
+		"cases" : 15,
+		"deaths" : 1,
+		"population" : 16589
+		},
+	"Berkeley" : {
+		"cases" : 441,
+		"deaths" : 10,
+		"population" : 104169
+		},
+	"Boone" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 24629
+		},
+	"Braxton" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 14523
+		},
+	"Brooke" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 24069
+		},
+	"Cabell" : {
+		"cases" : 128,
+		"deaths" : 0,
+		"population" : 96319
+		},
+	"Calhoun" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 7627
+		},
+	"Clay" : {
+		"cases" : 10,
+		"deaths" : 1,
+		"population" : 9386
+		},
+	"Doddridge" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 8202
+		},
+	"Fayette" : {
+		"cases" : 66,
+		"deaths" : 4,
+		"population" : 46039
+		},
+	"Gilmer" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 8693
+		},
+	"Grant" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 11937
+		},
+	"Greenbrier" : {
+		"cases" : 61,
+		"deaths" : 1,
+		"population" : 35480
+		},
+	"Hampshire" : {
+		"cases" : 42,
+		"deaths" : 1,
+		"population" : 23964
+		},
+	"Hancock" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 30676
+		},
+	"Hardy" : {
+		"cases" : 43,
+		"deaths" : 0,
+		"population" : 14025
+		},
+	"Harrison" : {
+		"cases" : 65,
+		"deaths" : 1,
+		"population" : 69099
+		},
+	"Jackson" : {
+		"cases" : 143,
+		"deaths" : 18,
+		"population" : 29211
+		},
+	"Jefferson" : {
+		"cases" : 228,
+		"deaths" : 4,
+		"population" : 53498
+		},
+	"Kanawha" : {
+		"cases" : 318,
+		"deaths" : 20,
+		"population" : 193063
+		},
+	"Lewis" : {
+		"cases" : 18,
+		"deaths" : 2,
+		"population" : 16372
+		},
+	"Lincoln" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 21720
+		},
+	"Logan" : {
+		"cases" : 25,
+		"deaths" : 1,
+		"population" : 36743
+		},
+	"Marion" : {
+		"cases" : 58,
+		"deaths" : 2,
+		"population" : 56418
+		},
+	"Marshall" : {
+		"cases" : 40,
+		"deaths" : 0,
+		"population" : 33107
+		},
+	"Mason" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 27324
+		},
+	"McDowell" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 22113
+		},
+	"Mercer" : {
+		"cases" : 45,
+		"deaths" : 0,
+		"population" : 62264
+		},
+	"Mineral" : {
+		"cases" : 55,
+		"deaths" : 3,
+		"population" : 28212
+		},
+	"Mingo" : {
+		"cases" : 20,
+		"deaths" : 2,
+		"population" : 26839
+		},
+	"Monongalia" : {
+		"cases" : 166,
+		"deaths" : 5,
+		"population" : 96189
+		},
+	"Monroe" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 13502
+		},
+	"Morgan" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 17541
+		},
+	"Nicholas" : {
+		"cases" : 10,
+		"deaths" : 1,
+		"population" : 26233
+		},
+	"Ohio" : {
+		"cases" : 97,
+		"deaths" : 1,
+		"population" : 44443
+		},
+	"Pendleton" : {
+		"cases" : 12,
+		"deaths" : 1,
+		"population" : 7695
+		},
+	"Pleasants" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 7605
+		},
+	"Pocahontas" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 8719
+		},
+	"Preston" : {
+		"cases" : 64,
+		"deaths" : 2,
+		"population" : 33520
+		},
+	"Putnam" : {
+		"cases" : 58,
+		"deaths" : 0,
+		"population" : 55486
+		},
+	"Raleigh" : {
+		"cases" : 53,
+		"deaths" : 0,
+		"population" : 78859
+		},
+	"Randolph" : {
+		"cases" : 161,
+		"deaths" : 0,
+		"population" : 29405
+		},
+	"Ritchie" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 10449
+		},
+	"Roane" : {
+		"cases" : 11,
+		"deaths" : 1,
+		"population" : 14926
+		},
+	"Summers" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 13927
+		},
+	"Taylor" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 16895
+		},
+	"Tucker" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 7141
+		},
+	"Tyler" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 9208
+		},
+	"Upshur" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 24254
+		},
+	"Wayne" : {
+		"cases" : 111,
+		"deaths" : 9,
+		"population" : 42481
+		},
+	"Webster" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 9154
+		},
+	"Wetzel" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 16583
+		},
+	"Wirt" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 5717
+		},
+	"Wood" : {
+		"cases" : 92,
+		"deaths" : 2,
+		"population" : 86956
+		},
+	"Wyoming" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 23796
+		}
+}

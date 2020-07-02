@@ -1,0 +1,592 @@
+{
+	"Adair" : {
+		"cases" : 91,
+		"deaths" : 0,
+		"population" : 25607
+		},
+	"Andrew" : {
+		"cases" : 52,
+		"deaths" : 0,
+		"population" : 17291
+		},
+	"Atchison" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 5685
+		},
+	"Audrain" : {
+		"cases" : 138,
+		"deaths" : 1,
+		"population" : 25529
+		},
+	"Barry" : {
+		"cases" : 52,
+		"deaths" : 0,
+		"population" : 35597
+		},
+	"Barton" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 12402
+		},
+	"Bates" : {
+		"cases" : 12,
+		"deaths" : 1,
+		"population" : 17049
+		},
+	"Benton" : {
+		"cases" : 16,
+		"deaths" : 0,
+		"population" : 19056
+		},
+	"Bollinger" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 12363
+		},
+	"Boone" : {
+		"cases" : 363,
+		"deaths" : 2,
+		"population" : 162642
+		},
+	"Buchanan" : {
+		"cases" : 873,
+		"deaths" : 3,
+		"population" : 89201
+		},
+	"Butler" : {
+		"cases" : 106,
+		"deaths" : 0,
+		"population" : 42794
+		},
+	"Caldwell" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 9424
+		},
+	"Callaway" : {
+		"cases" : 46,
+		"deaths" : 1,
+		"population" : 44332
+		},
+	"Camden" : {
+		"cases" : 66,
+		"deaths" : 1,
+		"population" : 44002
+		},
+	"Cape Girardeau" : {
+		"cases" : 171,
+		"deaths" : 3,
+		"population" : 75674
+		},
+	"Carroll" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 9295
+		},
+	"Carter" : {
+		"cases" : 6,
+		"deaths" : 1,
+		"population" : 6265
+		},
+	"Cass" : {
+		"cases" : 140,
+		"deaths" : 8,
+		"population" : 99478
+		},
+	"Cedar" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 13982
+		},
+	"Chariton" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 7831
+		},
+	"Christian" : {
+		"cases" : 45,
+		"deaths" : 0,
+		"population" : 77422
+		},
+	"Clark" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 7139
+		},
+	"Clay" : {
+		"cases" : 460,
+		"deaths" : 11,
+		"population" : 221939
+		},
+	"Clinton" : {
+		"cases" : 25,
+		"deaths" : 0,
+		"population" : 20743
+		},
+	"Cole" : {
+		"cases" : 76,
+		"deaths" : 2,
+		"population" : 75990
+		},
+	"Cooper" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 17601
+		},
+	"Crawford" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 24696
+		},
+	"Dade" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 7883
+		},
+	"Dallas" : {
+		"cases" : 13,
+		"deaths" : 1,
+		"population" : 16777
+		},
+	"Daviess" : {
+		"cases" : 9,
+		"deaths" : 0,
+		"population" : 8433
+		},
+	"DeKalb" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 12892
+		},
+	"Dent" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 15657
+		},
+	"Douglas" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 13684
+		},
+	"Dunklin" : {
+		"cases" : 104,
+		"deaths" : 3,
+		"population" : 31953
+		},
+	"Franklin" : {
+		"cases" : 208,
+		"deaths" : 18,
+		"population" : 101492
+		},
+	"Gasconade" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 15222
+		},
+	"Gentry" : {
+		"cases" : 58,
+		"deaths" : 9,
+		"population" : 6738
+		},
+	"Greene" : {
+		"cases" : 292,
+		"deaths" : 8,
+		"population" : 275174
+		},
+	"Grundy" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 10261
+		},
+	"Harrison" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 8957
+		},
+	"Henry" : {
+		"cases" : 20,
+		"deaths" : 3,
+		"population" : 22272
+		},
+	"Hickory" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 9627
+		},
+	"Holt" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 4912
+		},
+	"Howard" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 10144
+		},
+	"Howell" : {
+		"cases" : 40,
+		"deaths" : 0,
+		"population" : 40400
+		},
+	"Iron" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 10630
+		},
+	"Jackson" : {
+		"cases" : 1233,
+		"deaths" : 24,
+		"population" : 674158
+		},
+	"Jasper" : {
+		"cases" : 474,
+		"deaths" : 1,
+		"population" : 117404
+		},
+	"Jefferson" : {
+		"cases" : 480,
+		"deaths" : 20,
+		"population" : 218733
+		},
+	"Johnson" : {
+		"cases" : 124,
+		"deaths" : 0,
+		"population" : 52595
+		},
+	"Joplin" : {
+		"cases" : 130,
+		"deaths" : 4,
+		"population" : 50150
+		},
+	"Kansas City" : {
+		"cases" : 2457,
+		"deaths" : 31,
+		"population" : 459787
+		},
+	"Knox" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 4131
+		},
+	"Laclede" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 35571
+		},
+	"Lafayette" : {
+		"cases" : 91,
+		"deaths" : 2,
+		"population" : 33381
+		},
+	"Lawrence" : {
+		"cases" : 37,
+		"deaths" : 1,
+		"population" : 38634
+		},
+	"Lewis" : {
+		"cases" : 7,
+		"deaths" : 1,
+		"population" : 10211
+		},
+	"Lincoln" : {
+		"cases" : 96,
+		"deaths" : 1,
+		"population" : 52566
+		},
+	"Linn" : {
+		"cases" : 16,
+		"deaths" : 1,
+		"population" : 12761
+		},
+	"Livingston" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 15195
+		},
+	"Macon" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 15566
+		},
+	"Madison" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 12226
+		},
+	"Maries" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 9176
+		},
+	"Marion" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 28781
+		},
+	"McDonald" : {
+		"cases" : 570,
+		"deaths" : 1,
+		"population" : 23083
+		},
+	"Mercer" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 3785
+		},
+	"Miller" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 24748
+		},
+	"Mississippi" : {
+		"cases" : 91,
+		"deaths" : 0,
+		"population" : 14358
+		},
+	"Moniteau" : {
+		"cases" : 52,
+		"deaths" : 1,
+		"population" : 15607
+		},
+	"Monroe" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 8840
+		},
+	"Montgomery" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 12236
+		},
+	"Morgan" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 20565
+		},
+	"New Madrid" : {
+		"cases" : 42,
+		"deaths" : 1,
+		"population" : 18956
+		},
+	"Newton" : {
+		"cases" : 427,
+		"deaths" : 2,
+		"population" : 58114
+		},
+	"Nodaway" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 23370
+		},
+	"Oregon" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 10881
+		},
+	"Osage" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 13878
+		},
+	"Ozark" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 9723
+		},
+	"Pemiscot" : {
+		"cases" : 110,
+		"deaths" : 6,
+		"population" : 18296
+		},
+	"Perry" : {
+		"cases" : 146,
+		"deaths" : 0,
+		"population" : 18971
+		},
+	"Pettis" : {
+		"cases" : 120,
+		"deaths" : 1,
+		"population" : 42201
+		},
+	"Phelps" : {
+		"cases" : 40,
+		"deaths" : 0,
+		"population" : 45156
+		},
+	"Pike" : {
+		"cases" : 36,
+		"deaths" : 1,
+		"population" : 18516
+		},
+	"Platte" : {
+		"cases" : 117,
+		"deaths" : 6,
+		"population" : 89322
+		},
+	"Polk" : {
+		"cases" : 16,
+		"deaths" : 0,
+		"population" : 31137
+		},
+	"Pulaski" : {
+		"cases" : 125,
+		"deaths" : 1,
+		"population" : 52274
+		},
+	"Putnam" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 4979
+		},
+	"Ralls" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 10167
+		},
+	"Randolph" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 25414
+		},
+	"Ray" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 23494
+		},
+	"Reynolds" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 6696
+		},
+	"Ripley" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 14100
+		},
+	"Saline" : {
+		"cases" : 283,
+		"deaths" : 4,
+		"population" : 23370
+		},
+	"Schuyler" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 4431
+		},
+	"Scotland" : {
+		"cases" : 11,
+		"deaths" : 1,
+		"population" : 4843
+		},
+	"Scott" : {
+		"cases" : 169,
+		"deaths" : 11,
+		"population" : 39191
+		},
+	"Shannon" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 8441
+		},
+	"Shelby" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 6373
+		},
+	"St. Charles" : {
+		"cases" : 1064,
+		"deaths" : 74,
+		"population" : 360485
+		},
+	"St. Clair" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 9805
+		},
+	"St. Francois" : {
+		"cases" : 147,
+		"deaths" : 2,
+		"population" : 65359
+		},
+	"St. Louis City" : {
+		"cases" : 2443,
+		"deaths" : 153,
+		"population" : 319294
+		},
+	"St. Louis" : {
+		"cases" : 6348,
+		"deaths" : 577,
+		"population" : 998954
+		},
+	"Ste. Genevieve" : {
+		"cases" : 20,
+		"deaths" : 1,
+		"population" : 18145
+		},
+	"Stoddard" : {
+		"cases" : 137,
+		"deaths" : 8,
+		"population" : 29968
+		},
+	"Stone" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 32202
+		},
+	"Sullivan" : {
+		"cases" : 111,
+		"deaths" : 0,
+		"population" : 6714
+		},
+	"Taney" : {
+		"cases" : 63,
+		"deaths" : 2,
+		"population" : 51675
+		},
+	"Texas" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 26008
+		},
+	"Vernon" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 21159
+		},
+	"Warren" : {
+		"cases" : 43,
+		"deaths" : 0,
+		"population" : 32513
+		},
+	"Washington" : {
+		"cases" : 22,
+		"deaths" : 1,
+		"population" : 25195
+		},
+	"Wayne" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 13521
+		},
+	"Webster" : {
+		"cases" : 33,
+		"deaths" : 1,
+		"population" : 36202
+		},
+	"Worth" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 2171
+		},
+	"Wright" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 18815
+		},
+	"Unknown" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

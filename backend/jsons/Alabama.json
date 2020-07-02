@@ -1,0 +1,342 @@
+{
+	"Autauga" : {
+		"cases" : 431,
+		"deaths" : 9,
+		"population" : 54571
+		},
+	"Baldwin" : {
+		"cases" : 420,
+		"deaths" : 9,
+		"population" : 182265
+		},
+	"Barbour" : {
+		"cases" : 272,
+		"deaths" : 1,
+		"population" : 27457
+		},
+	"Bibb" : {
+		"cases" : 126,
+		"deaths" : 1,
+		"population" : 22915
+		},
+	"Blount" : {
+		"cases" : 143,
+		"deaths" : 1,
+		"population" : 57322
+		},
+	"Bullock" : {
+		"cases" : 327,
+		"deaths" : 10,
+		"population" : 10914
+		},
+	"Butler" : {
+		"cases" : 572,
+		"deaths" : 26,
+		"population" : 20947
+		},
+	"Calhoun" : {
+		"cases" : 211,
+		"deaths" : 4,
+		"population" : 118572
+		},
+	"Chambers" : {
+		"cases" : 516,
+		"deaths" : 27,
+		"population" : 34215
+		},
+	"Cherokee" : {
+		"cases" : 58,
+		"deaths" : 6,
+		"population" : 25989
+		},
+	"Chilton" : {
+		"cases" : 163,
+		"deaths" : 3,
+		"population" : 43643
+		},
+	"Choctaw" : {
+		"cases" : 186,
+		"deaths" : 12,
+		"population" : 13859
+		},
+	"Clarke" : {
+		"cases" : 214,
+		"deaths" : 4,
+		"population" : 25833
+		},
+	"Clay" : {
+		"cases" : 31,
+		"deaths" : 2,
+		"population" : 13932
+		},
+	"Cleburne" : {
+		"cases" : 22,
+		"deaths" : 1,
+		"population" : 14972
+		},
+	"Coffee" : {
+		"cases" : 315,
+		"deaths" : 1,
+		"population" : 49948
+		},
+	"Colbert" : {
+		"cases" : 302,
+		"deaths" : 6,
+		"population" : 54428
+		},
+	"Conecuh" : {
+		"cases" : 137,
+		"deaths" : 1,
+		"population" : 13228
+		},
+	"Coosa" : {
+		"cases" : 50,
+		"deaths" : 1,
+		"population" : 11539
+		},
+	"Covington" : {
+		"cases" : 224,
+		"deaths" : 1,
+		"population" : 37765
+		},
+	"Crenshaw" : {
+		"cases" : 117,
+		"deaths" : 3,
+		"population" : 13906
+		},
+	"Cullman" : {
+		"cases" : 309,
+		"deaths" : 1,
+		"population" : 80406
+		},
+	"Dale" : {
+		"cases" : 205,
+		"deaths" : 0,
+		"population" : 50251
+		},
+	"Dallas" : {
+		"cases" : 626,
+		"deaths" : 6,
+		"population" : 43820
+		},
+	"DeKalb" : {
+		"cases" : 403,
+		"deaths" : 5,
+		"population" : 71109
+		},
+	"Elmore" : {
+		"cases" : 663,
+		"deaths" : 11,
+		"population" : 79303
+		},
+	"Escambia" : {
+		"cases" : 144,
+		"deaths" : 5,
+		"population" : 38319
+		},
+	"Etowah" : {
+		"cases" : 394,
+		"deaths" : 12,
+		"population" : 104430
+		},
+	"Fayette" : {
+		"cases" : 61,
+		"deaths" : 1,
+		"population" : 17241
+		},
+	"Franklin" : {
+		"cases" : 776,
+		"deaths" : 10,
+		"population" : 31704
+		},
+	"Geneva" : {
+		"cases" : 51,
+		"deaths" : 0,
+		"population" : 26790
+		},
+	"Greene" : {
+		"cases" : 151,
+		"deaths" : 5,
+		"population" : 9045
+		},
+	"Hale" : {
+		"cases" : 262,
+		"deaths" : 18,
+		"population" : 15760
+		},
+	"Henry" : {
+		"cases" : 115,
+		"deaths" : 3,
+		"population" : 17302
+		},
+	"Houston" : {
+		"cases" : 356,
+		"deaths" : 5,
+		"population" : 101547
+		},
+	"Jackson" : {
+		"cases" : 150,
+		"deaths" : 3,
+		"population" : 53227
+		},
+	"Jefferson" : {
+		"cases" : 2903,
+		"deaths" : 126,
+		"population" : 658466
+		},
+	"Lamar" : {
+		"cases" : 55,
+		"deaths" : 0,
+		"population" : 14564
+		},
+	"Lauderdale" : {
+		"cases" : 295,
+		"deaths" : 4,
+		"population" : 92709
+		},
+	"Lawrence" : {
+		"cases" : 75,
+		"deaths" : 0,
+		"population" : 34339
+		},
+	"Lee" : {
+		"cases" : 841,
+		"deaths" : 35,
+		"population" : 140247
+		},
+	"Limestone" : {
+		"cases" : 267,
+		"deaths" : 0,
+		"population" : 82782
+		},
+	"Lowndes" : {
+		"cases" : 417,
+		"deaths" : 15,
+		"population" : 11299
+		},
+	"Macon" : {
+		"cases" : 146,
+		"deaths" : 6,
+		"population" : 21452
+		},
+	"Madison" : {
+		"cases" : 708,
+		"deaths" : 6,
+		"population" : 334811
+		},
+	"Marengo" : {
+		"cases" : 238,
+		"deaths" : 11,
+		"population" : 21027
+		},
+	"Marion" : {
+		"cases" : 173,
+		"deaths" : 12,
+		"population" : 30776
+		},
+	"Marshall" : {
+		"cases" : 1061,
+		"deaths" : 9,
+		"population" : 93019
+		},
+	"Mobile" : {
+		"cases" : 2954,
+		"deaths" : 133,
+		"population" : 412992
+		},
+	"Monroe" : {
+		"cases" : 159,
+		"deaths" : 2,
+		"population" : 23068
+		},
+	"Montgomery" : {
+		"cases" : 3222,
+		"deaths" : 81,
+		"population" : 229363
+		},
+	"Morgan" : {
+		"cases" : 733,
+		"deaths" : 2,
+		"population" : 119490
+		},
+	"Perry" : {
+		"cases" : 86,
+		"deaths" : 0,
+		"population" : 10591
+		},
+	"Pickens" : {
+		"cases" : 157,
+		"deaths" : 6,
+		"population" : 19746
+		},
+	"Pike" : {
+		"cases" : 360,
+		"deaths" : 3,
+		"population" : 32899
+		},
+	"Randolph" : {
+		"cases" : 144,
+		"deaths" : 8,
+		"population" : 22913
+		},
+	"Russell" : {
+		"cases" : 353,
+		"deaths" : 0,
+		"population" : 52947
+		},
+	"Shelby" : {
+		"cases" : 778,
+		"deaths" : 22,
+		"population" : 195085
+		},
+	"St. Clair" : {
+		"cases" : 204,
+		"deaths" : 2,
+		"population" : 83593
+		},
+	"Sumter" : {
+		"cases" : 269,
+		"deaths" : 12,
+		"population" : 13763
+		},
+	"Talladega" : {
+		"cases" : 185,
+		"deaths" : 6,
+		"population" : 82291
+		},
+	"Tallapoosa" : {
+		"cases" : 513,
+		"deaths" : 70,
+		"population" : 41616
+		},
+	"Tuscaloosa" : {
+		"cases" : 1559,
+		"deaths" : 31,
+		"population" : 194656
+		},
+	"Walker" : {
+		"cases" : 679,
+		"deaths" : 8,
+		"population" : 67023
+		},
+	"Washington" : {
+		"cases" : 102,
+		"deaths" : 6,
+		"population" : 17581
+		},
+	"Wilcox" : {
+		"cases" : 244,
+		"deaths" : 8,
+		"population" : 11670
+		},
+	"Winston" : {
+		"cases" : 173,
+		"deaths" : 1,
+		"population" : 24484
+		},
+	"Unknown" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

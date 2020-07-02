@@ -1,0 +1,167 @@
+{
+	"Bernalillo" : {
+		"cases" : 2178,
+		"deaths" : 86,
+		"population" : 679121
+		},
+	"Catron" : {
+		"cases" : 2,
+		"deaths" : 1,
+		"population" : 3527
+		},
+	"Chaves" : {
+		"cases" : 95,
+		"deaths" : 2,
+		"population" : 64615
+		},
+	"Cibola" : {
+		"cases" : 215,
+		"deaths" : 14,
+		"population" : 26675
+		},
+	"Colfax" : {
+		"cases" : 9,
+		"deaths" : 1,
+		"population" : 11941
+		},
+	"Curry" : {
+		"cases" : 165,
+		"deaths" : 0,
+		"population" : 48954
+		},
+	"De Baca" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1748
+		},
+	"Doña Ana" : {
+		"cases" : 957,
+		"deaths" : 9,
+		"population" : 218195
+		},
+	"Eddy" : {
+		"cases" : 82,
+		"deaths" : 1,
+		"population" : 58460
+		},
+	"Grant" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 26998
+		},
+	"Guadalupe" : {
+		"cases" : 20,
+		"deaths" : 0,
+		"population" : 4300
+		},
+	"Harding" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 625
+		},
+	"Hidalgo" : {
+		"cases" : 49,
+		"deaths" : 0,
+		"population" : 4198
+		},
+	"Lea" : {
+		"cases" : 134,
+		"deaths" : 0,
+		"population" : 71070
+		},
+	"Lincoln" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 19572
+		},
+	"Los Alamos" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 19369
+		},
+	"Luna" : {
+		"cases" : 80,
+		"deaths" : 3,
+		"population" : 23709
+		},
+	"McKinley" : {
+		"cases" : 3395,
+		"deaths" : 170,
+		"population" : 71367
+		},
+	"Mora" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 4521
+		},
+	"Otero" : {
+		"cases" : 909,
+		"deaths" : 6,
+		"population" : 67490
+		},
+	"Quay" : {
+		"cases" : 6,
+		"deaths" : 1,
+		"population" : 8253
+		},
+	"Rio Arriba" : {
+		"cases" : 101,
+		"deaths" : 1,
+		"population" : 38921
+		},
+	"Roosevelt" : {
+		"cases" : 59,
+		"deaths" : 1,
+		"population" : 18500
+		},
+	"San Juan" : {
+		"cases" : 2460,
+		"deaths" : 163,
+		"population" : 123958
+		},
+	"San Miguel" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 27277
+		},
+	"Sandoval" : {
+		"cases" : 731,
+		"deaths" : 29,
+		"population" : 146748
+		},
+	"Santa Fe" : {
+		"cases" : 241,
+		"deaths" : 3,
+		"population" : 150358
+		},
+	"Sierra" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 10791
+		},
+	"Socorro" : {
+		"cases" : 60,
+		"deaths" : 5,
+		"population" : 16637
+		},
+	"Taos" : {
+		"cases" : 43,
+		"deaths" : 1,
+		"population" : 32723
+		},
+	"Torrance" : {
+		"cases" : 75,
+		"deaths" : 1,
+		"population" : 15461
+		},
+	"Union" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 4059
+		},
+	"Valencia" : {
+		"cases" : 130,
+		"deaths" : 2,
+		"population" : 76688
+		}
+}

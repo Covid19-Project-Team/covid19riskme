@@ -1,0 +1,87 @@
+{
+	"Carson City" : {
+		"cases" : 161,
+		"deaths" : 5,
+		"population" : 55916
+		},
+	"Churchill" : {
+		"cases" : 13,
+		"deaths" : 1,
+		"population" : 24909
+		},
+	"Clark" : {
+		"cases" : 16180,
+		"deaths" : 432,
+		"population" : 2266715
+		},
+	"Douglas" : {
+		"cases" : 70,
+		"deaths" : 0,
+		"population" : 48905
+		},
+	"Elko" : {
+		"cases" : 129,
+		"deaths" : 1,
+		"population" : 52778
+		},
+	"Esmeralda" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 873
+		},
+	"Eureka" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2029
+		},
+	"Humboldt" : {
+		"cases" : 85,
+		"deaths" : 4,
+		"population" : 16831
+		},
+	"Lander" : {
+		"cases" : 35,
+		"deaths" : 0,
+		"population" : 5532
+		},
+	"Lincoln" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 5183
+		},
+	"Lyon" : {
+		"cases" : 121,
+		"deaths" : 2,
+		"population" : 57510
+		},
+	"Mineral" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 4505
+		},
+	"Nye" : {
+		"cases" : 114,
+		"deaths" : 3,
+		"population" : 46523
+		},
+	"Pershing" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 6725
+		},
+	"Storey" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 4123
+		},
+	"Washoe" : {
+		"cases" : 2804,
+		"deaths" : 77,
+		"population" : 471519
+		},
+	"White Pine" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 9580
+		}
+}

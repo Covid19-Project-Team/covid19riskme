@@ -1,0 +1,87 @@
+{
+	"Androscoggin" : {
+		"cases" : 453,
+		"deaths" : 4,
+		"population" : 107233
+		},
+	"Aroostook" : {
+		"cases" : 19,
+		"deaths" : 1,
+		"population" : 68628
+		},
+	"Cumberland" : {
+		"cases" : 1542,
+		"deaths" : 58,
+		"population" : 289977
+		},
+	"Franklin" : {
+		"cases" : 38,
+		"deaths" : 1,
+		"population" : 29991
+		},
+	"Hancock" : {
+		"cases" : 15,
+		"deaths" : 1,
+		"population" : 54659
+		},
+	"Kennebec" : {
+		"cases" : 138,
+		"deaths" : 9,
+		"population" : 119980
+		},
+	"Knox" : {
+		"cases" : 24,
+		"deaths" : 1,
+		"population" : 39855
+		},
+	"Lincoln" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 33969
+		},
+	"Oxford" : {
+		"cases" : 34,
+		"deaths" : 0,
+		"population" : 57202
+		},
+	"Penobscot" : {
+		"cases" : 103,
+		"deaths" : 2,
+		"population" : 152692
+		},
+	"Piscataquis" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 16931
+		},
+	"Sagadahoc" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 35149
+		},
+	"Somerset" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 51113
+		},
+	"Waldo" : {
+		"cases" : 55,
+		"deaths" : 14,
+		"population" : 39155
+		},
+	"Washington" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 31625
+		},
+	"York" : {
+		"cases" : 466,
+		"deaths" : 11,
+		"population" : 201169
+		},
+	"Unknown" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 
+		}
+}

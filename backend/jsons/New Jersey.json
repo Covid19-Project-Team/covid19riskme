@@ -1,0 +1,112 @@
+{
+	"Atlantic" : {
+		"cases" : 2722,
+		"deaths" : 188,
+		"population" : 265429
+		},
+	"Bergen" : {
+		"cases" : 19037,
+		"deaths" : 1701,
+		"population" : 936692
+		},
+	"Burlington" : {
+		"cases" : 5046,
+		"deaths" : 372,
+		"population" : 445384
+		},
+	"Camden" : {
+		"cases" : 7153,
+		"deaths" : 417,
+		"population" : 507078
+		},
+	"Cape May" : {
+		"cases" : 692,
+		"deaths" : 62,
+		"population" : 92560
+		},
+	"Cumberland" : {
+		"cases" : 2876,
+		"deaths" : 124,
+		"population" : 150972
+		},
+	"Essex" : {
+		"cases" : 18578,
+		"deaths" : 1761,
+		"population" : 799767
+		},
+	"Gloucester" : {
+		"cases" : 2471,
+		"deaths" : 171,
+		"population" : 291408
+		},
+	"Hudson" : {
+		"cases" : 18755,
+		"deaths" : 1266,
+		"population" : 676061
+		},
+	"Hunterdon" : {
+		"cases" : 1060,
+		"deaths" : 67,
+		"population" : 124714
+		},
+	"Mercer" : {
+		"cases" : 7549,
+		"deaths" : 524,
+		"population" : 369811
+		},
+	"Middlesex" : {
+		"cases" : 16618,
+		"deaths" : 1101,
+		"population" : 829685
+		},
+	"Monmouth" : {
+		"cases" : 8965,
+		"deaths" : 696,
+		"population" : 621354
+		},
+	"Morris" : {
+		"cases" : 6718,
+		"deaths" : 643,
+		"population" : 494228
+		},
+	"Ocean" : {
+		"cases" : 9440,
+		"deaths" : 850,
+		"population" : 601651
+		},
+	"Passaic" : {
+		"cases" : 16772,
+		"deaths" : 1015,
+		"population" : 503310
+		},
+	"Salem" : {
+		"cases" : 752,
+		"deaths" : 65,
+		"population" : 62607
+		},
+	"Somerset" : {
+		"cases" : 4819,
+		"deaths" : 440,
+		"population" : 331164
+		},
+	"Sussex" : {
+		"cases" : 1178,
+		"deaths" : 152,
+		"population" : 140799
+		},
+	"Union" : {
+		"cases" : 16340,
+		"deaths" : 1138,
+		"population" : 558067
+		},
+	"Warren" : {
+		"cases" : 1218,
+		"deaths" : 142,
+		"population" : 105779
+		},
+	"Unassigned" : {
+		"cases" : 656,
+		"deaths" : 0,
+		"population" : 
+		}
+}

@@ -1,0 +1,37 @@
+{
+	"Hawaii" : {
+		"cases" : 83,
+		"deaths" : 0,
+		"population" : 201513
+		},
+	"Honolulu" : {
+		"cases" : 557,
+		"deaths" : 11,
+		"population" : 974563
+		},
+	"Kalawao" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : "NaN"
+		},
+	"Kauai" : {
+		"cases" : 29,
+		"deaths" : 0,
+		"population" : 72293
+		},
+	"Maui" : {
+		"cases" : 122,
+		"deaths" : 6,
+		"population" : 167417
+		},
+	"Residents " : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : "NaN"
+		},
+	"County Pending" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

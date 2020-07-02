@@ -1,0 +1,27 @@
+{
+	"3 / 3" : {
+		"cases" : 10681,
+		"deaths" : 434,
+		"population" : 897934
+		},
+	"Kent" : {
+		"cases" : 1606,
+		"deaths" : 84,
+		"population" : 162310
+		},
+	"New Castle" : {
+		"cases" : 4569,
+		"deaths" : 197,
+		"population" : 538479
+		},
+	"Sussex" : {
+		"cases" : 4487,
+		"deaths" : 153,
+		"population" : 197145
+		},
+	"Unknown" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

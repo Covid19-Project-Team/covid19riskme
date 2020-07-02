@@ -1,0 +1,202 @@
+{
+	"Adams" : {
+		"cases" : 142,
+		"deaths" : 0,
+		"population" : 19983
+		},
+	"Asotin" : {
+		"cases" : 21,
+		"deaths" : 2,
+		"population" : 22582
+		},
+	"Benton" : {
+		"cases" : 1798,
+		"deaths" : 82,
+		"population" : 204390
+		},
+	"Chelan" : {
+		"cases" : 347,
+		"deaths" : 6,
+		"population" : 77200
+		},
+	"Clallam" : {
+		"cases" : 36,
+		"deaths" : 0,
+		"population" : 77331
+		},
+	"Clark" : {
+		"cases" : 749,
+		"deaths" : 30,
+		"population" : 488241
+		},
+	"Columbia" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 3985
+		},
+	"Cowlitz" : {
+		"cases" : 187,
+		"deaths" : 0,
+		"population" : 110593
+		},
+	"Douglas" : {
+		"cases" : 242,
+		"deaths" : 3,
+		"population" : 43429
+		},
+	"Ferry" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 7627
+		},
+	"Franklin" : {
+		"cases" : 1697,
+		"deaths" : 33,
+		"population" : 95222
+		},
+	"Garfield" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2225
+		},
+	"Grant" : {
+		"cases" : 511,
+		"deaths" : 6,
+		"population" : 97733
+		},
+	"Grays Harbor" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 75061
+		},
+	"Island" : {
+		"cases" : 193,
+		"deaths" : 12,
+		"population" : 85141
+		},
+	"Jefferson" : {
+		"cases" : 38,
+		"deaths" : 0,
+		"population" : 32221
+		},
+	"King" : {
+		"cases" : 10304,
+		"deaths" : 612,
+		"population" : 2252782
+		},
+	"Kitsap" : {
+		"cases" : 225,
+		"deaths" : 2,
+		"population" : 271473
+		},
+	"Kittitas" : {
+		"cases" : 131,
+		"deaths" : 0,
+		"population" : 47935
+		},
+	"Klickitat" : {
+		"cases" : 59,
+		"deaths" : 3,
+		"population" : 22425
+		},
+	"Lewis" : {
+		"cases" : 68,
+		"deaths" : 3,
+		"population" : 80707
+		},
+	"Lincoln" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 10939
+		},
+	"Mason" : {
+		"cases" : 51,
+		"deaths" : 1,
+		"population" : 66768
+		},
+	"Okanogan" : {
+		"cases" : 85,
+		"deaths" : 2,
+		"population" : 42243
+		},
+	"Pacific" : {
+		"cases" : 17,
+		"deaths" : 1,
+		"population" : 22471
+		},
+	"Pend Oreille" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 13724
+		},
+	"Pierce" : {
+		"cases" : 2590,
+		"deaths" : 104,
+		"population" : 904980
+		},
+	"San Juan" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 17582
+		},
+	"Skagit" : {
+		"cases" : 527,
+		"deaths" : 15,
+		"population" : 129205
+		},
+	"Skamania" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 12083
+		},
+	"Snohomish" : {
+		"cases" : 3535,
+		"deaths" : 171,
+		"population" : 822083
+		},
+	"Spokane" : {
+		"cases" : 1389,
+		"deaths" : 41,
+		"population" : 522798
+		},
+	"Stevens" : {
+		"cases" : 18,
+		"deaths" : 1,
+		"population" : 45723
+		},
+	"Thurston" : {
+		"cases" : 261,
+		"deaths" : 7,
+		"population" : 290536
+		},
+	"Wahkiakum" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 4488
+		},
+	"Walla Walla" : {
+		"cases" : 170,
+		"deaths" : 3,
+		"population" : 60760
+		},
+	"Whatcom" : {
+		"cases" : 635,
+		"deaths" : 40,
+		"population" : 229247
+		},
+	"Whitman" : {
+		"cases" : 38,
+		"deaths" : 0,
+		"population" : 50104
+		},
+	"Yakima" : {
+		"cases" : 7128,
+		"deaths" : 159,
+		"population" : 250873
+		},
+	"Unassigned" : {
+		"cases" : 171,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

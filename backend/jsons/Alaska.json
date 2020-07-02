@@ -1,0 +1,147 @@
+{
+	"Aleutians East Borough" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2938
+		},
+	"Anchorage" : {
+		"cases" : 346,
+		"deaths" : 6,
+		"population" : 291845
+		},
+	"Bristol Bay Borough" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 869
+		},
+	"Denali Borough" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1860
+		},
+	"Fairbanks North Star Borough" : {
+		"cases" : 114,
+		"deaths" : 2,
+		"population" : 95898
+		},
+	"Haines Borough" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 2516
+		},
+	"Juneau" : {
+		"cases" : 39,
+		"deaths" : 0,
+		"population" : 31986
+		},
+	"Kenai Peninsula Borough" : {
+		"cases" : 119,
+		"deaths" : 2,
+		"population" : 58367
+		},
+	"Ketchikan Gateway Borough" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 13739
+		},
+	"Kodiak Island Borough" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 13001
+		},
+	"Matanuska-Susitna Borough" : {
+		"cases" : 54,
+		"deaths" : 1,
+		"population" : 106438
+		},
+	"North Slope Borough" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 9886
+		},
+	"Northwest Arctic Borough" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 7715
+		},
+	"Petersburg Borough" : {
+		"cases" : 4,
+		"deaths" : 1,
+		"population" : 3226
+		},
+	"Sitka" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 8532
+		},
+	"Skagway" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 1095
+		},
+	"Wrangell" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 2400
+		},
+	"Yakutat" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 540
+		},
+	"Aleutians West Census Area" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 5579
+		},
+	"Bethel Census Area" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 18131
+		},
+	"Chugach Census Area" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 6734
+		},
+	"Copper River Census Area" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 2764
+		},
+	"Dillingham Census Area" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 4887
+		},
+	"Hoonah–Angoon Census Area" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 2145
+		},
+	"Kusilvak Census Area" : {
+		"cases" : "NaN",
+		"deaths" : "NaN",
+		"population" : 8180
+		},
+	"Nome Census Area" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 9831
+		},
+	"Prince of Wales-Hyder Census Area" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 6194
+		},
+	"Southeast Fairbanks Census Area" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 6891
+		},
+	"Yukon-Koyukuk Census Area" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 5198
+		}
+}

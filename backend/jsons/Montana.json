@@ -1,0 +1,282 @@
+{
+	"Beaverhead" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 9453
+		},
+	"Big Horn" : {
+		"cases" : 82,
+		"deaths" : 3,
+		"population" : 13319
+		},
+	"Blaine" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 6681
+		},
+	"Broadwater" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 6237
+		},
+	"Carbon" : {
+		"cases" : 26,
+		"deaths" : 0,
+		"population" : 10725
+		},
+	"Carter" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 1252
+		},
+	"Cascade" : {
+		"cases" : 34,
+		"deaths" : 2,
+		"population" : 81366
+		},
+	"Chouteau" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 5635
+		},
+	"Custer" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 11402
+		},
+	"Daniels" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 1690
+		},
+	"Dawson" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 8613
+		},
+	"Deer Lodge" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 9140
+		},
+	"Fallon" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 2846
+		},
+	"Fergus" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 11050
+		},
+	"Flathead" : {
+		"cases" : 62,
+		"deaths" : 2,
+		"population" : 103806
+		},
+	"Gallatin" : {
+		"cases" : 277,
+		"deaths" : 1,
+		"population" : 114434
+		},
+	"Garfield" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 1258
+		},
+	"Glacier" : {
+		"cases" : 22,
+		"deaths" : 0,
+		"population" : 13753
+		},
+	"Golden Valley" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 821
+		},
+	"Granite" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 3379
+		},
+	"Hill" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 16484
+		},
+	"Jefferson" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 12221
+		},
+	"Judith Basin" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 2007
+		},
+	"Lake" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 30458
+		},
+	"Lewis and Clark" : {
+		"cases" : 29,
+		"deaths" : 0,
+		"population" : 69432
+		},
+	"Liberty" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2337
+		},
+	"Lincoln" : {
+		"cases" : 8,
+		"deaths" : 1,
+		"population" : 19980
+		},
+	"Madison" : {
+		"cases" : 11,
+		"deaths" : 1,
+		"population" : 8600
+		},
+	"McCone" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 1664
+		},
+	"Meagher" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 1862
+		},
+	"Mineral" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 4397
+		},
+	"Missoula" : {
+		"cases" : 99,
+		"deaths" : 1,
+		"population" : 119600
+		},
+	"Musselshell" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 4633
+		},
+	"Park" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 16606
+		},
+	"Petroleum" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 487
+		},
+	"Phillips" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 3954
+		},
+	"Pondera" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 5911
+		},
+	"Powder River" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 1682
+		},
+	"Powell" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 6890
+		},
+	"Prairie" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 1077
+		},
+	"Ravalli" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 43806
+		},
+	"Richland" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 10803
+		},
+	"Roosevelt" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 11004
+		},
+	"Rosebud" : {
+		"cases" : 10,
+		"deaths" : 1,
+		"population" : 8937
+		},
+	"Sanders" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 12113
+		},
+	"Sheridan" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 3309
+		},
+	"Silver Bow" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 34915
+		},
+	"Stillwater" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 9642
+		},
+	"Sweet Grass" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 3737
+		},
+	"Teton" : {
+		"cases" : 5,
+		"deaths" : "NaN",
+		"population" : 6147
+		},
+	"Toole" : {
+		"cases" : 31,
+		"deaths" : 6,
+		"population" : 4736
+		},
+	"Treasure" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 696
+		},
+	"Valley" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 7396
+		},
+	"Wheatland" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2126
+		},
+	"Wibaux" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 969
+		},
+	"Yellowstone" : {
+		"cases" : 203,
+		"deaths" : 4,
+		"population" : 161300
+		}
+}

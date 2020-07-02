@@ -1,0 +1,442 @@
+{
+	"Aitkin" : {
+		"cases" : 13,
+		"deaths" : 0,
+		"population" : 16202
+		},
+	"Anoka" : {
+		"cases" : 1990,
+		"deaths" : 103,
+		"population" : 330844
+		},
+	"Becker" : {
+		"cases" : 53,
+		"deaths" : 0,
+		"population" : 32504
+		},
+	"Beltrami" : {
+		"cases" : 27,
+		"deaths" : 0,
+		"population" : 44442
+		},
+	"Benton" : {
+		"cases" : 203,
+		"deaths" : 3,
+		"population" : 38451
+		},
+	"Big Stone" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 5269
+		},
+	"Blue Earth" : {
+		"cases" : 317,
+		"deaths" : 2,
+		"population" : 64013
+		},
+	"Brown" : {
+		"cases" : 23,
+		"deaths" : 2,
+		"population" : 25893
+		},
+	"Carlton" : {
+		"cases" : 81,
+		"deaths" : 0,
+		"population" : 35386
+		},
+	"Carver" : {
+		"cases" : 316,
+		"deaths" : 1,
+		"population" : 91042
+		},
+	"Cass" : {
+		"cases" : 11,
+		"deaths" : 2,
+		"population" : 28567
+		},
+	"Chippewa" : {
+		"cases" : 70,
+		"deaths" : 1,
+		"population" : 12441
+		},
+	"Chisago" : {
+		"cases" : 90,
+		"deaths" : 1,
+		"population" : 53887
+		},
+	"Clay" : {
+		"cases" : 545,
+		"deaths" : 37,
+		"population" : 58999
+		},
+	"Clearwater" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 8695
+		},
+	"Cook" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 5176
+		},
+	"Cottonwood" : {
+		"cases" : 130,
+		"deaths" : 0,
+		"population" : 11687
+		},
+	"Crow Wing" : {
+		"cases" : 100,
+		"deaths" : 11,
+		"population" : 62500
+		},
+	"Dakota" : {
+		"cases" : 2061,
+		"deaths" : 86,
+		"population" : 398552
+		},
+	"Dodge" : {
+		"cases" : 70,
+		"deaths" : 0,
+		"population" : 20087
+		},
+	"Douglas" : {
+		"cases" : 55,
+		"deaths" : 0,
+		"population" : 36009
+		},
+	"Faribault" : {
+		"cases" : 44,
+		"deaths" : 0,
+		"population" : 14553
+		},
+	"Fillmore" : {
+		"cases" : 24,
+		"deaths" : 0,
+		"population" : 20866
+		},
+	"Freeborn" : {
+		"cases" : 265,
+		"deaths" : 0,
+		"population" : 31255
+		},
+	"Goodhue" : {
+		"cases" : 111,
+		"deaths" : 8,
+		"population" : 46183
+		},
+	"Grant" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 6018
+		},
+	"Hennepin" : {
+		"cases" : 11308,
+		"deaths" : 761,
+		"population" : 1152425
+		},
+	"Houston" : {
+		"cases" : 17,
+		"deaths" : 0,
+		"population" : 19027
+		},
+	"Hubbard" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 20428
+		},
+	"Isanti" : {
+		"cases" : 56,
+		"deaths" : 0,
+		"population" : 37816
+		},
+	"Itasca" : {
+		"cases" : 63,
+		"deaths" : 12,
+		"population" : 45058
+		},
+	"Jackson" : {
+		"cases" : 53,
+		"deaths" : 0,
+		"population" : 10266
+		},
+	"Kanabec" : {
+		"cases" : 13,
+		"deaths" : 1,
+		"population" : 16239
+		},
+	"Kandiyohi" : {
+		"cases" : 564,
+		"deaths" : 1,
+		"population" : 42239
+		},
+	"Kittson" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 4552
+		},
+	"Koochiching" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 13311
+		},
+	"Lac qui Parle" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 7259
+		},
+	"Lake" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 10866
+		},
+	"Lake of the Woods" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 4045
+		},
+	"Le Sueur" : {
+		"cases" : 75,
+		"deaths" : 1,
+		"population" : 27703
+		},
+	"Lincoln" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 5896
+		},
+	"Lyon" : {
+		"cases" : 289,
+		"deaths" : 2,
+		"population" : 25857
+		},
+	"Mahnomen" : {
+		"cases" : 7,
+		"deaths" : 1,
+		"population" : 5413
+		},
+	"Marshall" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 9439
+		},
+	"Martin" : {
+		"cases" : 151,
+		"deaths" : 5,
+		"population" : 20840
+		},
+	"McLeod" : {
+		"cases" : 80,
+		"deaths" : 1,
+		"population" : 36651
+		},
+	"Meeker" : {
+		"cases" : 57,
+		"deaths" : 1,
+		"population" : 23300
+		},
+	"Mille Lacs" : {
+		"cases" : 31,
+		"deaths" : 1,
+		"population" : 26097
+		},
+	"Morrison" : {
+		"cases" : 57,
+		"deaths" : 1,
+		"population" : 33198
+		},
+	"Mower" : {
+		"cases" : 868,
+		"deaths" : 2,
+		"population" : 39163
+		},
+	"Murray" : {
+		"cases" : 47,
+		"deaths" : 0,
+		"population" : 8725
+		},
+	"Nicollet" : {
+		"cases" : 120,
+		"deaths" : 12,
+		"population" : 32727
+		},
+	"Nobles" : {
+		"cases" : 1643,
+		"deaths" : 6,
+		"population" : 21378
+		},
+	"Norman" : {
+		"cases" : 19,
+		"deaths" : 0,
+		"population" : 6852
+		},
+	"Olmsted" : {
+		"cases" : 970,
+		"deaths" : 15,
+		"population" : 144248
+		},
+	"Otter Tail" : {
+		"cases" : 86,
+		"deaths" : 1,
+		"population" : 57303
+		},
+	"Pennington" : {
+		"cases" : 50,
+		"deaths" : 0,
+		"population" : 13930
+		},
+	"Pine" : {
+		"cases" : 98,
+		"deaths" : 0,
+		"population" : 29750
+		},
+	"Pipestone" : {
+		"cases" : 16,
+		"deaths" : 0,
+		"population" : 9596
+		},
+	"Polk" : {
+		"cases" : 78,
+		"deaths" : 2,
+		"population" : 31600
+		},
+	"Pope" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 10995
+		},
+	"Ramsey" : {
+		"cases" : 4508,
+		"deaths" : 217,
+		"population" : 508640
+		},
+	"Red Lake" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 4089
+		},
+	"Redwood" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 16059
+		},
+	"Renville" : {
+		"cases" : 19,
+		"deaths" : 1,
+		"population" : 15730
+		},
+	"Rice" : {
+		"cases" : 780,
+		"deaths" : 4,
+		"population" : 64142
+		},
+	"Rock" : {
+		"cases" : 29,
+		"deaths" : 0,
+		"population" : 9687
+		},
+	"Roseau" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 15629
+		},
+	"Scott" : {
+		"cases" : 616,
+		"deaths" : 4,
+		"population" : 129928
+		},
+	"Sherburne" : {
+		"cases" : 283,
+		"deaths" : 4,
+		"population" : 88499
+		},
+	"Sibley" : {
+		"cases" : 37,
+		"deaths" : 2,
+		"population" : 15226
+		},
+	"St. Louis" : {
+		"cases" : 152,
+		"deaths" : 14,
+		"population" : 200226
+		},
+	"Stearns" : {
+		"cases" : 2156,
+		"deaths" : 19,
+		"population" : 150642
+		},
+	"Steele" : {
+		"cases" : 209,
+		"deaths" : 0,
+		"population" : 36576
+		},
+	"Stevens" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 9726
+		},
+	"Swift" : {
+		"cases" : 20,
+		"deaths" : 1,
+		"population" : 9783
+		},
+	"Todd" : {
+		"cases" : 395,
+		"deaths" : 2,
+		"population" : 24895
+		},
+	"Traverse" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 3558
+		},
+	"Wabasha" : {
+		"cases" : 28,
+		"deaths" : 0,
+		"population" : 21676
+		},
+	"Wadena" : {
+		"cases" : 15,
+		"deaths" : 0,
+		"population" : 13843
+		},
+	"Waseca" : {
+		"cases" : 51,
+		"deaths" : 0,
+		"population" : 19136
+		},
+	"Washington" : {
+		"cases" : 948,
+		"deaths" : 39,
+		"population" : 238136
+		},
+	"Watonwan" : {
+		"cases" : 186,
+		"deaths" : 0,
+		"population" : 11211
+		},
+	"Wilkin" : {
+		"cases" : 20,
+		"deaths" : 3,
+		"population" : 6576
+		},
+	"Winona" : {
+		"cases" : 110,
+		"deaths" : 15,
+		"population" : 51461
+		},
+	"Wright" : {
+		"cases" : 419,
+		"deaths" : 4,
+		"population" : 124700
+		},
+	"Yellow Medicine" : {
+		"cases" : 25,
+		"deaths" : 0,
+		"population" : 10438
+		},
+	"Unknown/missing" : {
+		"cases" : 81,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

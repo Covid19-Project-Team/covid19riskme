@@ -1,0 +1,47 @@
+{
+	"Fairfield" : {
+		"cases" : 16469,
+		"deaths" : 1360,
+		"population" : 916829
+		},
+	"Hartford" : {
+		"cases" : 11392,
+		"deaths" : 1344,
+		"population" : 894014
+		},
+	"Litchfield" : {
+		"cases" : 1467,
+		"deaths" : 135,
+		"population" : 189927
+		},
+	"Middlesex" : {
+		"cases" : 1258,
+		"deaths" : 172,
+		"population" : 165676
+		},
+	"New Haven" : {
+		"cases" : 12174,
+		"deaths" : 1060,
+		"population" : 862477
+		},
+	"New London" : {
+		"cases" : 1209,
+		"deaths" : 101,
+		"population" : 274055
+		},
+	"Tolland" : {
+		"cases" : 895,
+		"deaths" : 64,
+		"population" : 152691
+		},
+	"Windham" : {
+		"cases" : 575,
+		"deaths" : 14,
+		"population" : 118428
+		},
+	"Unknown " : {
+		"cases" : 276,
+		"deaths" : 0,
+		"population" : "NaN"
+		}
+}

@@ -1,0 +1,197 @@
+{
+	"Barrington" : {
+		"cases" : 53,
+		"deaths" : "NaN",
+		"population" : 16310
+		},
+	"Bristol" : {
+		"cases" : 131,
+		"deaths" : "NaN",
+		"population" : 22954
+		},
+	"Burrillville" : {
+		"cases" : 103,
+		"deaths" : "NaN",
+		"population" : 15955
+		},
+	"Central Falls" : {
+		"cases" : 918,
+		"deaths" : "NaN",
+		"population" : 19376
+		},
+	"Charlestown" : {
+		"cases" : 23,
+		"deaths" : "NaN",
+		"population" : 7827
+		},
+	"Coventry" : {
+		"cases" : 201,
+		"deaths" : "NaN",
+		"population" : 35014
+		},
+	"Cranston" : {
+		"cases" : 974,
+		"deaths" : "NaN",
+		"population" : 80387
+		},
+	"Cumberland" : {
+		"cases" : 291,
+		"deaths" : "NaN",
+		"population" : 33512
+		},
+	"East Greenwich" : {
+		"cases" : 84,
+		"deaths" : "NaN",
+		"population" : 13146
+		},
+	"East Providence" : {
+		"cases" : 740,
+		"deaths" : "NaN",
+		"population" : 47037
+		},
+	"Exeter" : {
+		"cases" : 39,
+		"deaths" : "NaN",
+		"population" : 6425
+		},
+	"Foster" : {
+		"cases" : 20,
+		"deaths" : "NaN",
+		"population" : 4606
+		},
+	"Glocester" : {
+		"cases" : 44,
+		"deaths" : "NaN",
+		"population" : 9934
+		},
+	"Hopkinton" : {
+		"cases" : 15,
+		"deaths" : "NaN",
+		"population" : 8188
+		},
+	"Jamestown" : {
+		"cases" : 13,
+		"deaths" : "NaN",
+		"population" : 5405
+		},
+	"Johnston" : {
+		"cases" : 451,
+		"deaths" : "NaN",
+		"population" : 28769
+		},
+	"Lincoln" : {
+		"cases" : 259,
+		"deaths" : "NaN",
+		"population" : 21105
+		},
+	"Little Compton" : {
+		"cases" : 13,
+		"deaths" : "NaN",
+		"population" : 3492
+		},
+	"Middletown" : {
+		"cases" : 51,
+		"deaths" : "NaN",
+		"population" : 16150
+		},
+	"Narragansett" : {
+		"cases" : 42,
+		"deaths" : "NaN",
+		"population" : 15868
+		},
+	"New Shoreham" : {
+		"cases" : 0,
+		"deaths" : "NaN",
+		"population" : 1051
+		},
+	"Newport" : {
+		"cases" : 91,
+		"deaths" : "NaN",
+		"population" : 24672
+		},
+	"North Kingstown" : {
+		"cases" : 237,
+		"deaths" : "NaN",
+		"population" : 26197
+		},
+	"North Providence" : {
+		"cases" : 738,
+		"deaths" : "NaN",
+		"population" : 32078
+		},
+	"North Smithfield" : {
+		"cases" : 121,
+		"deaths" : "NaN",
+		"population" : 12314
+		},
+	"Pawtucket" : {
+		"cases" : 1583,
+		"deaths" : "NaN",
+		"population" : 71148
+		},
+	"Portsmouth" : {
+		"cases" : 50,
+		"deaths" : "NaN",
+		"population" : 17389
+		},
+	"Providence" : {
+		"cases" : 5735,
+		"deaths" : "NaN",
+		"population" : 178042
+		},
+	"Richmond" : {
+		"cases" : 26,
+		"deaths" : "NaN",
+		"population" : 7708
+		},
+	"Scituate" : {
+		"cases" : 42,
+		"deaths" : "NaN",
+		"population" : 10329
+		},
+	"Smithfield" : {
+		"cases" : 264,
+		"deaths" : "NaN",
+		"population" : 21430
+		},
+	"South Kingstown" : {
+		"cases" : 92,
+		"deaths" : "NaN",
+		"population" : 30639
+		},
+	"Tiverton" : {
+		"cases" : 90,
+		"deaths" : "NaN",
+		"population" : 15780
+		},
+	"Warren" : {
+		"cases" : 69,
+		"deaths" : "NaN",
+		"population" : 10611
+		},
+	"Warwick" : {
+		"cases" : 614,
+		"deaths" : "NaN",
+		"population" : 82672
+		},
+	"West Greenwich" : {
+		"cases" : 20,
+		"deaths" : "NaN",
+		"population" : 6135
+		},
+	"West Warwick" : {
+		"cases" : 280,
+		"deaths" : "NaN",
+		"population" : 29191
+		},
+	"Westerly" : {
+		"cases" : 58,
+		"deaths" : "NaN",
+		"population" : 22787
+		},
+	"Woonsocket" : {
+		"cases" : 654,
+		"deaths" : "NaN",
+		"population" : 41186
+		}
+}

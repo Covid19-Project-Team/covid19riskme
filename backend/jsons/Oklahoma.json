@@ -1,0 +1,387 @@
+{
+	"Adair" : {
+		"cases" : 110,
+		"deaths" : 4,
+		"population" : 22683
+		},
+	"Alfalfa" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 5642
+		},
+	"Atoka" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 14182
+		},
+	"Beaver" : {
+		"cases" : 30,
+		"deaths" : 0,
+		"population" : 5636
+		},
+	"Beckham" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 22119
+		},
+	"Blaine" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 11943
+		},
+	"Bryan" : {
+		"cases" : 75,
+		"deaths" : 1,
+		"population" : 42416
+		},
+	"Caddo" : {
+		"cases" : 182,
+		"deaths" : 10,
+		"population" : 29600
+		},
+	"Canadian" : {
+		"cases" : 218,
+		"deaths" : 3,
+		"population" : 115541
+		},
+	"Carter" : {
+		"cases" : 75,
+		"deaths" : 1,
+		"population" : 47557
+		},
+	"Cherokee" : {
+		"cases" : 68,
+		"deaths" : 1,
+		"population" : 46987
+		},
+	"Choctaw" : {
+		"cases" : 108,
+		"deaths" : 1,
+		"population" : 15205
+		},
+	"Cimarron" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 2475
+		},
+	"Cleveland" : {
+		"cases" : 735,
+		"deaths" : 40,
+		"population" : 255755
+		},
+	"Coal" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 5925
+		},
+	"Comanche" : {
+		"cases" : 381,
+		"deaths" : 5,
+		"population" : 124098
+		},
+	"Cotton" : {
+		"cases" : 5,
+		"deaths" : 2,
+		"population" : 6193
+		},
+	"Craig" : {
+		"cases" : 18,
+		"deaths" : 0,
+		"population" : 15029
+		},
+	"Creek" : {
+		"cases" : 128,
+		"deaths" : 7,
+		"population" : 69967
+		},
+	"Custer" : {
+		"cases" : 51,
+		"deaths" : 0,
+		"population" : 27469
+		},
+	"Delaware" : {
+		"cases" : 119,
+		"deaths" : 16,
+		"population" : 41487
+		},
+	"Dewey" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 4810
+		},
+	"Ellis" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 4151
+		},
+	"Garfield" : {
+		"cases" : 62,
+		"deaths" : 2,
+		"population" : 60580
+		},
+	"Garvin" : {
+		"cases" : 52,
+		"deaths" : 1,
+		"population" : 27576
+		},
+	"Grady" : {
+		"cases" : 124,
+		"deaths" : 5,
+		"population" : 52431
+		},
+	"Grant" : {
+		"cases" : 2,
+		"deaths" : 0,
+		"population" : 4527
+		},
+	"Greer" : {
+		"cases" : 66,
+		"deaths" : 7,
+		"population" : 6239
+		},
+	"Harmon" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 2922
+		},
+	"Harper" : {
+		"cases" : 1,
+		"deaths" : 0,
+		"population" : 3685
+		},
+	"Haskell" : {
+		"cases" : 7,
+		"deaths" : 0,
+		"population" : 12769
+		},
+	"Hughes" : {
+		"cases" : 6,
+		"deaths" : 0,
+		"population" : 14003
+		},
+	"Jackson" : {
+		"cases" : 33,
+		"deaths" : 3,
+		"population" : 26446
+		},
+	"Jefferson" : {
+		"cases" : 4,
+		"deaths" : 0,
+		"population" : 6472
+		},
+	"Johnston" : {
+		"cases" : 10,
+		"deaths" : 0,
+		"population" : 10957
+		},
+	"Kay" : {
+		"cases" : 83,
+		"deaths" : 7,
+		"population" : 46562
+		},
+	"Kingfisher" : {
+		"cases" : 21,
+		"deaths" : 0,
+		"population" : 15034
+		},
+	"Kiowa" : {
+		"cases" : 6,
+		"deaths" : 1,
+		"population" : 9446
+		},
+	"Latimer" : {
+		"cases" : 7,
+		"deaths" : 1,
+		"population" : 11154
+		},
+	"Le Flore" : {
+		"cases" : 29,
+		"deaths" : 1,
+		"population" : 50384
+		},
+	"Lincoln" : {
+		"cases" : 28,
+		"deaths" : 2,
+		"population" : 34273
+		},
+	"Logan" : {
+		"cases" : 35,
+		"deaths" : 1,
+		"population" : 41848
+		},
+	"Love" : {
+		"cases" : 27,
+		"deaths" : 0,
+		"population" : 9423
+		},
+	"Major" : {
+		"cases" : 8,
+		"deaths" : 1,
+		"population" : 7527
+		},
+	"Marshall" : {
+		"cases" : 25,
+		"deaths" : 0,
+		"population" : 15840
+		},
+	"Mayes" : {
+		"cases" : 71,
+		"deaths" : 4,
+		"population" : 41259
+		},
+	"McClain" : {
+		"cases" : 133,
+		"deaths" : 4,
+		"population" : 34506
+		},
+	"McCurtain" : {
+		"cases" : 363,
+		"deaths" : 2,
+		"population" : 33151
+		},
+	"McIntosh" : {
+		"cases" : 43,
+		"deaths" : 1,
+		"population" : 20252
+		},
+	"Murray" : {
+		"cases" : 14,
+		"deaths" : 0,
+		"population" : 13488
+		},
+	"Muskogee" : {
+		"cases" : 102,
+		"deaths" : 9,
+		"population" : 70990
+		},
+	"Noble" : {
+		"cases" : 31,
+		"deaths" : 0,
+		"population" : 11561
+		},
+	"Nowata" : {
+		"cases" : 32,
+		"deaths" : 1,
+		"population" : 10536
+		},
+	"Okfuskee" : {
+		"cases" : 11,
+		"deaths" : 0,
+		"population" : 12191
+		},
+	"Oklahoma" : {
+		"cases" : 2317,
+		"deaths" : 65,
+		"population" : 718633
+		},
+	"Okmulgee" : {
+		"cases" : 50,
+		"deaths" : 0,
+		"population" : 40069
+		},
+	"Osage" : {
+		"cases" : 155,
+		"deaths" : 8,
+		"population" : 47472
+		},
+	"Ottawa" : {
+		"cases" : 43,
+		"deaths" : 2,
+		"population" : 31848
+		},
+	"Pawnee" : {
+		"cases" : 51,
+		"deaths" : 2,
+		"population" : 16577
+		},
+	"Payne" : {
+		"cases" : 294,
+		"deaths" : 1,
+		"population" : 77350
+		},
+	"Pittsburg" : {
+		"cases" : 51,
+		"deaths" : 3,
+		"population" : 45837
+		},
+	"Pontotoc" : {
+		"cases" : 29,
+		"deaths" : 2,
+		"population" : 37492
+		},
+	"Pottawatomie" : {
+		"cases" : 89,
+		"deaths" : 4,
+		"population" : 69442
+		},
+	"Pushmataha" : {
+		"cases" : 8,
+		"deaths" : 0,
+		"population" : 11572
+		},
+	"Roger Mills" : {
+		"cases" : 0,
+		"deaths" : 0,
+		"population" : 3647
+		},
+	"Rogers" : {
+		"cases" : 142,
+		"deaths" : 5,
+		"population" : 86905
+		},
+	"Seminole" : {
+		"cases" : 35,
+		"deaths" : 3,
+		"population" : 25482
+		},
+	"Sequoyah" : {
+		"cases" : 28,
+		"deaths" : 3,
+		"population" : 42391
+		},
+	"Stephens" : {
+		"cases" : 50,
+		"deaths" : 1,
+		"population" : 45048
+		},
+	"Texas" : {
+		"cases" : 983,
+		"deaths" : 6,
+		"population" : 20640
+		},
+	"Tillman" : {
+		"cases" : 23,
+		"deaths" : 1,
+		"population" : 7992
+		},
+	"Tulsa" : {
+		"cases" : 2742,
+		"deaths" : 66,
+		"population" : 603403
+		},
+	"Wagoner" : {
+		"cases" : 223,
+		"deaths" : 18,
+		"population" : 73085
+		},
+	"Washington" : {
+		"cases" : 385,
+		"deaths" : 38,
+		"population" : 50976
+		},
+	"Washita" : {
+		"cases" : 3,
+		"deaths" : 0,
+		"population" : 11629
+		},
+	"Woods" : {
+		"cases" : 5,
+		"deaths" : 0,
+		"population" : 8878
+		},
+	"Woodward" : {
+		"cases" : 12,
+		"deaths" : 0,
+		"population" : 20081
+		}
+}
