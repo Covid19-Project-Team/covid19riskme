@@ -8,3 +8,5 @@
 * [Discord](https://discord.com/channels/727320521305358386/727320521305358389)
 * [GitHub](https://github.com/Covid19-Project-Team/covid19riskme)
 * [Google Doc](https://docs.google.com/drawings/d/1Q-FlzLttCuMC7XQk2g7sym9d7CTVxbL8TlVsdWcs-Bk/edit)
+
+:)
